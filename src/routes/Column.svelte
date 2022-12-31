@@ -15,13 +15,14 @@
 </style>
 
 <script lang="ts">
-  let className;
+  export let contentClass = '';
+  let className = '';
   export { className as class };
 </script>
 
 <div class={`column ${className}`}>
   <div class="left"></div>
-  <div class="middle">
+  <div class={`middle ${contentClass}`}>
     <slot />
   </div>
   <div class="right"></div>

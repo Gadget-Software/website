@@ -3,10 +3,10 @@
   import NavBar from "./NavBar.svelte";
 </script>
 
-<div class="fixed top-0 w-full">
+<div class="sm:fixed top-0 w-full z-10">
   <NavBar />
 </div>
 
-<div class="mt-20">
+<div class="sm:mt-20">
   <slot />
 </div>
