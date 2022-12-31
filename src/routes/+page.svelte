@@ -120,7 +120,7 @@
 
 <div class="bg-white">
   <Column class="pt-10 pb-10">
-    <div class="flex flex-row justify-between items-start">
+    <div class="flex flex-col-reverse justify-between gap-4 items-center md:flex-row md:items-start">
       <div>
         <Logo/>
         <p>Not just any software, your software</p>
