@@ -49,11 +49,11 @@
     </iframe>
 
     <section class="flex flex-col gap-4 mt-12 items-center">
-      <div class="w-full">
+      <div class="w-full text-center md:text-left">
         <h2 id="our-services">Our Services</h2>
       </div>
       <div
-        class="flex flex-col md:flex-row md:justify-between items-center md:items-end gap-4 md:gap-16 text-center md:text-left max-w-sm md:max-w-full">
+        class="flex flex-col md:flex-row md:justify-between items-center md:items-end gap-4 md:gap-16 text-center md:text-left max-w-sm md:max-w-full w-full">
         <p class="big-text md:w-2/3">Custom software to expand your business</p>
         <button class="btn min-w-fit">Book a consultation</button>
       </div>
