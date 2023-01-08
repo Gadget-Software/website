@@ -8,6 +8,10 @@
   const year = new Date().getFullYear();
 </script>
 
+<svelte:head>
+  <title>Gadget Software</title>
+</svelte:head>
+
 <div class="bg-cyan-900 text-white">
   <Column class="text-center">
     <div class="mt-8 md:mt-20 mb-8 md:mb-20 flex flex-col gap-3 max-w-screen-sm mx-auto">
