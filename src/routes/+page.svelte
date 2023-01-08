@@ -4,6 +4,7 @@
   import Logo from "./Logo.svelte";
   import Fa from "svelte-fa/src/fa.svelte";
   import {faChartLine, faEnvelope, faHandshake, faUser} from "@fortawesome/free-solid-svg-icons";
+  import sanath from '../../static/sanath-pic-min.jpg';
 
   const year = new Date().getFullYear();
 </script>
@@ -93,7 +94,8 @@
         <div>
           <img
             class="rounded-full w-20 border-2 border-white"
-            src="https://media.licdn.com/dms/image/C4E03AQGOUL0D3_76ug/profile-displayphoto-shrink_800_800/0/1563301482920?e=1677715200&v=beta&t=nxknty6CFJOBKLhHhw-PQmWBskg3v9GU921gjzS7x9o"/>
+            alt="Nice picture of Sanath Sambamoorthi"
+            src="/sanath-pic-min.jpg" />
         </div>
         <div>
           <p>Sanath Sambamoorthi</p>
@@ -123,7 +125,7 @@
     <div class="flex flex-col-reverse justify-between gap-4 items-center md:flex-row md:items-start">
       <div>
         <Logo/>
-        <p>Not just any software, your software</p>
+        <p class="mt-4">Not just any software, your software</p>
         <p>&copy; {year} Gadget Software</p>
       </div>
       <a
