@@ -45,7 +45,7 @@ jobs:
       - uses: actions/download-artifact@master
         with:
           name: build
-          path: .
+          path: './build'
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Upload artifact
