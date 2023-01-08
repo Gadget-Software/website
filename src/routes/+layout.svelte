@@ -1,9 +1,4 @@
 <script>
-  export const prerender = true;
-  export const ssr = true;
-  export const csr = false;
-  export const trailingSlash = true;
-
   import '../app.scss';
   import NavBar from "./NavBar.svelte";
 </script>
