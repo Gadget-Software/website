@@ -4,7 +4,6 @@
   import Logo from "./Logo.svelte";
   import Fa from "svelte-fa/src/fa.svelte";
   import {faChartLine, faEnvelope, faHandshake, faUser} from "@fortawesome/free-solid-svg-icons";
-  import sanath from '../../static/sanath-pic-min.jpg';
 
   const year = new Date().getFullYear();
 </script>
@@ -75,32 +74,30 @@
 </div>
 
 <section class="bg-cyan-600 text-white py-10 md:py-20">
-  <Column>
-    <div class="max-w-screen-sm flex flex-col gap-4">
-      <h2 id="about-us">About Us</h2>
-      <p class="big-text">
-        Domain experts coming together to deliver unique solutions.
-      </p>
-      <p>
-        Our team is composed of a close group of friends passionate for
-        software solution.
-      </p>
-      <p>
-        Our combined knowledge of software through each of our own journeys
-        in the industry allow us to identify problems in your business and
-        develop unique solutions for them.
-      </p>
-      <div class="flex flex-row justify-start items-center gap-5">
-        <div>
-          <img
-            class="rounded-full w-20 border-2 border-white"
-            alt="Nice picture of Sanath Sambamoorthi"
-            src="/sanath-pic-min.jpg" />
-        </div>
-        <div>
-          <p>Sanath Sambamoorthi</p>
-          <p>Project Manager at Gadget Software</p>
-        </div>
+  <Column contentClass="max-w-screen-sm flex flex-col gap-4">
+    <h2 id="about-us">About Us</h2>
+    <p class="big-text">
+      Domain experts coming together to deliver unique solutions.
+    </p>
+    <p>
+      Our team is composed of a close group of friends passionate for
+      software solution.
+    </p>
+    <p>
+      Our combined knowledge of software through each of our own journeys
+      in the industry allow us to identify problems in your business and
+      develop unique solutions for them.
+    </p>
+    <div class="flex flex-row justify-start items-center gap-5">
+      <div>
+        <img
+          class="rounded-full w-20 border-2 border-white"
+          alt="Nice picture of Sanath Sambamoorthi"
+          src="/sanath-pic-min.jpg" />
+      </div>
+      <div>
+        <p>Sanath Sambamoorthi</p>
+        <p>Project Manager at Gadget Software</p>
       </div>
     </div>
   </Column>
