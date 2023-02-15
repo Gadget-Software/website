@@ -29,9 +29,9 @@
             </li>
           {/each}
         </ul>
-        <button class="btn">
+        <a href="/#book-a-call" class="btn">
           Book a consultation
-        </button>
+        </a>
       </div>
       <button class="md:hidden text-2xl" on:click={toggle}>
         <Fa icon={faBars} />

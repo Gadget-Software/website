@@ -31,9 +31,9 @@
         <button class="btn alt">
           Services
         </button>
-        <button class="btn">
+        <a href="/#book-a-call" class="btn">
           Book a consultation
-        </button>
+        </a>
       </p>
     </div>
     <div class="h-56"></div>
@@ -59,7 +59,7 @@
       <div
         class="flex flex-col md:flex-row md:justify-between items-center md:items-end gap-4 md:gap-16 text-center md:text-left max-w-sm md:max-w-full w-full">
         <p class="big-text md:w-2/3">Custom software to expand your business</p>
-        <button class="btn min-w-fit">Book a consultation</button>
+        <a href="/#book-a-call" class="btn min-w-fit">Book a consultation</a>
       </div>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-4 max-w-sm md:max-w-full">
         <ServiceCard
@@ -109,9 +109,9 @@
   </Column>
 
   <Column contentClass="flex flex-col gap-8 mt-20">
-    <p class="big-text alt text-center">
+    <h2 id="book-a-call" class="big-text alt text-center">
       Get in touch <strong>today</strong>
-    </p>
+    </h2>
     <!-- Calendly inline widget begin -->
     <div
       class="calendly-inline-widget h-[700px] min-w-[320px] relative rounded-2xl"
