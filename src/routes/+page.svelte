@@ -28,9 +28,9 @@
       </p>
 
       <p class="flex gap-6 justify-center">
-        <button class="btn alt">
+        <a href="/#our-services" class="btn alt">
           Services
-        </button>
+        </a>
         <a href="/#book-a-call" class="btn">
           Book a consultation
         </a>

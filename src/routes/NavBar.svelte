@@ -5,28 +5,29 @@
   import {faBars} from "@fortawesome/free-solid-svg-icons";
 
   const links: { title: string, url: string }[] = [
-    { title: 'Our Services', url: '/#our-services' },
-    { title: 'About Us', url: '/#about-us' },
+    { title: 'Testimonials', url: '/testimonials', always: true },
+    { title: 'Services', url: '/#our-services' },
+    { title: 'About', url: '/#about-us', always: true },
   ];
 </script>
 
-<div class="w-full h-20 bg-white">
-  <Column class="h-full">
-    <div class="flex flex-row justify-between items-center h-full">
-      <div >
+<div class="w-full bg-white">
+  <Column wider={true}>
+    <div class="h-20 px-4 flex justify-between md:justify-center items-center">
+      <div class="w-full h-full flex flex-row gap-8 justify-between items-center">
         <Logo />
-      </div>
-      <div class="hidden md:flex flex-row justify-between items-center gap-8">
-        <ul class="flex gap-8">
-          {#each links as link}
-            <li>
-              <a href={link.url}>{link.title}</a>
-            </li>
-          {/each}
-        </ul>
-        <a href="/#book-a-call" class="btn">
-          Book a consultation
-        </a>
+        <nav class="hidden md:flex flex-row justify-between items-center gap-8">
+          <ul class="flex gap-8">
+            {#each links as link}
+              <li class:hidden={!link.always} class="lg:flex">
+                <a href={link.url}>{link.title}</a>
+              </li>
+            {/each}
+          </ul>
+          <a href="/#book-a-call" class="btn">
+            Book a consultation
+          </a>
+        </nav>
       </div>
       <button id="mobile-menu-button" role="button" class="md:hidden text-2xl">
         <Fa icon={faBars} />
@@ -35,7 +36,7 @@
   </Column>
 </div>
 
-<div id="mobile-menu" class="text-center bg-white hidden">
+<nav id="mobile-menu" class="text-center bg-white hidden">
   <ul class="flex flex-col text-center w-full">
     {#each links as link}
       <li class="py-2 border-t-[1px] border-t-gray-300">
@@ -43,4 +44,4 @@
       </li>
     {/each}
   </ul>
-</div>
+</nav>
