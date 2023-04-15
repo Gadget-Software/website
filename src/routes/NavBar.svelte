@@ -12,7 +12,7 @@
 </script>
 
 <div class="w-full bg-white">
-  <Column wider={true}>
+  <Column wider>
     <div class="h-20 px-4 flex justify-between md:justify-center items-center">
       <div class="w-full h-full flex flex-row gap-8 justify-between items-center">
         <Logo />
