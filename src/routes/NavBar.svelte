@@ -4,21 +4,16 @@
   import Fa from "svelte-fa/src/fa.svelte";
   import {faBars} from "@fortawesome/free-solid-svg-icons";
 
-  let open = false;
   const links: { title: string, url: string }[] = [
     { title: 'Our Services', url: '/#our-services' },
     { title: 'About Us', url: '/#about-us' },
   ];
-
-  function toggle() {
-    open = !open;
-  }
 </script>
 
 <div class="w-full h-20 bg-white">
   <Column class="h-full">
     <div class="flex flex-row justify-between items-center h-full">
-      <div>
+      <div >
         <Logo />
       </div>
       <div class="hidden md:flex flex-row justify-between items-center gap-8">
@@ -33,18 +28,18 @@
           Book a consultation
         </a>
       </div>
-      <button class="md:hidden text-2xl" on:click={toggle}>
+      <button id="mobile-menu-button" role="button" class="md:hidden text-2xl">
         <Fa icon={faBars} />
       </button>
     </div>
   </Column>
 </div>
 
-<div class="text-center bg-white" class:hidden={!open} class:flex={open}>
+<div id="mobile-menu" class="text-center bg-white hidden">
   <ul class="flex flex-col text-center w-full">
     {#each links as link}
       <li class="py-2 border-t-[1px] border-t-gray-300">
-        <a href={link.url} on:click={toggle}>{link.title}</a>
+        <a href={link.url}>{link.title}</a>
       </li>
     {/each}
   </ul>
