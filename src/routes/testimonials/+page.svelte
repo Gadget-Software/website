@@ -60,8 +60,8 @@
               business instead of worrying about our software.
             </p>
             <figcaption class="text-right italic pr-16">
-              John Doe<br />
-              CEO, Fruchtbote
+              Daniel Gepp<br />
+              Fruchtbote
             </figcaption>
           </figure>
         </div>
