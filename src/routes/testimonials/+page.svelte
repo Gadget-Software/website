@@ -4,6 +4,8 @@
   import Logo from "../Logo.svelte";
   import Fa from "svelte-fa/src/fa.svelte";
   import {faChartLine, faEnvelope, faHandshake, faUser} from "@fortawesome/free-solid-svg-icons";
+  import VideoTestimonialCard from "./VideoTestimonialCard.svelte";
+  import TestimonialCard from "./TestimonialCard.svelte";
 
   const year = new Date().getFullYear();
 </script>
@@ -42,43 +44,41 @@
       Case studies
     </h2>
 
-    <div class="flex flex-col gap-8 mt-10">
-      <div class="flex flex-col md:flex-row-reverse gap-8 p-8 bg-white rounded shadow">
-        <div class="w-1/2 flex flex-col gap-4">
-          <h3 class="font-bold text-cyan-800 text-lg">
-            Fruchtbote, fruit shipping business
-          </h3>
-          <figure class="flex flex-col gap-4">
-            <p>
-              Fruchtbote is a startup that delivers fresh fruits and vegetables
-              to customers in Berlin. They needed a custom software solution to
-              automate their business processes and increase their efficiency.
-            </p>
-            <p>
-              Gadget Software helped us to grow our business by 30% in the first
-              year of our partnership. We are now able to focus on our core
-              business instead of worrying about our software.
-            </p>
-            <figcaption class="text-right italic pr-16">
-              Daniel Gepp<br />
-              Fruchtbote
-            </figcaption>
-          </figure>
-        </div>
+    <VideoTestimonialCard
+      title="Fruchtbote, fruit shipping business"
+      videoId="xkzmm07zSuo"
+    >
+      <figure class="flex flex-col gap-4">
+        <p>
+          Fruchtbote is a startup that delivers fresh fruits and vegetables
+          to customers in Berlin. They needed a custom software solution to
+          automate their business processes and increase their efficiency.
+        </p>
+        <p>
+          Gadget Software helped us to grow our business by 30% in the first
+          year of our partnership. We are now able to focus on our core
+          business instead of worrying about our software.
+        </p>
+        <figcaption class="text-right italic pr-16">
+          Daniel Gepp<br />
+          Fruchtbote
+        </figcaption>
+      </figure>
+    </VideoTestimonialCard>
 
-        <div class="w-1/2">
-          <iframe
-            class="w-full aspect-video rounded "
-            src="https://www.youtube-nocookie.com/embed/cwL3FKupkWs?controls=0"
-            title="YouTube video player"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-          >
-          </iframe>
-        </div>
-      </div>
-    </div>
+    <TestimonialCard title="Mass message sending scripts">
+      <figure class="flex flex-col gap-4">
+        <p>
+          I needed a custom software solution to automate sending messages to
+          all my contacts on the Japanese messaging app LINE. Gadget Software
+          delivered multiple scripts that work perfectly and save me a lot of
+          time every week.
+        </p>
+        <figcaption class="text-right italic pr-16">
+          Paul
+        </figcaption>
+      </figure>
+    </TestimonialCard>
   </Column>
 </section>
 
