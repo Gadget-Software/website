@@ -1,9 +1,8 @@
 <script>
   import Column from "../Column.svelte";
-  import ServiceCard from "../ServiceCard.svelte";
   import Logo from "../Logo.svelte";
   import Fa from "svelte-fa/src/fa.svelte";
-  import {faChartLine, faEnvelope, faHandshake, faUser} from "@fortawesome/free-solid-svg-icons";
+  import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
   import VideoTestimonialCard from "./VideoTestimonialCard.svelte";
   import TestimonialCard from "./TestimonialCard.svelte";
 
@@ -69,13 +68,27 @@
     <TestimonialCard title="Mass message sending scripts">
       <figure class="flex flex-col gap-4">
         <p>
-          I needed a custom software solution to automate sending messages to
-          all my contacts on the Japanese messaging app LINE. Gadget Software
-          delivered multiple scripts that work perfectly and save me a lot of
-          time every week.
+          I decided to automate part of my workflow because I often didn't have enough time to complete it manually.
+          Even when I had the time, it was tedious work that I dreaded.
+        </p>
+        <p>
+          I chose Gadget Software because of their fast response time for the initial quote, for starting the work and
+          for delivering the first release of the software.
+        </p>
+        <p>
+          Compared to other offerings, I liked the fact that they agreed to sell the software as a product, including
+          the source code, as opposed to SaaS with closed-off source code.
+        </p>
+        <p>
+          The software freed up some of my time, enabling me to relax or focus on aspects that currently can't be
+          automated.
+        </p>
+        <p>
+          Even though the initial objective was achieved, I keep working with Gadget Software for adding new features
+          and functions to the software.
         </p>
         <figcaption class="text-right italic pr-16">
-          Paul
+          Promoter group in Tokyo
         </figcaption>
       </figure>
     </TestimonialCard>
@@ -112,7 +125,7 @@
         <span class="text-2xl">
           <Fa icon={faEnvelope} />
         </span>
-        Send us an email<br/>sanath@gadget-software.tech
+        Send us an email<br />sanath@gadget-software.tech
       </a>
     </div>
   </Column>
