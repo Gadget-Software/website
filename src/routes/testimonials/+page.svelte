@@ -44,19 +44,24 @@
     </h2>
 
     <VideoTestimonialCard
-      title="Fruchtbote, fruit shipping business"
+      title="Order fulfillment automation for an e-commerce business"
       videoId="xkzmm07zSuo"
     >
       <figure class="flex flex-col gap-4">
         <p>
-          Fruchtbote is a startup that delivers fresh fruits and vegetables
-          to customers in Berlin. They needed a custom software solution to
-          automate their business processes and increase their efficiency.
+          Our company Fruchtbote is a German e-commerce business.  We specialize
+          in the delivery of fresh raw fruits in Europe especially for the German
+          market.
         </p>
         <p>
-          Gadget Software helped us to grow our business by 30% in the first
-          year of our partnership. We are now able to focus on our core
-          business instead of worrying about our software.
+          We worked together with Gadget Software to automate our fulfillment
+          process and improve the efficiency in our day to day business.  Before
+          that we used pen and paper for employees during the fulfillment
+          process, which led to errors and huge time expenditure.
+        </p>
+        <p>
+          Since working with Gadget Software we could save 4x the time and
+          valuable resources.
         </p>
         <figcaption class="text-right italic pr-16">
           Daniel Gepp<br />
@@ -65,7 +70,7 @@
       </figure>
     </VideoTestimonialCard>
 
-    <TestimonialCard title="Mass message sending scripts">
+    <TestimonialCard title="Mass message sending scripts for a promoter group in Tokyo">
       <figure class="flex flex-col gap-4">
         <p>
           I decided to automate part of my workflow because I often didn't have enough time to complete it manually.
