@@ -5,6 +5,7 @@
   import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
   import VideoTestimonialCard from "./VideoTestimonialCard.svelte";
   import TestimonialCard from "./TestimonialCard.svelte";
+  import GifTestimonialCard from "./GifTestimonialCard.svelte";
 
   const year = new Date().getFullYear();
 </script>
@@ -97,6 +98,28 @@
         </figcaption>
       </figure>
     </TestimonialCard>
+
+    <GifTestimonialCard
+      title="Custom topic-aware chatbot"
+      gifSrc="mitama.gif"
+      gifAlt="Chatbot in action being asked a couple questions in different contexts"
+    >
+      <figure class="flex flex-col gap-4">
+        <p>
+          We were in search of a chatbot for our NFT project that would
+          communicate with our users when messaged on Discord. We had content,
+          but not enough to "train" an AI model on, which we thought was a major
+          challenge. Gadget Software offered a custom, bleeding edge solution
+          that mixed a small dataset of related content with the quality of
+          answers from ChatGPT to give us an AI Chatbot personality that sounded
+          exactly like we wanted.
+        </p>
+        <figcaption class="text-right italic pr-16">
+          CEO,<br />
+          Mitama
+        </figcaption>
+      </figure>
+    </GifTestimonialCard>
   </Column>
 </section>
 

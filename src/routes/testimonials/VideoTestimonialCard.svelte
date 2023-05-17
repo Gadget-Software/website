@@ -1,6 +1,8 @@
 <script lang="ts">
   export let title: string;
   export let videoId: string;
+  export let autoplay = false;
+  export let loop = false;
 </script>
 
 <div class="flex flex-col gap-8 mt-10">
@@ -17,7 +19,7 @@
     <div class="w-1/2">
       <iframe
         class="w-full aspect-video rounded "
-        src={`https://www.youtube-nocookie.com/embed/${videoId}?controls=0`}
+        src={`https://www.youtube-nocookie.com/embed/${videoId}?controls=0&autoplay=${autoplay ? 1 : 0}&loop=${loop ? 1 : 0}`}
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
