@@ -104,7 +104,7 @@
         </div>
         <div>
           <p><strong>Sanath Sambamoorthi</strong></p>
-          <p class="text-sm">Project Manager</p>
+          <p class="text-sm">Manager</p>
         </div>
       </div>
       <div class="flex flex-row justify-start items-center gap-5">
