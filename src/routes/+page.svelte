@@ -65,7 +65,7 @@
         <ServiceCard
           icon={faUser}
           title="Custom solutions"
-          text="Off-the-shelf solutions often do not consider the specific nuances of your own business in the slightest, our solutions are completely unique to your context"/>
+          text="Off-the-shelf solutions do not consider the specific nuances of your own business in the slightest, our solutions are completely unique to your context"/>
         <ServiceCard
           icon={faChartLine}
           title="Optimize your resources"
@@ -86,13 +86,13 @@
       Domain experts coming together to deliver unique solutions.
     </p>
     <p>
-      Our team is composed of a close group of friends passionate for
-      software solution.
+      Our team is composed of a close-knit group of friends passionate about
+      software solutions.
     </p>
     <p>
-      Our combined knowledge of software through each of our own journeys
-      in the industry allow us to identify problems in your business and
-      develop unique solutions for them.
+      Our combined knowledge of software, acquired through our individual
+      journeys in the industry, allows us to identify problems in your business
+      and develop unique solutions for them.
     </p>
     <div class="flex gap-2 justify-between">
       <div class="flex flex-row justify-start items-center gap-5">
