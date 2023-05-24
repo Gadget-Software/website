@@ -94,16 +94,30 @@
       in the industry allow us to identify problems in your business and
       develop unique solutions for them.
     </p>
-    <div class="flex flex-row justify-start items-center gap-5">
-      <div>
-        <img
-          class="rounded-full w-20 border-2 border-white"
-          alt="Nice picture of Sanath Sambamoorthi"
-          src="/sanath-pic-min.jpg" />
+    <div class="flex gap-2 justify-between">
+      <div class="flex flex-row justify-start items-center gap-5">
+        <div>
+          <img
+            class="rounded-full w-20 border-2 border-white"
+            alt="Picture of Sanath Sambamoorthi, Project Manager at Gadget Software"
+            src="/sanath-pic-min.jpg" />
+        </div>
+        <div>
+          <p><strong>Sanath Sambamoorthi</strong></p>
+          <p class="text-sm">Project Manager</p>
+        </div>
       </div>
-      <div>
-        <p>Sanath Sambamoorthi</p>
-        <p>Project Manager at Gadget Software</p>
+      <div class="flex flex-row justify-start items-center gap-5">
+        <div>
+          <img
+            class="rounded-full w-20 border-2 border-white"
+            alt="Picture of Eduardo Lavaque, Project Manager at Gadget Software"
+            src="/eduan-pic-min.jpg" />
+        </div>
+        <div>
+          <p><strong>Eduardo Lavaque</strong></p>
+          <p class="text-sm">Lead Software Engineer</p>
+        </div>
       </div>
     </div>
   </Column>
