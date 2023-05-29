@@ -115,8 +115,7 @@
           exactly like we wanted.
         </p>
         <figcaption class="text-right italic pr-16">
-          CEO,<br />
-          Mitama
+          Mitama Mint Team
         </figcaption>
       </figure>
     </GifTestimonialCard>
