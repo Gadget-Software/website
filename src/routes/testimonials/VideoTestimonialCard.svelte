@@ -7,7 +7,7 @@
 
 <div class="flex flex-col gap-8 mt-10">
   <div class="flex flex-col md:flex-row-reverse gap-8 p-8 bg-white rounded shadow">
-    <div class="w-1/2 flex flex-col gap-4">
+    <div class="md:w-1/2 flex flex-col gap-4">
       <h3 class="font-bold text-cyan-800 text-lg">
         {title}
       </h3>
@@ -16,7 +16,7 @@
       </div>
     </div>
 
-    <div class="w-1/2">
+    <div class="md:w-1/2">
       <iframe
         class="w-full aspect-video rounded "
         src={`https://www.youtube-nocookie.com/embed/${videoId}?controls=0&autoplay=${autoplay ? 1 : 0}&loop=${loop ? 1 : 0}`}
