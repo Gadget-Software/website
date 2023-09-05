@@ -6,6 +6,7 @@
   import VideoTestimonialCard from "./VideoTestimonialCard.svelte";
   import TestimonialCard from "./TestimonialCard.svelte";
   import GifTestimonialCard from "./GifTestimonialCard.svelte";
+  import Mp4TestimonialCard from "./Mp4TestimonialCard.svelte";
 
   const year = new Date().getFullYear();
 </script>
@@ -119,6 +120,47 @@
         </figcaption>
       </figure>
     </GifTestimonialCard>
+
+    <Mp4TestimonialCard
+      title="Web3 integration of data with custom chatbot"
+      mp4Src="vehiclegenius.mp4"
+      gifSrc="vehiclegenius.gif"
+      gifAlt="A walkthrough of the Vehicle Genius application integrated with DIMO."
+    >
+      <figure class="flex flex-col gap-4">
+        <p>
+          We needed to integrate data from various sources, including the
+          blockchain, and make a chatbot that answers the user's questions
+          Gadget Software came on high recommendation through a relationship
+          with one of the DIMO founders. Their expertise in how to leverage
+          current AI products for what we wanted to build, and how thoughtful
+          and involved they wanted to be in the project and bigger picture of
+          Vehicle Genius at the beginning of the relationship made them a an
+          easy decision to work with.
+        </p>
+
+        <p>
+          We needed to integrate existing API data for specific vehicles, to
+          make a chat assistant to answer questions related to a user's
+          vehicle. We ended up using it as a tool to speed up customer support
+          - and found that we had a 15% gain in productivity on that side of
+          the business.
+        </p>
+
+        <p>
+          Additionally, they integrated a Web3 Oauth process involving Metamask
+          and transfer of vehicle data through the blockchain. Even in a
+          situation where they were provided little guidance or documentation -
+          they figured out how to complete the project requirements
+          satisfactorily.
+        </p>
+
+        <figcaption class="text-right italic pr-16">
+          Colin Knudsen,<br />
+          Vehicle Genius
+        </figcaption>
+      </figure>
+    </Mp4TestimonialCard>
   </Column>
 </section>
 
