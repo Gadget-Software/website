@@ -101,7 +101,7 @@
     </TestimonialCard>
 
     <GifTestimonialCard
-      title="Custom topic-aware chatbot"
+      title="Character NFT AI Chatbot"
       gifSrc="mitama.gif"
       gifAlt="Chatbot in action being asked a couple questions in different contexts"
     >
@@ -122,10 +122,11 @@
     </GifTestimonialCard>
 
     <Mp4TestimonialCard
-      title="Web3 integration of data with custom chatbot"
+      title="AI Vehicle Coach (Web3/API Integrated)"
       mp4Src="vehiclegenius.mp4"
       gifSrc="vehiclegenius.gif"
       gifAlt="A walkthrough of the Vehicle Genius application integrated with DIMO."
+      reverse={true}
     >
       <figure class="flex flex-col gap-4">
         <p>
