@@ -5,8 +5,8 @@
   import {faBars} from "@fortawesome/free-solid-svg-icons";
 
   const links: { title: string, url: string }[] = [
+    { title: 'Work with us', url: '/consulting', always: true },
     { title: 'Testimonials', url: '/testimonials', always: true },
-    { title: 'Services', url: '/#our-services' },
     { title: 'About', url: '/#about-us', always: true },
   ];
 </script>

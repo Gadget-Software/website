@@ -1,11 +1,8 @@
 <script lang="ts">
+  import Footer from './Footer.svelte';
   import Column from "./Column.svelte";
   import ServiceCard from "./ServiceCard.svelte";
-  import Logo from "./Logo.svelte";
-  import Fa from "svelte-fa/src/fa.svelte";
   import {faChartLine, faEnvelope, faHandshake, faUser} from "@fortawesome/free-solid-svg-icons";
-
-  const year = new Date().getFullYear();
 </script>
 
 <svelte:head>
@@ -31,8 +28,8 @@
         <a href="/#our-services" class="btn alt">
           Services
         </a>
-        <a href="/#book-a-call" class="btn">
-          Book a consultation
+        <a href="/consulting" class="btn">
+          Work with us
         </a>
       </p>
     </div>
@@ -122,37 +119,16 @@
     </div>
   </Column>
 
-  <Column contentClass="flex flex-col gap-8 mt-20">
-    <h2 id="book-a-call" class="big-text alt text-center">
-      Get in touch <strong>today</strong>
-    </h2>
-    <!-- Calendly inline widget begin -->
-    <div
-      class="calendly-inline-widget h-[700px] min-w-[320px] relative rounded-2xl"
-      data-url="https://calendly.com/sanaths/gadget-software-custom-software-discussion?hide_gdpr_banner=1&hide_landing_page_details=1"
-    >
-    </div>
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-    <!-- Calendly inline widget end -->
-  </Column>
+  <section class="bg-cyan-600 text-white py-10 md:py-20">
+    <Column contentClass="flex flex-col items-center gap-6">
+      <h2 id="book-a-call" class="big-text alt text-center">
+        Get in touch <strong>today</strong>
+      </h2>
+      <a class="px-4 py-2 text-2xl md:px-6 md:py-4 md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded" href="/consulting">
+        Work with us
+      </a>
+    </Column>
+  </section>
 </section>
 
-<div class="bg-white">
-  <Column class="pt-10 pb-10">
-    <div class="flex flex-col-reverse justify-between gap-4 items-center md:flex-row md:items-start">
-      <div>
-        <Logo/>
-        <p class="mt-4">Not just any software, your software</p>
-        <p>&copy; {year} Gadget Software</p>
-      </div>
-      <a
-        href="mailto:sanath@gadget-software.tech"
-        class="shadow border-[1px] border-gray-200 hover:border-cyan-500 rounded-lg flex justify-between items-center gap-4 p-4">
-        <span class="text-2xl">
-          <Fa icon={faEnvelope} />
-        </span>
-        Send us an email<br/>sanath@gadget-software.tech
-      </a>
-    </div>
-  </Column>
-</div>
+<Footer />

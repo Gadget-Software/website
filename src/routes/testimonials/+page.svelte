@@ -1,14 +1,10 @@
 <script>
   import Column from "../Column.svelte";
-  import Logo from "../Logo.svelte";
-  import Fa from "svelte-fa/src/fa.svelte";
-  import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
+  import Footer from "../Footer.svelte";
   import VideoTestimonialCard from "./VideoTestimonialCard.svelte";
   import TestimonialCard from "./TestimonialCard.svelte";
   import GifTestimonialCard from "./GifTestimonialCard.svelte";
   import Mp4TestimonialCard from "./Mp4TestimonialCard.svelte";
-
-  const year = new Date().getFullYear();
 </script>
 
 <svelte:head>
@@ -16,23 +12,21 @@
 </svelte:head>
 
 <div class="bg-cyan-900 text-white">
-  <Column class="text-center">
-    <div class="mt-8 md:mt-20 mb-8 md:mb-20 flex flex-col gap-3 max-w-screen-sm mx-auto">
-      <p>
-        What our customers say about Gadget Software
+  <Column class="">
+    <div class="mt-8 md:mt-20 mb-8 md:mb-20 px-4 sm:px-0 flex flex-col gap-6 max-w-screen-lg mx-auto">
+      <p class="text-2xl sm:text-3xl">
+        We guarantee <strong class="thick-underline">tangible results</strong>. It's one of the many reasons our clients are excited to work with us.
       </p>
-      <p class="big-text">
-        Our customers strongly recommend us and <strong>actively want to work
-        with us again</strong>
+      <p class="text-2xl sm:text-3xl">
+        How?
       </p>
-      <p>
-        Book a free consultation with our custom software experts and learn how
-        we can optimize your business in ways you didn't think possible
+      <p class="text-2xl sm:text-3xl">
+        We are <strong class="thick-underline">absolute experts with decades of experience</strong> in automation and the zero to one phase of a software project. We don't do anything else.
       </p>
 
-      <p class="flex gap-6 justify-center">
-        <a href="/#book-a-call" class="btn">
-          Book a consultation
+      <p class="pt-4 text-xl text-center sm:text-left sm:text-2xl">
+        <a href="/consulting" class="btn">
+          Work with us
         </a>
       </p>
     </div>
@@ -166,37 +160,14 @@
 </section>
 
 <section class="bg-cyan-600 text-white py-10 md:py-20">
-  <Column contentClass="flex flex-col gap-8">
+  <Column contentClass="flex flex-col items-center gap-6">
     <h2 id="book-a-call" class="big-text alt text-center">
       Get in touch <strong>today</strong>
     </h2>
-    <!-- Calendly inline widget begin -->
-    <div
-      class="calendly-inline-widget h-[700px] min-w-[320px] relative rounded-2xl"
-      data-url="https://calendly.com/sanaths/gadget-software-custom-software-discussion?hide_gdpr_banner=1&hide_landing_page_details=1"
-    >
-    </div>
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-    <!-- Calendly inline widget end -->
+    <a class="px-4 py-2 text-2xl md:px-6 md:py-4 md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded" href="/consulting">
+      Work with us
+    </a>
   </Column>
 </section>
 
-<div class="bg-white">
-  <Column class="pt-10 pb-10">
-    <div class="flex flex-col-reverse justify-between gap-4 items-center md:flex-row md:items-start">
-      <div>
-        <Logo />
-        <p class="mt-4">Not just any software, your software</p>
-        <p>&copy; {year} Gadget Software</p>
-      </div>
-      <a
-        href="mailto:sanath@gadget-software.tech"
-        class="shadow border-[1px] border-gray-200 hover:border-cyan-500 rounded-lg flex justify-between items-center gap-4 p-4">
-        <span class="text-2xl">
-          <Fa icon={faEnvelope} />
-        </span>
-        Send us an email<br />sanath@gadget-software.tech
-      </a>
-    </div>
-  </Column>
-</div>
+<Footer />
