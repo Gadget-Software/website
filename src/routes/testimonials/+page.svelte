@@ -15,13 +15,17 @@
   <Column class="">
     <div class="mt-8 md:mt-20 mb-8 md:mb-20 px-4 sm:px-0 flex flex-col gap-6 max-w-screen-lg mx-auto">
       <p class="text-2xl sm:text-3xl">
-        We guarantee <strong class="thick-underline">tangible results</strong>. It's one of the many reasons our clients are excited to work with us.
+        Software, <strong class="thick-underline">specific for YOUR unique business</strong>, without all the fuss,
+        confusion and feelings of being lost in the sauce.
       </p>
       <p class="text-2xl sm:text-3xl">
-        How?
+        We are passionate about value created through software and automation
+        and we've been doing this a long time, so we are confident in this
+        guarantee:
       </p>
       <p class="text-2xl sm:text-3xl">
-        We are <strong class="thick-underline">absolute experts with decades of experience</strong> in automation and the zero to one phase of a software project. We don't do anything else.
+        You pay <strong class="thick-underline">a fixed price</strong>, and <strong class="thick-underline">we don't stop working</strong> on your software <strong class="thick-underline">till
+        we get the impact</strong> on your business <strong class="thick-underline">that you want</strong>.  Simple as that.
       </p>
 
       <p class="pt-4 text-xl text-center sm:text-left sm:text-2xl">
@@ -30,6 +34,10 @@
         </a>
       </p>
     </div>
+
+    <p class="pt-4 md:pt-0 pb-4 text-xl text-center sm:text-2xl">
+        Just see what our clients have had to say about us.
+    </p>
   </Column>
 </div>
 

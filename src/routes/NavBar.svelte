@@ -4,7 +4,7 @@
   import Fa from "svelte-fa/src/fa.svelte";
   import {faBars} from "@fortawesome/free-solid-svg-icons";
 
-  const links: { title: string, url: string }[] = [
+  const links: { title: string, url: string, always: boolean }[] = [
     { title: 'Work with us', url: '/consulting', always: true },
     { title: 'Testimonials', url: '/testimonials', always: true },
     { title: 'About', url: '/#about-us', always: true },
@@ -29,7 +29,7 @@
           </a>
         </nav>
       </div>
-      <button id="mobile-menu-button" role="button" class="md:hidden text-2xl">
+      <button id="mobile-menu-button" class="md:hidden text-2xl">
         <Fa icon={faBars} />
       </button>
     </div>
