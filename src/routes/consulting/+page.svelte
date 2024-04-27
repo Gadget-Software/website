@@ -160,7 +160,7 @@
         ZERO privacy or legal concerns with the AIs that we work with
       </h2>
       <p>
-        We use micro-LLMs thar are self-hosted, so you are full control of the
+        We can use micro-LLMs thar are self-hosted, so you are full control of the
         data of your customers. As a result the model will not produce content
         that counts as plagiarism, and you can rest in peace knowing that you
         will not have privacy leaks, or heart attack inducing legal notices
