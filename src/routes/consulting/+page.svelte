@@ -176,11 +176,36 @@
       <p>
         We aspire to excellence and meeting your needs.
       </p>
-
       <p>
         As a result, we only take on 3 clients at a time. If you want to be part
         of that exclusive triad, reach out ASAP, as recently we've been capped
         more often.
+      </p>
+
+      <h2 class="text-left text-2xl md:text-3xl font-bold">
+        Ruthless heatseeking missile value driven approach
+      </h2>
+
+      <p>
+        Most custom software companies bloat your projects with unnecessary
+        time-consuming processes, or nonsense features ("architecture" anyone?)
+        to fill billable hours and keep their personal quotas full.
+      </p>
+      <p>
+        We get bored easily - so in order to have fun, get value to you fast,
+        we've stripped down everything to the bare essentials. The benefit? Your
+        time and money get stretched out to their limits, simply by us having
+        learned to say NO to anything that doesn't get you to your first
+        customers quickly.
+      </p>
+      <p>
+        For certain customers this can be annoying, but for the ones that really
+        want to have their project succeed, this is a crucial piece that
+        distinguishes Gadget from the average, soulless, software factory - and
+        not only makes things more fun for Gadget, but it also takes a process
+        has a lot of stressful, potential gut-wrenching uncertainty into a more
+        easeful, zippy, interesting, fun, and simple way of working that nets
+        RESULTS for you, the customer.
       </p>
 
       <section class="flex flex-col gap-8 mt-12">
