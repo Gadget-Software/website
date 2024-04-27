@@ -47,6 +47,35 @@
       Case studies
     </h2>
 
+    <TestimonialCard title="Automatic mass translation checker">
+      <div class="flex flex-col md:flex-row justify-between items-start gap-8">
+        <div class="w-full md:w-1/2 grid grid-cols-2 md:grid-cols-2 gap-2">
+          <img class="border rounded shadow-sm cursor-pointer" data-action="zoom" src="/mugen/Upload.png" />
+          <img class="border rounded shadow-sm cursor-pointer" data-action="zoom" src="/mugen/Prompts.png" />
+          <img class="border rounded shadow-sm cursor-pointer" data-action="zoom" src="/mugen/Status.png" />
+          <img class="border rounded shadow-sm cursor-pointer" data-action="zoom" src="/mugen/Glossary.png" />
+          <img class="border rounded shadow-sm cursor-pointer" data-action="zoom" src="/mugen/Analysis.png" />
+        </div>
+        <figure class="w-full md:w-1/2 flex flex-col gap-4">
+          <p>
+            Gadget Software made it extremely easy to get started and finish
+            the project with minimal time invested from my part. Just a few
+            meetings to handle handoff, some back and forth messaging on when
+            features where released, and a bit of feedback, and now I have a
+            fully working, cutting edge LLM leveraging translation application
+            that has turned a 105 hour man hour job into just two easy hours.
+            The ROI is absolutely insane. Can't recommend working with them
+            enough.
+          </p>
+
+          <figcaption class="text-right italic pr-16">
+            Taylor Matthews,<br />
+            CEO, Mugen Creations
+          </figcaption>
+        </figure>
+      </div>
+    </TestimonialCard>
+
     <Mp4TestimonialCard
       title="AI Vehicle Coach (Web3/API Integrated)"
       mp4Src="vehiclegenius.mp4"
