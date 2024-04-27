@@ -47,82 +47,6 @@
       Case studies
     </h2>
 
-    <VideoTestimonialCard
-      title="Order fulfillment automation for an e-commerce business"
-      videoId="xkzmm07zSuo"
-    >
-      <figure class="flex flex-col gap-4">
-        <p>
-          Our company Fruchtbote is a German e-commerce business.  We specialize
-          in the delivery of fresh raw fruits in Europe especially for the German
-          market.
-        </p>
-        <p>
-          We worked together with Gadget Software to automate our fulfillment
-          process and improve the efficiency in our day to day business.  Before
-          that we used pen and paper for employees during the fulfillment
-          process, which led to errors and huge time expenditure.
-        </p>
-        <p>
-          Since working with Gadget Software we could save 4x the time and
-          valuable resources.
-        </p>
-        <figcaption class="text-right italic pr-16">
-          Daniel Gepp<br />
-          Fruchtbote
-        </figcaption>
-      </figure>
-    </VideoTestimonialCard>
-
-    <TestimonialCard title="Mass message sending scripts for a promoter group in Tokyo">
-      <figure class="flex flex-col gap-4">
-        <p>
-          I decided to automate part of my workflow because I often didn't have enough time to complete it manually.
-          Even when I had the time, it was tedious work that I dreaded.
-        </p>
-        <p>
-          I chose Gadget Software because of their fast response time for the initial quote, for starting the work and
-          for delivering the first release of the software.
-        </p>
-        <p>
-          Compared to other offerings, I liked the fact that they agreed to sell the software as a product, including
-          the source code, as opposed to SaaS with closed-off source code.
-        </p>
-        <p>
-          The software freed up some of my time, enabling me to relax or focus on aspects that currently can't be
-          automated.
-        </p>
-        <p>
-          Even though the initial objective was achieved, I keep working with Gadget Software for adding new features
-          and functions to the software.
-        </p>
-        <figcaption class="text-right italic pr-16">
-          Promoter group in Tokyo
-        </figcaption>
-      </figure>
-    </TestimonialCard>
-
-    <GifTestimonialCard
-      title="Character NFT AI Chatbot"
-      gifSrc="mitama.gif"
-      gifAlt="Chatbot in action being asked a couple questions in different contexts"
-    >
-      <figure class="flex flex-col gap-4">
-        <p>
-          We were in search of a chatbot for our NFT project that would
-          communicate with our users when messaged on Discord. We had content,
-          but not enough to "train" an AI model on, which we thought was a major
-          challenge. Gadget Software offered a custom, bleeding edge solution
-          that mixed a small dataset of related content with the quality of
-          answers from ChatGPT to give us an AI Chatbot personality that sounded
-          exactly like we wanted.
-        </p>
-        <figcaption class="text-right italic pr-16">
-          Mitama Mint Team
-        </figcaption>
-      </figure>
-    </GifTestimonialCard>
-
     <Mp4TestimonialCard
       title="AI Vehicle Coach (Web3/API Integrated)"
       mp4Src="vehiclegenius.mp4"
@@ -164,6 +88,82 @@
         </figcaption>
       </figure>
     </Mp4TestimonialCard>
+
+    <GifTestimonialCard
+      title="Character NFT AI Chatbot"
+      gifSrc="mitama.gif"
+      gifAlt="Chatbot in action being asked a couple questions in different contexts"
+    >
+      <figure class="flex flex-col gap-4">
+        <p>
+          We were in search of a chatbot for our NFT project that would
+          communicate with our users when messaged on Discord. We had content,
+          but not enough to "train" an AI model on, which we thought was a major
+          challenge. Gadget Software offered a custom, bleeding edge solution
+          that mixed a small dataset of related content with the quality of
+          answers from ChatGPT to give us an AI Chatbot personality that sounded
+          exactly like we wanted.
+        </p>
+        <figcaption class="text-right italic pr-16">
+          Mitama Mint Team
+        </figcaption>
+      </figure>
+    </GifTestimonialCard>
+
+    <TestimonialCard title="Mass message sending scripts for a promoter group in Tokyo">
+      <figure class="flex flex-col gap-4">
+        <p>
+          I decided to automate part of my workflow because I often didn't have enough time to complete it manually.
+          Even when I had the time, it was tedious work that I dreaded.
+        </p>
+        <p>
+          I chose Gadget Software because of their fast response time for the initial quote, for starting the work and
+          for delivering the first release of the software.
+        </p>
+        <p>
+          Compared to other offerings, I liked the fact that they agreed to sell the software as a product, including
+          the source code, as opposed to SaaS with closed-off source code.
+        </p>
+        <p>
+          The software freed up some of my time, enabling me to relax or focus on aspects that currently can't be
+          automated.
+        </p>
+        <p>
+          Even though the initial objective was achieved, I keep working with Gadget Software for adding new features
+          and functions to the software.
+        </p>
+        <figcaption class="text-right italic pr-16">
+          Promoter group in Tokyo
+        </figcaption>
+      </figure>
+    </TestimonialCard>
+
+    <VideoTestimonialCard
+      title="Order fulfillment automation for an e-commerce business"
+      videoId="xkzmm07zSuo"
+    >
+      <figure class="flex flex-col gap-4">
+        <p>
+          Our company Fruchtbote is a German e-commerce business.  We specialize
+          in the delivery of fresh raw fruits in Europe especially for the German
+          market.
+        </p>
+        <p>
+          We worked together with Gadget Software to automate our fulfillment
+          process and improve the efficiency in our day to day business.  Before
+          that we used pen and paper for employees during the fulfillment
+          process, which led to errors and huge time expenditure.
+        </p>
+        <p>
+          Since working with Gadget Software we could save 4x the time and
+          valuable resources.
+        </p>
+        <figcaption class="text-right italic pr-16">
+          Daniel Gepp<br />
+          Fruchtbote
+        </figcaption>
+      </figure>
+    </VideoTestimonialCard>
   </Column>
 </section>
 
