@@ -61,7 +61,7 @@
             Gadget Software made it extremely easy to get started and finish
             the project with minimal time invested from my part. Just a few
             meetings to handle handoff, some back and forth messaging on when
-            features where released, and a bit of feedback, and now I have a
+            features were released, and a bit of feedback, and now I have a
             fully working, cutting edge LLM leveraging translation application
             that has turned a 105 hour man hour job into just two easy hours.
             The ROI is absolutely insane. Can't recommend working with them
