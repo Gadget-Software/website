@@ -183,7 +183,7 @@
       </p>
 
       <h2 class="text-left text-2xl md:text-3xl font-bold">
-        Ruthless heatseeking missile value driven approach
+        RUTHLESS HEATSEEKING MISSILE VALUE DRIVEN APPROACH
       </h2>
 
       <p>
@@ -206,6 +206,34 @@
         has a lot of stressful, potential gut-wrenching uncertainty into a more
         easeful, zippy, interesting, fun, and simple way of working that nets
         RESULTS for you, the customer.
+      </p>
+
+      <h2 class="text-left text-2xl md:text-3xl font-bold">
+        "OFF TO THE RACES" SYSTEM TO MAKE YOUR PROJECT REAL AND SUCCESSFUL
+      </h2>
+
+      <p>
+        Every project fails because of lack of continuous directional momentum.
+        There are two things that fuel that in a software project - users, or
+        money. We won't even start building for you until we have either an
+        investor demo milestone, which is one source of initial money, or for
+        user acquisition and acquiring feedback in place, which is really just
+        another proxy for cash coming in.
+      </p>
+      <p>
+        Why? Because otherwise the business envisioned is a complete fantasy.
+        If those things aren't in place at the very beginning of the project,
+        it doesn't matter how awesome a product we make, there will be no ROI.
+        We love to build things because it's fun, impactful, and potentially
+        life changing, but if the math doesn't make sense, there's sadly not
+        much that can happen from there.
+      </p>
+      <p>
+        If this is enough to scare you off, good. We've seen enough failures to
+        know what's pivotal for software projects to be successful, and if
+        someone isn't willing to do either one of those two basic things, well,
+        to say we have no faith in that project would be a nice way of putting
+        it.
       </p>
 
       <section class="flex flex-col gap-8 mt-12">
