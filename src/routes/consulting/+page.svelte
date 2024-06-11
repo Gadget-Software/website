@@ -273,21 +273,16 @@
 </div>
 
 <section class="bg-cyan-600 text-white py-10 md:py-20">
-  <Column contentClass="flex flex-col gap-8">
+  <Column contentClass="flex flex-col items-center gap-6">
     <h2 id="book-a-call" class="big-text alt text-center">
       Get in touch <strong>today</strong>
     </h2>
-    <!-- Calendly inline widget begin -->
-    <div
-      class="calendly-inline-widget h-[700px] min-w-[320px] relative rounded-2xl"
-      data-url="https://calendly.com/sanaths/gadget-software-custom-software-discussion?hide_gdpr_banner=1&hide_landing_page_details=1"
-    />
-    <script
-      type="text/javascript"
-      src="https://assets.calendly.com/assets/external/widget.js"
-      async
-    ></script>
-    <!-- Calendly inline widget end -->
+    <a
+        class="px-4 py-2 text-2xl md:px-6 md:py-4 md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded"
+        href="https://form.typeform.com/to/RVOS4h03"
+    >
+      Apply Here to Work With Us!
+    </a>
   </Column>
 </section>
 
