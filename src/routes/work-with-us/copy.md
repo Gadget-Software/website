@@ -1,0 +1,335 @@
+<span class="text-left text-2xl md:text-3xl font-bold">Money.</span>
+
+This is by far the most important thing that dictates whether your project fails. And with software there are literally
+three places to get it.
+
+_Money saved from process improvements._
+
+Or
+
+_Paying users._
+
+Or
+
+_An investor._
+
+Now eventually, a business should always be looking to get to paying users or a real ROI of money/time saved on process
+improvement, because that's the only way to create a profitable business, and not a ponzi scheme, but an investor is a
+useful milestone because it:
+
+a) Forces you to create a happy path demo to demonstrate core, distinct value<br/>
+b) Forces you to think through a business model that is realistic
+
+The "happy path" is a major hurdle for most entrepreneurs/intrapreneurs. All that the happy path is, is demonstrating a
+working scenario to demonstrate the core value of the application. Your app WILL break in a variety of places during the
+initial build steps. But, every second you waste on worrying about non-critical components, that do zero to demo your
+main application value, and how they don't work, is a second that your critical components lose out on being able to be
+refined to a level that really makes your app look useful.
+
+If you are an entrepreneur or intrapreneur on a budget, every misallocated second or newton of energy is life or death.
+If I have to explain that you need to set priorities to be successful, unless you have a few years of monetary runway to
+build some basic skills, you are already fucked.
+
+Re-roll and try again.
+
+In the early stages of bringing a software idea to life, you want to be excising bad opportunities as quickly as
+possible, and honing on real value creation and capture. If you stay too pie in the sky and don't think about things in
+terms of the money math, you might go and build something that no one cares about, or if they do, they don't care enough
+to float a business that can make ends meet. This is very, very bad, and how you waste years. Doing due diligence
+through the filter of investor expectations can really solve a lot of issues quite early by aborting dumb projects ahead
+of time.
+
+Now the only challenge is that, even if an investor likes your idea, and even if you are demoing something that works,
+it doesn't mean jack shit if when it hits the market you don't have the skills or the value required for getting and
+retaining users.
+
+Which is why my general recommendation is to focus first on happy path build to show core value, user acquisition and
+eliciting feedback from at least 3-5 end users of your product (and ideally, _PAYING_ users).
+
+This is my PRIMARY recommendation. Even if you get an investor, this is a step that has to occur anyways, and if you do
+this first, this will make your product look more attractive to investors, anyways.
+
+It's extremely rare to see on an early project. It's the biggest emotional blockade - and by far the most important to
+jump.
+
+You are not your user, you don't know what your user wants, and what they care about is not what you care about. Stop
+pretending that you can read minds, and you will be delightfully surprised by how forgiving your users are, and how much
+smarter they are at telling you what they want than you are.
+
+Expose what you are working on, they will be excited seeing things that they ask for are being completed. Very excited,
+and that is simply because NO ONE LISTENS TO THEIR USERS/CUSTOMERS IN ALMOST EVERY TYPE OF BUSINESS. It is recited
+almost like gospel in startup land for a reason - because it's so fucking rare, even when telling people to do it all
+the time, that when it happens, even for mundane things, your users LOVE you, and they want to invest more in what you
+are building for them.
+
+And once you have this, as I have seen again and again with projects - a fire will get lit under your own ass. A
+feedback cycle that allows iterative development will be established and will start to have its own energy and momentum
+beyond you as a single founder. The project will be **real**. No longer will you be wondering if what you are doing
+makes any sense, because **real money**, will be flowing into your bank account, and you will be getting requests from
+people on what they would like to see next.
+
+Things that you might not know how to do - it will be easier to find people with expertise to solve. The next step here
+would be to find those people, and get the larger support system necessary to go beyond here.
+
+But what happens if you need a support system before that? It’s not easy, even if you kind of know what to do, to build
+something out yourself, or even if you can, to find quality development services willing to push projects into a place
+where the vision is actually achieved and over what can seem the ever moving line into green (read: positive) ROI
+territory. So let us, as an expert, handle these types of applications for you.
+We at Gadget have seen it many times - clients running in a circle on their project, solving easy, surface level
+problems, and in their lack of expertise getting eaten by the monsters in the depths.
+
+With the advent of LLM tech allowing code generation with ease, more and more no-code, low-code solutions, and niche
+SaaS services, and coupled with the high cost of development, more and more people are turning to these solutions to try
+to "skip the middleman", and bring their vision to life themselves.
+
+While often most people can get some traction with these tools, and there is an initial high of seeing the beginnings of
+the vision come to life, there's often a point, usually pretty fast after some initial success, where you get stuck.
+
+And even though it's clear that you might be SPINNING YOUR WHEELS, that initial success sticks in your mind, and you
+feel like if you just got past the next obstacle, you would probably get through the rest. DO NOT BE FOOLED BY THIS LINE
+OF THINKING.
+
+In fact, many of these existing solutions are designed, perhaps intentionally in some case, to take you past the initial
+hurdles, because that's how they make a sale, even if they know in the long term, their solution will not hit the mark
+for a high aspiring entrepreneur, or even intrapreneur with his own distinct vision that does not yet exist.
+
+Worse yet, even if you do get to that first complete milestone, there's no telling what kind of issues will pop up, or
+when you will reach that limit, or if what you are hitting is a real limitation or not. You can end up wasting your most
+valuable asset, your time, for actually something that is not even flat ROI, but negative ROI, because if you are making
+decisions based on limited understand, you could be making the wrong decision. In the worst case, you might not even
+recognize that until it's too late, where you have a data, or security leak, payment issues, or even just a chink in
+core functionality that creates more headaches for your users than positives.
+
+Some of that stuff can be business ending. There is always a tradeoff here. AND IT IS THE TRADE BETWEEN THE SHORT AND
+THE LONG TERM. There is a distinction between short term wins at the expense of the long win, vs slower early wins at
+the gain of the long win. And it's constantly being played out with tools that tell you you don't need a technical
+person to handle your build out. But here's the thing.
+
+A great engineer, while it requires more labor and cost, can often do what you are looking to do in the same time
+period, and balance your short term needs with those long term desires. It saves you the things that matter most. Your
+peace of mind, your time, your focus, your energy.
+
+You gain real LEVERAGE. Not some paltry deal with the devil that takes on the front end and removes from the backend. So
+while an existing digital system might not be able to do some basic things for you. A person, there to listen to exactly
+what you want, what your goals are, and can interpret that into not only the final product, but also what the milestones
+will need to be, is INVALUABLE, and simply, capable of doing what you are not.
+
+IN FACT, IT'S NOT EVEN A COMPETITION. Imagine avoid the burning wreckage of $10,000s wasted, headaches of not
+understanding what to do, how to do it, where to go, and all that time, never to be found again, by working with an
+expert, who can save you from the common pitfalls of lone travel get what you need: the result.
+
+It just so happens that we at Gadget, can not only help with these kinds of completely custom projects, but also those
+that require more nuanced expertise, LLM stuff, technical team build out, you name it. Decades of experience, of
+building dozens of projects from scratch, integrating with existing teams and projects, and making process improvements
+in those teams have put us into a position where we understand the narrow road to success in software, with enough
+exposure to disasters that we know to stick to the tried and true.
+
+So instead, maybe you don’t just get to your personal finish line completely ripped to shreds, clothes singed, a
+psychological shell of your former self from the amount of friction you’ve had to overcome, but rather coasting through,
+unscathed, happy, even excited for what’s next, with an even better time than you could have ever imagined.
+
+The place where you have functional, safe, software application, that does what it needs to in order to accrue value for
+you, your stakeholders, and most importantly, your users.
+
+And if it wasn’t obvious from the race allegory, a process where we can take you by the hand, and make it super silky
+smooth to get to that ROI and end result. No banging your head against the wall. No sleepless nights wondering what's
+going to happen. No irritating mornings feeling like you need to take control. Just a peaceful flow.
+
+Here's the kinds of thing that you can expect from working with us:
+
+### Fixed pricing!
+
+How many times have you shouldered the risk of hourly contractors, quoting you one price, and then chronically adding
+unexpected things to the final price, even in some cases not even delivering anything? What was the value add to you?
+NOTHING. Just wasted time, money, and the feeling of being betrayed. At Gadget, we charge one fixed, total price, and we
+don't stop until we reach the agreed upon endpoint - which is always to get you to the next value capturing milestone of
+your project.
+
+### Regular checkins
+
+Let's avoid all the nonsense of over-planning - most roadmaps are at best a guess, and at worst wrong. Project
+specifications change as you get feedback from the users of your system (even if YOU are a user). Our team keeps in
+touch with you at regular intervals to make sure we are aligned with your needs, even as they are changing.
+
+### Modern, Common Use Tooling and Infrastructure
+
+Instead of constantly hopping to the new latest thing, we use a toolset that is both currently strongly supported, that
+you will not only have complete ownership of from the beginning, but also has been proven to work over a long period of
+time. Handoff and long term support has never been easier.
+
+(You can see some of them in the nifty images on the right.)
+
+### Decades of experience
+
+Experience tested, solid advice and project leadership from a small team that has nearly 20 years of combined
+experience. We know where projects snag, where momentum is lost, and all the potential points of failure that can
+happen. Running into new territory? Stuck and not sure where to go? Instead of losing life and morale by watching your
+project go up in flames before it's even had a chance, let our experience and guidance do the work, and we'll make the
+process from confusion to victory so easy that project success will seem like it "just happened".
+
+### Total control
+
+Total, full control over all assets and items created by our company. We don't own any of the intellectual property
+after we are done - and have no interest in it, so you can sell it and make a quick ROI on your investment, build it
+without fear of creating competitors by outsourcing, and feel good that you have full flexibility to hire in-house or
+otherwise after your project is complete (you won't want to, but we thought we'd mention it).
+
+### LLM (Chatbot) AI experts
+
+Experience with cutting edge LLM (Chatbot) AI technology and more. We've been working with LLMs since public developer
+API access has been available for OpenAIs ChatGPT. Take advantage of this before the cats out of the bag and everyone
+and their mother realize the revenue exploding capabilities of the technology!
+
+### ZERO privacy or legal concerns with the AIs that we work with
+
+We can use micro-LLMs thar are self-hosted, so you are full control of the data of your customers. As a result the model
+will not produce content that counts as plagiarism, and you can rest in peace knowing that you will not have privacy
+leaks, or heart attack inducing legal notices like copyright infringment lawsuits randomly showing up at your door.
+Without any reduction in quality of the output from the LLM thanks to advanced RAG integration which has been proven to
+be the key factor in LLM performance, NOT model size.
+
+### Ruthless Value Driven Approach
+
+Most custom software companies bloat your projects with unnecessary time-consuming processes, or nonsense features ("
+architecture" anyone?) to fill billable hours and keep their personal quotas full.
+
+We get bored easily - so in order to have fun, get value to you fast, we've stripped down everything to the bare
+essentials. The benefit? Your time and money get stretched out to their limits, simply by us having learned to say NO to
+anything that doesn't get you to your first customers quickly.
+
+For certain customers this can be annoying, but for the ones that really want to have their project succeed, this is a
+crucial piece that distinguishes Gadget from the average, soulless, software factory - and not only makes things more
+fun for Gadget, but it also takes a process has a lot of stressful, potential gut-wrenching uncertainty into a more
+easeful, zippy, interesting, fun, and simple way of working that nets RESULTS for you, the customer.
+
+### "Off to the Races" System To Make Your Project Real, Quick
+
+Every project fails because of lack of continuous directional momentum. There are two things that fuel that in a
+software project - users, or money. We won't even start building for you until we have either an investor demo
+milestone, which is one source of initial money, or for user acquisition and acquiring feedback in place, which is
+really just another proxy for cash coming in.
+
+Why? Because otherwise the business envisioned is a complete fantasy. If those things aren't in place at the very
+beginning of the project, it doesn't matter how awesome a product we make, there will be no ROI. We love to build things
+because it's fun, impactful, and potentially life changing, but if the math doesn't make sense, there's sadly not much
+that can happen from there.
+
+If this is enough to scare you off, good. We've seen enough failures to know what's pivotal for software projects to be
+successful, and if someone isn't willing to do either one of those two basic things, well, to say we have no faith in
+that project would be a nice way of putting it.
+
+With almost two decades of experience, dozens of software projects, failures, successes, and everything in-between -
+including experience at working in Software at companies of several sizes (from just 5 people, to 1000, to 30,000), and
+multiple successful LLM/AI projects under our belt at Gadget (just check out [our testimonials page](/testimonials)),
+let us take you by the hand and help you run, not walk past the burning wreckage of failures of peers that didn't get
+expert help, and that are carefully hidden from public eye.
+
+<testimonial-cards></testimonial-cards>
+
+### Free Bonus #1: "Will this Work?" Project Consultation ($447 value)
+
+Have an idea that seems a bit crazy, but you _know_ will work?
+
+Take advantage of our absolutely FREE consultation and specification session - where we will either poke all the
+necessary holes in your plan, and leave you feeling clear of mind that the project doesn't make sense, OR we will refine
+your plan to make it robust and crystal clear as to how to go from just a rough idea to an executable list of items. A
+done with you service, no strings attached. It's like you're' stealing, legally!
+
+### Free Bonus #2: No Fumble Software Handoff ($5244 value)
+
+Evil vendors will hold critical pieces of your code or infrastructure in order as leverage in order to try to force
+their clients to behave in certain ways.
+
+We believe in the opposite - the very first thing we do in your project is make sure you own all of the assets, code and
+infrastructure, so that you are free to do what’s best for you at any time.
+
+Then, because we hate waste and failure, when you hire an internal team, or pass off the project to another team that
+might specialize in another project phase, we will provide time, for free at the end of the project to make sure all the
+materials are handed off so the new team can take a running start IMMEDIATELY.
+
+Seeing your project flourish is really important to us, and seeing it in another pair of capable hands before we leave
+is how we ensure it gets nurtured. Don't have a technical team yet? No problem - we will put together some documentation
+so that way it's easy for whoever is next to pick up the slack, even if there is a delay.
+
+### Free Bonus #3: Office Hours ($4844 value)
+
+We know that there's lots of adhoc things that come up during the course of a project. Balancing changing course and
+sticking the route is always a challenge - the best in between is making ourselves fully available for office hours -
+twice a week, for any additional quick back and forth and meetings that need to occur. Peace of mind, focus, and
+availability. You get the best of all three.
+
+Yes, all that for free. How? Well, we do so, not only because it’s fun to win, but also we feel confident we can provide
+these to clients that make it through our screening process. Here’s a short list of what we look for:
+
+**Gadget Software's Custom Buildout Service is NOT for you if....**
+
++ You have "build it and they will come" mentality. Your job as far as we are concerned is to do marketing, sales,
+  elicit customer feedback, and systems building. If these are outside of your wheelhouse, or you are unwilling to do
+  these while we build, come back later when you are prepared to do these things.
+
++ You think that you are smarter than your customers and can build without user feedback.
+
++ You think that ChatGPT or other LLMs are good enough to understand how to build robust software, and that you believe
+  you can just do the project yourself, without any job-related experience or formal training.
+
++ You have no sense of what reason WHY you are building. If you have no milestone that can be objectively reached by
+  both party's metrics, there's no way to build a win win, or for you to actually get an ROI from any of the work that
+  is being done.
+
+
++ You are excessively focused on getting the most labor, attention, or number of features built out, and prefer to waste
+  everyone's time and energy as a metric of winning instead of just focusing on the important results.
+
+
++ You cannot stick to a target through the ups and downs of initial build, investor demos, and user acquisition, and
+  don't make proactive, intelligent analytical changes, but make emotional changes
+
+
++ A >$20,000 expense will set you financially back in an unrecoverable way (or you need to finance it with debt, with no
+  clear plan on clearing that debt with the software), or you feel pressured to somehow get that money back through the
+  Software in less than 4 months.
+
+**Gadget Software's Custom Buildout Service is FOR you if....**
+
++ You or your team have a marketing, sales, hiring skillset but are lacking technical expertise or resources to bring a
+  software idea to life
+
+
++ You know how to identify the core value of the software you would like to develop, and don't mind deliberately ignore
+  things that are not important to demonstrating or having users capture that core value.
+
+
++ You are either an entrepreneur or a company stakeholder who has expertise in the problem domain, and feels confident
+  they can answer or find the answer any questions related to their industry, or idea that are NOT software related.
+
+
++ You are coachable and willing to work in potentially unconventional ways, because you want to get the best results
+  possible. You understand that project success is a two way street, and that in order to give you the best results
+  possible, you will need to provide some guidance for the things that are outside of our expertise.
+
+
++ You have a long term focus and are looking for an ROI over the course of 1-3 years. You don't have a get rich quick
+  mentality.
+
+
++ You understand that project don't come alive or stay alive without some amount of attention. You understand that clear
+  handoff after Gadget's role is over is important, and you know how to build a path for that, or are open to guidance
+  related.
+
+And if you hit those criteria, and it seems like it makes sense to work together, here’s our personal guarantee to you.
+
+### GADGET SOFTWARE GUARANTEE
+
+We never take 100% of the project fees up front. We will always leave some percentage at the end to incentivize that we
+get you the ROI we promised you.
+
+If we fail to do so, you get to keep the remaining money, and all the assets and code. No fuss.
+
+There is a slight downside though…
+
+### ACT NOW! WE OPERATE AS A BOUTIQUE SO WE HAVE LIMITED CAPACITY
+
+In order to guarantee our work product we take a very small limited quantity of projects at a time, and these days, one
+of those slots is almost always taken up. Our current internally agreed upon maximum is 3 clients. We do take on
+waitlist clients occasionally, but if you want to avoid missing that chance, click the button to apply to work with us
+immediately,
