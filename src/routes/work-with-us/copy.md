@@ -261,7 +261,7 @@ availability. You get the best of all three.
 Yes, all that for free. How? Well, we do so, not only because it’s fun to win, but also we feel confident we can provide
 these to clients that make it through our screening process. Here’s a short list of what we look for:
 
-**Gadget Software's Custom Buildout Service is NOT for you if....**
+### Gadget Software's Custom Buildout Service is NOT for you if... >>>
 
 + You have "build it and they will come" mentality. Your job as far as we are concerned is to do marketing, sales,
   elicit customer feedback, and systems building. If these are outside of your wheelhouse, or you are unwilling to do
@@ -287,9 +287,9 @@ these to clients that make it through our screening process. Here’s a short li
 
 + A >$20,000 expense will set you financially back in an unrecoverable way (or you need to finance it with debt, with no
   clear plan on clearing that debt with the software), or you feel pressured to somehow get that money back through the
-  Software in less than 4 months.
+  Software in less than 4 months. <<<
 
-**Gadget Software's Custom Buildout Service is FOR you if....**
+### Gadget Software's Custom Buildout Service is FOR you if... >>>
 
 + You or your team have a marketing, sales, hiring skillset but are lacking technical expertise or resources to bring a
   software idea to life
@@ -316,7 +316,8 @@ these to clients that make it through our screening process. Here’s a short li
   handoff after Gadget's role is over is important, and you know how to build a path for that, or are open to guidance
   related.
 
-And if you hit those criteria, and it seems like it makes sense to work together, here’s our personal guarantee to you.
+And if you hit those criteria, and it seems like it makes sense to work together, here’s our personal guarantee to
+you. <<<
 
 ### GADGET SOFTWARE GUARANTEE
 

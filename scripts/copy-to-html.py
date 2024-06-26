@@ -17,6 +17,7 @@ with open(os.path.join(src_dir, 'routes/work-with-us/copy.md')) as copy_file:
 
     if line == "" and curr_element.strip() != "":
       if not curr_element.strip().startswith("<h3"):
+        curr_element = curr_element.replace("<<<", "</div>")
         curr_element += "</p>"
 
       curr_element.replace("<br/>", "\n")
@@ -27,8 +28,16 @@ with open(os.path.join(src_dir, 'routes/work-with-us/copy.md')) as copy_file:
       curr_element = ""
       continue
 
-    if line.startswith('###'):
-      curr_element += f"<h3 class=\"text-left text-2xl md:text-3xl font-bold\">{line.replace('###', '')}</h3>"
+    if line.startswith("###"):
+      found_arrows = ">>>" in line
+      line = line.replace("###", "").replace(">>>", "")
+      curr_element += f"""<h3 class="text-left text-2xl md:text-3xl font-bold {'cursor-pointer' if found_arrows else ''}" _="on click toggle .hidden on the next <div/> then toggle .expanded on the first .triangle in me">"""
+      curr_element += line
+      if found_arrows:
+        curr_element += """<span class="triangle"></span>"""
+      curr_element += "</h3>"
+      if found_arrows:
+        curr_element += '<div class="flex hidden flex-col gap-6">'
       continue
 
     if line != "" and curr_element == "":
