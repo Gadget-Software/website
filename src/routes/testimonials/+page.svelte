@@ -50,27 +50,31 @@
     </h2>
 
     <TestimonialCard title="AI-powered Shopping Assistant Startup">
-      <figure class="flex flex-col gap-4">
-        <p>
-          The team at Gadget Software over-delivers. At Aisle, we set out to build the first e-comm platform native to
-          the creator economy– specifically rooted in conversational commerce capabilities enabled by LLMs. After
-          developing the idea/plan, I was referred to Gadget by a network connection and happy customer. Sanath and
-          Eduardo’s experience, intelligence, and professionalism were immediately apparent. They had relevant projects
-          to extrapolate insights from, they were able to efficiently translate high-level thoughts into a technical
-          roadmap, and most of all they championed flexibility and generosity. Unlike many other dev shops, this team
-          prioritizes value for their partners and not for themselves. It was common for them to offer extra time to
-          walk through something I didn’t fully understand (extremely helpful when you’re early-phase and playing
-          telephone with customers, developers, and investors), and they were always honest about what they thought
-          would move the needle even if it meant less hours/work for them. I would easily recommend the level of
-          partnership that Gadget follows through with.
-        </p>
+      <div class="flex flex-col md:flex-row justify-between items-start gap-8">
+        <div class="w-full md:w-1/2">
+          <img src="/aisle-min.png" alt="Chat box with user prompting 'I want a new Macbook' and chatbot responding with shopping guidance and clarifying questions in the style of the tech YouTuber it's representing" />
+        </div>
+        <figure class="w-full md:w-1/2 flex flex-col gap-4">
+          <p>
+            The team at Gadget Software over-delivers. At Aisle, we set out to build the first e-comm platform native to
+            the creator economy– specifically rooted in conversational commerce capabilities enabled by LLMs. After
+            developing the idea/plan, I was referred to Gadget by a network connection and happy customer. Sanath and
+            Eduardo’s experience, intelligence, and professionalism were immediately apparent. They had relevant projects
+            to extrapolate insights from, they were able to efficiently translate high-level thoughts into a technical
+            roadmap, and most of all they championed flexibility and generosity. Unlike many other dev shops, this team
+            prioritizes value for their partners and not for themselves. It was common for them to offer extra time to
+            walk through something I didn’t fully understand (extremely helpful when you’re early-phase and playing
+            telephone with customers, developers, and investors), and they were always honest about what they thought
+            would move the needle even if it meant less hours/work for them. I would easily recommend the level of
+            partnership that Gadget follows through with.
+          </p>
 
-        <figcaption class="text-right italic pr-16">
-          Jacob Laufer,<br />
-          Aisle
-        </figcaption>
-      </figure>
-
+          <figcaption class="text-right italic pr-16">
+            Jacob Laufer,<br />
+            Aisle
+          </figcaption>
+        </figure>
+      </div>
     </TestimonialCard>
 
     <TestimonialCard title="Automatic mass translation checker">
