@@ -24,8 +24,10 @@
         guarantee:
       </p>
       <p class="text-2xl sm:text-3xl">
-        You pay <strong class="thick-underline">a fixed price</strong>, and <strong class="thick-underline">we don't stop working</strong> on your software <strong class="thick-underline">till
-        we get the impact</strong> on your business <strong class="thick-underline">that you want</strong>.  Simple as that.
+        You pay <strong class="thick-underline">a fixed price</strong>, and <strong class="thick-underline">we don't
+        stop working</strong> on your software <strong class="thick-underline">till
+        we get the impact</strong> on your business <strong class="thick-underline">that you want</strong>. Simple as
+        that.
       </p>
 
       <p class="pt-4 text-xl text-center sm:text-left sm:text-2xl">
@@ -36,7 +38,7 @@
     </div>
 
     <p class="pt-4 md:pt-0 pb-4 text-xl text-center sm:text-2xl">
-        Just see what our clients have had to say about us.
+      Just see what our clients have had to say about us.
     </p>
   </Column>
 </div>
@@ -46,6 +48,30 @@
     <h2 id="case-studies" class="big-text text-center text-cyan-800">
       Case studies
     </h2>
+
+    <TestimonialCard title="AI-powered Shopping Assistant Startup">
+      <figure class="flex flex-col gap-4">
+        <p>
+          The team at Gadget Software over-delivers. At Aisle, we set out to build the first e-comm platform native to
+          the creator economy– specifically rooted in conversational commerce capabilities enabled by LLMs. After
+          developing the idea/plan, I was referred to Gadget by a network connection and happy customer. Sanath and
+          Eduardo’s experience, intelligence, and professionalism were immediately apparent. They had relevant projects
+          to extrapolate insights from, they were able to efficiently translate high-level thoughts into a technical
+          roadmap, and most of all they championed flexibility and generosity. Unlike many other dev shops, this team
+          prioritizes value for their partners and not for themselves. It was common for them to offer extra time to
+          walk through something I didn’t fully understand (extremely helpful when you’re early-phase and playing
+          telephone with customers, developers, and investors), and they were always honest about what they thought
+          would move the needle even if it meant less hours/work for them. I would easily recommend the level of
+          partnership that Gadget follows through with.
+        </p>
+
+        <figcaption class="text-right italic pr-16">
+          Jacob Laufer,<br />
+          Aisle
+        </figcaption>
+      </figure>
+
+    </TestimonialCard>
 
     <TestimonialCard title="Automatic mass translation checker">
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
@@ -173,13 +199,13 @@
     >
       <figure class="flex flex-col gap-4">
         <p>
-          Our company Fruchtbote is a German e-commerce business.  We specialize
+          Our company Fruchtbote is a German e-commerce business. We specialize
           in the delivery of fresh raw fruits in Europe especially for the German
           market.
         </p>
         <p>
           We worked together with Gadget Software to automate our fulfillment
-          process and improve the efficiency in our day to day business.  Before
+          process and improve the efficiency in our day to day business. Before
           that we used pen and paper for employees during the fulfillment
           process, which led to errors and huge time expenditure.
         </p>
@@ -201,7 +227,8 @@
     <h2 id="book-a-call" class="big-text alt text-center">
       Get in touch <strong>today</strong>
     </h2>
-    <a class="px-4 py-2 text-2xl md:px-6 md:py-4 md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded" href="/work-with-us">
+    <a class="px-4 py-2 text-2xl md:px-6 md:py-4 md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded"
+       href="/work-with-us">
       Work with us
     </a>
   </Column>
