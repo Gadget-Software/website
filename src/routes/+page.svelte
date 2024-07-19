@@ -53,8 +53,8 @@
       Domain experts coming together to deliver unique solutions.
     </p>
     <p>
-      Our team is composed of a close-knit group of friends passionate about
-      software solutions.
+      Solopreneur, absolutely excellent at not only delivering production ready software,
+      but also ensuring that as a business owner, you get a real return on your invested resources.
     </p>
     <p>
       With experiences working in, for and with tiny 5 person companies, and
@@ -62,16 +62,6 @@
       entrepreneur training platforms, projects in Europe, America, Japan and
       more - we have the decades of experience required to say we are absolute
       experts in the field of custom software.
-    </p>
-    <p>
-      That and also a team bound by a love for languages, self development,
-      and even a marriage - the normal, dumb, in-fighting, turnover, and
-      internal crises that govern most businesses, is in our team notably
-      absent.
-    </p>
-    <p>
-      Oh yes absent - and that gives giving us all the space and time we need
-      to worry about you, your success, and your ROI.
     </p>
     <div class="flex gap-2 justify-between">
       <div class="flex flex-row justify-start items-center gap-5">
@@ -84,18 +74,6 @@
         <div>
           <p><strong>Sanath Sambamoorthi</strong></p>
           <p class="text-sm">Manager</p>
-        </div>
-      </div>
-      <div class="flex flex-row justify-start items-center gap-5">
-        <div>
-          <img
-            class="rounded-full w-20 border-2 border-white"
-            alt="Picture of Eduardo Lavaque, Co-founder and Lead Software Engineer at Gadget Software"
-            src="/eduan-pic-min.jpg" />
-        </div>
-        <div>
-          <p><strong>Eduardo Lávaque</strong></p>
-          <p class="text-sm">Lead Software Engineer</p>
         </div>
       </div>
     </div>
