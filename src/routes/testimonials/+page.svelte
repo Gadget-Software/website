@@ -115,8 +115,6 @@
     >
       <figure class="flex flex-col gap-4">
         <p>
-          We needed to integrate data from various sources, including the
-          blockchain, and make a chatbot that answers the user's questions
           Gadget Software came on high recommendation through a relationship
           with one of the DIMO founders. Their expertise in how to leverage
           current AI products for what we wanted to build, and how thoughtful
