@@ -31,7 +31,7 @@
       </p>
 
       <p class="pt-4 text-xl text-center sm:text-left sm:text-2xl">
-        <a href="/work-with-us" class="btn">
+        <a href="https://www.skool.com/custom-software-build-fix/about" class="btn">
           Work with us
         </a>
       </p>
@@ -230,7 +230,7 @@
       Get in touch <strong>today</strong>
     </h2>
     <a class="px-4 py-2 text-2xl md:px-6 md:py-4 md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded"
-       href="/work-with-us">
+       href="https://www.skool.com/custom-software-build-fix/about">
       Work with us
     </a>
   </Column>
