@@ -23,7 +23,7 @@
       </p>
 
       <p class="flex gap-6 justify-center">
-        <a href="/work-with-us" class="btn">
+        <a href="https://www.skool.com/custom-software-build-fix/about" class="btn">
           Work with us
         </a>
       </p>
