@@ -8,6 +8,7 @@
     { title: 'Work with us', url: 'https://www.skool.com/custom-software-build-fix/about', always: true },
     { title: 'Testimonials', url: '/testimonials', always: true },
     { title: 'About', url: '/#about-us', always: true },
+    { title: 'Our Process', url: '/process', always: true } 
   ];
 </script>
 
