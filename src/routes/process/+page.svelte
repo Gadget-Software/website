@@ -36,6 +36,7 @@
         </figure>
       </div>
     </TestimonialCard>
+  </Column>
 </section>
 
 <section class="bg-cyan-600 text-white py-10 md:py-20">
