@@ -24,9 +24,11 @@
               </li>
             {/each}
           </ul>
-          <a href="/#book-a-call" class="btn">
-            Book a consultation
-          </a>
+<!--
+        <a href="/#book-a-call" class="btn">
+           Book a consultation
+         </a>
+//-->
         </nav>
       </div>
       <button id="mobile-menu-button" class="md:hidden text-2xl">
