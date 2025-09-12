@@ -28,17 +28,6 @@ jobs:
           node-version: 20
           cache: pnpm
 
-      - name: Update lockfile if needed
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          pnpm install --no-frozen-lockfile
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add pnpm-lock.yaml
-          git commit -m "chore: update lockfile in CI" || echo "No changes to commit"
-          git push
-
       - run: pnpm install --frozen-lockfile
       - run: pnpm run build
       - run: ls -la build
