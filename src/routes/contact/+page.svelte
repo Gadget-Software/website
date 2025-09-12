@@ -1,4 +1,5 @@
 <script>
+  import Footer from "../Footer.svelte";
   let formStatus = "";
 </script>
 
