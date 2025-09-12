@@ -24,12 +24,6 @@
     <textarea name="message" required></textarea>
   </label>
 
-  <div 
-    class="cf-turnstile" 
-    data-sitekey="0x4AAAAAAB0wN7cDdLSLmIV5" 
-    data-theme="light"
-  ></div>
-
   <button type="submit">Send</button>
   <p>{formStatus}</p>
 </form>
@@ -110,3 +104,5 @@
   align-self: center;
 }
 </style>
+
+<Footer />
