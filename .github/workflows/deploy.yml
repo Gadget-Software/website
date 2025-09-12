@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
   actions: read
@@ -29,6 +29,8 @@ jobs:
           cache: pnpm
 
       - name: Update lockfile if needed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           pnpm install --no-frozen-lockfile
           git config user.name "github-actions[bot]"
