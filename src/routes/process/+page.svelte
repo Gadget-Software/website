@@ -120,7 +120,7 @@
       Get in touch <strong>today</strong>
     </h2>
     <a class="px-4 py-2 text-2xl md:px-6 md:py-4 md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded"
-       href="https://www.skool.com/custom-software-build-fix/about">
+       href="/contact">
       Work with us
     </a>
   </Column>
