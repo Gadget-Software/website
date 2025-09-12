@@ -3,6 +3,7 @@
 </script>
 
 <form 
+  class="contact=form"
   action="https://api.web3forms.com/submit" 
   method="POST" 
   on:submit={() => formStatus = 'Submitting...'}
