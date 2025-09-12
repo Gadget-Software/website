@@ -1,7 +1,6 @@
 <script>
   let formStatus = "";
 </script>
-<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 
 <form 
   action="https://api.web3forms.com/submit" 
