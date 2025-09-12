@@ -15,14 +15,6 @@
         <p class="mt-4">Not just any software, your software</p>
         <p>&copy; {year} Gadget Technologies LLC</p>
       </div>
-      <a
-        href="mailto:sanath@gadget-software.tech"
-        class="shadow border-[1px] border-gray-200 hover:border-cyan-500 rounded-lg flex justify-between items-center gap-4 p-4">
-        <span class="text-2xl">
-          <Fa icon={faEnvelope} />
-        </span>
-        Send us an email<br />sanath@gadget-software.tech
-      </a>
     </div>
   </Column>
 </div>
