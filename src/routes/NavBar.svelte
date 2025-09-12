@@ -5,9 +5,10 @@
   import {faBars} from "@fortawesome/free-solid-svg-icons";
 
   const links: { title: string, url: string, always: boolean }[] = [
-    { title: 'Work with us', url: 'https://www.skool.com/custom-software-build-fix/about', always: true },
-    { title: 'Testimonials', url: '/testimonials', always: true },
     { title: 'About', url: '/#about-us', always: true }
+    { title: 'Testimonials', url: '/testimonials', always: true },
+    { title: 'Process', url: '/#about-us', always: true },
+    { title: 'Contact us', url: '/contact', always: true }
   ];
 </script>
 
