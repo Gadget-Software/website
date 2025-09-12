@@ -23,8 +23,8 @@
       </p>
 
       <p class="flex gap-6 justify-center">
-        <a href="https://www.skool.com/custom-software-build-fix/about" class="btn">
-          Work with us
+        <a href="/contact" class="btn">
+          Contact Us
         </a>
       </p>
     </div>
@@ -53,7 +53,7 @@
       Domain experts coming together to deliver unique solutions.
     </p>
     <p>
-      Solopreneur, absolutely excellent at not only delivering production ready software,
+      My team, and I are absolutely excellent at not only delivering production ready software,
       but also ensuring that as a business owner, you get a real return on your invested resources.
     </p>
     <p>
@@ -84,7 +84,7 @@
       <h2 id="book-a-call" class="big-text alt text-center">
         Get in touch <strong>today</strong>
       </h2>
-      <a class="px-4 py-2 text-2xl md:px-6 md:py-4 md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded" href="/work-with-us">
+      <a class="px-4 py-2 text-2xl md:px-6 md:py-4 md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded" href="/contact">
         Work with us
       </a>
     </Column>
