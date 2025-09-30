@@ -20,8 +20,6 @@
         Just see what our clients have had to say about us.
       </p>
     </div>
-      
-    </p>
   </Column>
 </div>
 
