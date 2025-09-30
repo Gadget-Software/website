@@ -14,12 +14,12 @@
         Welcome to Gadget Software
       </p>
       <p class="big-text">
-        We fulfill your business needs with <strong>completely unique software
+        We fulfill your business needs with a mix of <strong> incredible coaching, unique software, and battle tested marketing
         solutions</strong>
       </p>
       <p>
-        Book a free consultation with our custom software experts and learn how
-        we can optimize your business in ways you didn't think possible
+        Contact us and learn how we can optimize your business
+        in ways you didn't think possible
       </p>
 
       <p class="flex gap-6 justify-center">
@@ -36,7 +36,7 @@
   <Column class="flex flex-col gap-8">
     <iframe
       class="w-full aspect-video -mt-56 z-10 rounded-2xl"
-      src="https://www.youtube-nocookie.com/embed/0AnExD_mi7M?controls=0"
+      src="https://www.youtube-nocookie.com/embed/8gc1bqrfnH4?si=r506ffVPCOULe2Xy"
       title="YouTube video player"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -50,30 +50,29 @@
   <Column contentClass="max-w-screen-sm flex flex-col gap-4 text-lg">
     <h2 id="about-us">About Us</h2>
     <p class="big-text">
-      Domain experts coming together to deliver unique solutions.
+      We specialize in collaboration rooted in deep client relationships. We don't sell a black box service. We find the best solution for you, together. 
     </p>
     <p>
-      My team, and I are absolutely excellent at not only delivering production ready software,
-      but also ensuring that as a business owner, you get a real return on your invested resources.
+      Not only are we absolutely excellent at delivering production ready software, but our skillset ranges marketing, sales, and helping coach our clients to get alignment on what they are doing, 
+      to help them make, better, more meaningful decisions around their business. Profit is a natural byproduct of our process.
     </p>
     <p>
       With experiences working in, for and with tiny 5 person companies, and
       30,000 monolith companies - industries spanning paint e-commerce to
       entrepreneur training platforms, projects in Europe, America, Japan and
-      more - we have the decades of experience required to say we are absolute
-      experts in the field of custom software.
+      more - we have over a decade of experience, allowing us to comfortably navigate you past the burning wreckage of dead projects and get the intended results on the other side.
     </p>
     <div class="flex gap-2 justify-between">
       <div class="flex flex-row justify-start items-center gap-5">
         <div>
           <img
             class="rounded-full w-20 border-2 border-white"
-            alt="Picture of Sanath Sambamoorthi, Co-founder and Project Manager at Gadget Software"
+            alt="Picture of Sanath Sambamoorthi, Founder at Gadget Software"
             src="/sanath-pic-min.jpg" />
         </div>
         <div>
           <p><strong>Sanath Sambamoorthi</strong></p>
-          <p class="text-sm">Manager</p>
+          <p class="text-sm">Manager, Engineer, Coach</p>
         </div>
       </div>
     </div>
