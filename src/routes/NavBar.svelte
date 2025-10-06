@@ -8,6 +8,7 @@
     { title: 'About', url: '/#about-us', always: true },
     { title: 'Testimonials', url: '/testimonials', always: true },
     { title: 'Process', url: '/process', always: true },
+    { title: 'Newsletter', url: '/newsletter', always: true },
     { title: 'Contact us', url: '/contact', always: true }
   ];
 </script>
