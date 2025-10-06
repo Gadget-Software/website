@@ -11,17 +11,18 @@
   <title>Testimonials Gadget Software</title>
 </svelte:head>
 
-<div class="bg-cyan-900 text-white">
-  <Column class="">
-    <div class="mt-8 md:mt-20 mb-8 md:mb-20 px-4 sm:px-0 flex flex-col gap-6 max-w-screen-lg mx-auto">
-      <p class="text-2xl sm:text-3xl">
-        We are passionate about the value created through software and automation. Not just in building it.
-        
+<section class="bg-cyan-900 text-white">
+  <div class="max-w-screen-lg mx-auto px-4">
+    <div class="text-center py-14 md:py-24 flex flex-col gap-4 md:gap-6">
+      <h1 class="text-3xl md:text-5xl font-semibold leading-tight">
+        Get Your <span class="text-cyan-300">We are passionate about the value created through software and automation. Not just in building it.</span>
+      </h1>
+      <p class="text-lg md:text-2xl text-cyan-100">
         Just see what our clients have had to say about us.
       </p>
     </div>
-  </Column>
-</div>
+  </div>
+</section>
 
 <section class="bg-gray-50 py-10">
   <Column>
