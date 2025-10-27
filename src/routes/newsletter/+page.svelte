@@ -2,10 +2,10 @@
 </script>
 
 <svelte:head>
-  <title>Free Business Awareness Audit | Sanath Sambamoorthi</title>
+  <title>Direct Email Access | Sanath Sambamoorthi</title>
   <meta
     name="description"
-    content="Get a free audit to surface bottlenecks, prioritize quick wins, and map your next steps for growth."
+    content="Get direct email access to Sanath. Real-time insights from building and scaling personal brands, plus products and recommendations I'm actually using."
   />
 </svelte:head>
 
@@ -17,7 +17,21 @@
         Get Your <span class="text-cyan-300">Free Business Awareness Audit</span>
       </h1>
       <p class="text-lg md:text-2xl text-cyan-100">
-        Pinpoint blindspots, fix the funnel, and unlock quick wins—fast.
+        Get direct email access
+      </p>
+
+      <p class="tagline">
+        This is not “another newsletter.” This is direct contact with me.
+      </p>
+
+      <p class="lede">
+        I’ll occasionally send you emails with what I’m building, what I’m testing with
+        clients, and what’s actually working for people who are starting and scaling
+        their personal brands.
+      </p>
+
+      <p class="lede">
+        You can reply. I read it.
       </p>
     </div>
   </div>
@@ -57,3 +71,20 @@
     </div>
   </div>
 </section>
+
+<style>
+	.tagline {
+		font-size: 1rem;
+		font-weight: 500;
+		margin: 0 0 0.75rem;
+		color: #000;
+	}
+
+	.lede {
+		font-size: 1rem;
+		margin: 0 0 0.75rem;
+		max-width: 50ch;
+		color: #444;
+		line-height: 1.45;
+	}
+</style>
