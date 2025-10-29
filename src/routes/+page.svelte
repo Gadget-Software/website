@@ -4,21 +4,21 @@
 </script>
 
 <svelte:head>
-  <title>Gadget Software</title>
+  <title>Sanath Sambamoorthi</title>
 </svelte:head>
 
 <div class="bg-cyan-900 text-white">
   <Column class="text-center">
     <div class="mt-8 md:mt-20 mb-8 md:mb-20 flex flex-col gap-3 max-w-screen-sm mx-auto">
       <p>
-        Welcome to Gadget Software
+        Yo! Sanath here.
       </p>
       <p class="big-text">
-        We fulfill your business needs with a mix of <strong> incredible coaching, unique software, and battle tested marketing
+        I fulfill your business needs with a mix of <strong> incredible coaching, unique software, and battle tested marketing
         solutions</strong>
       </p>
       <p>
-        Contact us and learn how we can optimize your business
+        Contact me and learn how we can optimize your business
         in ways you didn't think possible
       </p>
 
@@ -50,17 +50,22 @@
   <Column contentClass="max-w-screen-sm flex flex-col gap-4 text-lg">
     <h2 id="about-us">About Us</h2>
     <p class="big-text">
-      We specialize in collaboration rooted in deep client relationships. We don't sell a black box service. We find the best solution for you, together. 
+      After building dozens and dozens of custom software projects for more than a decade, I got fed up with how many successful builds I did that were monetary failures.
     </p>
     <p>
-      Not only are we absolutely excellent at delivering production ready software, but our skillset ranges marketing, sales, and helping coach our clients to get alignment on what they are doing, 
-      to help them make, better, more meaningful decisions around their business. Profit is a natural byproduct of our process.
+      Driven by the pain of clients spending 5, and sometimes 6 figures USD on projects, and not getting the ROI they thought, I recognized a significant gap in their project cycle, in marketing, awareness, and their customer relationships.
     </p>
     <p>
-      With experiences working in, for and with tiny 5 person companies, and
-      30,000 monolith companies - industries spanning paint e-commerce to
-      entrepreneur training platforms, projects in Europe, America, Japan and
-      more - we have over a decade of experience, allowing us to comfortably navigate you past the burning wreckage of dead projects and get the intended results on the other side.
+      Even though software is still absolutely incredible in terms of it's ability to automate, and understand it's power to scale, I primarily now focus on marketing education, because even with technology, unless you are someone who is on the absolute bleeding edge of the market, the primary issues you are solving are still human, and not technical in nature.
+    </p>
+    <p>
+      So, I spent years educating myself, hours a day, on direct to consumer marketing so that a client would never have to go through that experience again.
+    </p>
+    <p>
+      My methodology is unique - my assistance in your marketing and promotion is custom tailored - I take time to deeply understand you, your business, your strengths and weaknesses, and through that process work collaboratively on next steps, and getting you to actually do those steps.
+    </p>
+    <p>
+      With a deep understanding of the material, I have had the priviledge and luck to work with amazing clients spanning extremely varied industries. In order to facilitate change, developing self-awareness, and awareness of your situation is paramount, so I keep a trusting, open space where information is held private, allowing you to speak frankly, be vulnerable with yourself, and discover where positive change and movement can actually occur. This will ultimately get the financial results that you are looking for.
     </p>
     <div class="flex gap-2 justify-between">
       <div class="flex flex-row justify-start items-center gap-5">
