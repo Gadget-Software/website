@@ -14,7 +14,7 @@
         Yo! Sanath here.
       </p>
       <p class="big-text">
-        I fulfill your business needs with a mix of <strong class="text-yellow-300"> incredible coaching, unique software, and battle tested marketing
+        I fulfill your business needs with a mix of <strong class="text-yellow-200"> incredible coaching, unique software, and battle tested marketing
         solutions</strong>
       </p>
       <p>
@@ -50,9 +50,9 @@
   <Column contentClass="max-w-md md:max-w-screen-md lg:max-w-screen-lg xl:max-w-screen-xl flex flex-col gap-4 text-lg px-4">
     <h2 id="about-us">About Us</h2>
     <p class="big-text">
-      After building dozens and dozens of custom software projects for more than a decade, I got fed up with  how many 
-      <span class="text-yellow-200 font-semibold">successful builds I did that were </span>
-      <span class="text-rose-200 font-semibold">monetary failures</span>.
+      After a decade of building dozens of custom software projects, I got fed up with how many 
+      <span class="text-green-300 font-semibold">successful builds </span> I did that were 
+      <span class="text-rose-400 font-semibold">monetary failures</span>.
     </p>
     <p>
       Driven by the pain of clients spending 5, and sometimes 6 figures USD on projects, and not getting the ROI I wanted for them, I recognized a significant gap in their project cycle, revolving around marketing, awareness, and their customer relationships.
