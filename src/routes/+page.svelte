@@ -47,7 +47,7 @@
 </div>
 
 <section class="bg-cyan-600 text-white py-10 md:py-20">
-  <Column contentClass="max-w-screen-sm flex flex-col gap-4 text-lg">
+  <Column contentClass="max-w-md md:max-w-screen-md lg:max-w-screen-lg xl:max-w-screen-xl flex flex-col gap-4 text-lg px-4">
     <h2 id="about-us">About Us</h2>
     <p class="big-text">
       After building dozens and dozens of custom software projects for more than a decade, I got fed up with how many successful builds I did that were monetary failures.
@@ -77,7 +77,7 @@
         </div>
         <div>
           <p><strong>Sanath Sambamoorthi</strong></p>
-          <p class="text-sm">Manager, Engineer, Coach</p>
+          <p class="text-sm">Manager, Marketer, Engineer, Coach</p>
         </div>
       </div>
     </div>
