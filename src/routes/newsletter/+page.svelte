@@ -14,7 +14,7 @@
   <div class="max-w-screen-lg mx-auto px-4">
     <div class="text-center py-14 md:py-24 flex flex-col gap-4 md:gap-6">
       <h1 class="text-3xl md:text-5xl font-semibold leading-tight">
-        Get<span class="text-cyan-300"> direct email access</span>
+        Get <span class="text-cyan-300"> direct email access</span>
       </h1>
       <p class="text-lg md:text-2xl text-cyan-100">
         This is not “another newsletter.” This is direct contact with me.
@@ -29,7 +29,7 @@
     <div class="py-10 md:py-16 grid gap-8 text-center">
       <h2 class="text-2xl md:text-3xl font-semibold">        
         I’ll occasionally send you emails with what I’m building, what I’m testing with
-        clients, and what’s actually working for people who are starting and scaling
+        clients, and what’s actually working for people who are starting, and scaling
         their personal brands.
       </h2>
       <!-- insert Kit form script -->
