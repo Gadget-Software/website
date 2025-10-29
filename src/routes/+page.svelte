@@ -14,7 +14,7 @@
         Yo! Sanath here.
       </p>
       <p class="big-text">
-        I fulfill your business needs with a mix of <strong> incredible coaching, unique software, and battle tested marketing
+        I fulfill your business needs with a mix of <strong class="text-yellow-300"> incredible coaching, unique software, and battle tested marketing
         solutions</strong>
       </p>
       <p>
@@ -50,22 +50,30 @@
   <Column contentClass="max-w-md md:max-w-screen-md lg:max-w-screen-lg xl:max-w-screen-xl flex flex-col gap-4 text-lg px-4">
     <h2 id="about-us">About Us</h2>
     <p class="big-text">
-      After building dozens and dozens of custom software projects for more than a decade, I got fed up with how many successful builds I did that were monetary failures.
+      After building dozens and dozens of custom software projects for more than a decade, I got fed up with  how many 
+      <span class="text-yellow-200 font-semibold">successful builds I did that were </span>
+      <span class="text-rose-200 font-semibold">monetary failures</span>.
     </p>
     <p>
-      Driven by the pain of clients spending 5, and sometimes 6 figures USD on projects, and not getting the ROI they thought, I recognized a significant gap in their project cycle, in marketing, awareness, and their customer relationships.
+      Driven by the pain of clients spending 5, and sometimes 6 figures USD on projects, and not getting the ROI I wanted for them, I recognized a significant gap in their project cycle, revolving around marketing, awareness, and their customer relationships.
     </p>
     <p>
-      Even though software is still absolutely incredible in terms of it's ability to automate, and understand it's power to scale, I primarily now focus on marketing education, because even with technology, unless you are someone who is on the absolute bleeding edge of the market, the primary issues you are solving are still human, and not technical in nature.
+      Even though I am still astounded by software's ability to automate and power to scale, the recognition that this is not enough to create great businesses has pushed me into focusing on marketing education. Even with technology, unless you are someone who is on the absolute bleeding edge of the market, the primary issues you are solving are still human, and not technical in nature.
     </p>
     <p>
-      So, I spent years educating myself, hours a day, on direct to consumer marketing so that a client would never have to go through that experience again.
+      So, I spent years educating myself, and experimenting, hours a day, thousands of dollars invested, in understanding direct to consumer marketing so that a client would never have to go through an experience of investing money into a project, or their business, for no return, again.
     </p>
     <p>
-      My methodology is unique - my assistance in your marketing and promotion is custom tailored - I take time to deeply understand you, your business, your strengths and weaknesses, and through that process work collaboratively on next steps, and getting you to actually do those steps.
+       And, amazingly, with a deep understanding of the material, I have had the priviledge and luck to work with amazing clients spanning extremely varied industries.
     </p>
     <p>
-      With a deep understanding of the material, I have had the priviledge and luck to work with amazing clients spanning extremely varied industries. In order to facilitate change, developing self-awareness, and awareness of your situation is paramount, so I keep a trusting, open space where information is held private, allowing you to speak frankly, be vulnerable with yourself, and discover where positive change and movement can actually occur. This will ultimately get the financial results that you are looking for.
+      Through this, I've developed a very unique methodology - my assistance in your marketing and promotion is extremely custom - I take time to deeply understand you, your business, your strengths and weaknesses, and through that process work collaboratively on things step, by step.
+    </p>
+    <p>
+       Developing self-awareness, and awareness of your situation is core to the process, so I keep a trusting, open space where information is held private, allowing you to speak frankly, be vulnerable with yourself, and discover where positive change and movement can actually occur. The financial results are one of many benefits to be derived.
+    </p>
+    <p>
+       I only work with a handful of people at a time. So if you are interested, reach out to check my availability.
     </p>
     <div class="flex gap-2 justify-between">
       <div class="flex flex-row justify-start items-center gap-5">
