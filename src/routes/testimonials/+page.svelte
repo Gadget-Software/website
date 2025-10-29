@@ -15,7 +15,7 @@
   <div class="max-w-screen-lg mx-auto px-4">
     <div class="text-center py-14 md:py-24 flex flex-col gap-4 md:gap-6">
       <h1 class="text-3xl md:text-5xl font-semibold leading-tight">
-        Get Your <span class="text-cyan-300">We are passionate about the value created through software and automation. Not just in building it.</span>
+        <span class="text-cyan-300">We are passionate about the value created through software and automation. Not just in building it.</span>
       </h1>
       <p class="text-lg md:text-2xl text-cyan-100">
         Just see what our clients have had to say about us.
