@@ -14,24 +14,10 @@
   <div class="max-w-screen-lg mx-auto px-4">
     <div class="text-center py-14 md:py-24 flex flex-col gap-4 md:gap-6">
       <h1 class="text-3xl md:text-5xl font-semibold leading-tight">
-        Get Your <span class="text-cyan-300">Free Business Awareness Audit</span>
+        Get<span class="text-cyan-300"> direct email access</span>
       </h1>
       <p class="text-lg md:text-2xl text-cyan-100">
-        Get direct email access
-      </p>
-
-      <p class="tagline">
         This is not “another newsletter.” This is direct contact with me.
-      </p>
-
-      <p class="lede">
-        I’ll occasionally send you emails with what I’m building, what I’m testing with
-        clients, and what’s actually working for people who are starting and scaling
-        their personal brands.
-      </p>
-
-      <p class="lede">
-        You can reply. I read it.
       </p>
     </div>
   </div>
