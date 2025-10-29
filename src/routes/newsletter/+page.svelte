@@ -27,8 +27,10 @@
 <section class="bg-white text-cyan-900">
   <div class="max-w-screen-lg mx-auto px-4">
     <div class="py-10 md:py-16 grid gap-8 text-center">
-      <h2 class="text-2xl md:text-3xl font-semibold">
-        Making enough money, building a meaningful career, and designing a life you love start with AWARENESS.
+      <h2 class="text-2xl md:text-3xl font-semibold">        
+        I’ll occasionally send you emails with what I’m building, what I’m testing with
+        clients, and what’s actually working for people who are starting and scaling
+        their personal brands.
       </h2>
       <!-- insert Kit form script -->
       <div class="mx-auto w-full max-w-xl">
