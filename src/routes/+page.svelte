@@ -14,7 +14,7 @@
         Yo! Sanath here.
       </p>
       <p class="big-text">
-        I fulfill your business needs with a mix of <strong class="text-yellow-200"> incredible coaching, unique software, and battle tested marketing
+        I fulfill your business needs with a mix of <strong class="text-yellow-200"> incredible coaching, unique software, </strong> and <strong class="text-yellow-200"> battle tested marketing
         solutions</strong>
       </p>
       <p>
