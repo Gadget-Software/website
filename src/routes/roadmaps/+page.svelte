@@ -12,7 +12,7 @@
   ];
 
   function choose(slug: string) {
-    goto(`/process/${slug}`);
+    goto(`/roadmaps/${slug}`);
   }
 </script>
 
