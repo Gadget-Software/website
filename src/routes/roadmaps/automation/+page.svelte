@@ -11,7 +11,7 @@
 <section class="bg-gray-50 py-10">
   <Column>
     <h2 class="big-text text-center text-cyan-800">
-      Workflow Automation Process
+      Workflow Automation Roadmap
     </h2>
 
     <TestimonialCard title="Step 1: Understand the Current Workflow">
@@ -148,7 +148,7 @@
       href="/contact"
       class="px-6 py-4 text-2xl md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded transition"
     >
-      Start Your Automation
+      Start Your Automation Project
     </a>
   </Column>
 </section>

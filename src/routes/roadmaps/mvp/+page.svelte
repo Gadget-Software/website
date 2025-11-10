@@ -5,13 +5,13 @@
 </script>
 
 <svelte:head>
-  <title>Our Process</title>
+  <title>Minimum Viable Product Roadmap - Gadget Software</title>
 </svelte:head>
 
 <section class="bg-gray-50 py-10">
   <Column>
     <h2 id="case-studies" class="big-text text-center text-cyan-800">
-      Process
+      Validated Minimum Viable Product Roadmap
     </h2>
 
     <TestimonialCard title="Step 1: Niching">

@@ -5,13 +5,13 @@
 </script>
 
 <svelte:head>
-  <title>Personal Brand for Artists & Teachers – Gadget Software</title>
+  <title>Personal Brand for Artists & Teachers - Gadget Software</title>
 </svelte:head>
 
 <section class="bg-gray-50 py-10">
   <Column>
     <h2 class="big-text text-center text-cyan-800">
-      Personal Brand Process for Artists & Teachers
+      Personal Brand Roadmap
     </h2>
 
     <TestimonialCard title="Step 1: Define Your Foundation">
