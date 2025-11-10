@@ -18,12 +18,12 @@
   // Works **after** hydration
   function navigate(e: MouseEvent, slug: string) {
     e.preventDefault();
-    goto(`/process/${slug}`);
+    goto(`/roadmaps/${slug}`);
   }
 </script>
 
 <svelte:head>
-  <title>Choose Your Process – Gadget Software</title>
+  <title>Choose Your Roadmap</title>
 </svelte:head>
 
 <section class="bg-gray-50 py-16 md:py-24">
@@ -36,7 +36,7 @@
       {#each options as opt}
         <!-- Fallback <a> + JS enhancement -->
         <a
-          href="/process/{opt.slug}"
+          href="/roadmaps/{opt.slug}"
           on:click|preventDefault={(e) => navigate(e, opt.slug)}
           class="group block p-8 bg-white rounded-lg shadow-md hover:shadow-xl transition-all duration-300 flex flex-col items-center text-center focus:outline-none focus:ring-2 focus:ring-cyan-500"
         >
