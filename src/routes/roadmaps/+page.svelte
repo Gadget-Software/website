@@ -60,7 +60,7 @@
 <section class="bg-cyan-600 text-white py-12 md:py-20">
   <Column contentClass="flex flex-col items-center gap-6 text-center">
     <h2 class="big-text alt">
-      Not sure? <strong>Get in touch</strong>
+      Not sure where you fit in, but still want to get to learn more? <strong>Get in touch</strong>
     </h2>
     <a
       href="/contact"

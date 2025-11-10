@@ -18,14 +18,14 @@
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
         <div class="w-full md:w-1/2">
           <p>
-            We begin by deeply mapping your existing workflow — through interviews, shadowing, and tracing how information flows between people, departments, and systems.
+            The initial step is deeply mapping your existing workflow — through interviews, shadowing, and tracing how information flows between people, departments, and systems.
             <br /><br />
             With software costs dropping, this discovery phase now constitutes 80% of the project’s success. Understanding the lifecycle of data is critical.
           </p>
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
           <p>
-            We sit with your team, observe daily operations, and document every handoff, delay, and data entry point.
+            Sitting with your team, observe daily operations, and document every handoff, delay, and data entry point will pay dividends downstream.
             <br /><br />
             This isn’t just about “what” — it’s about why, who, and how often.
           </p>
@@ -37,14 +37,14 @@
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
         <div class="w-full md:w-1/2">
           <p>
-            With full visibility, we pinpoint duplicate data entry, manual reporting, and bottlenecks.
+            With full visibility, this gives an opportunity to pinpoint duplicate data entry, manual reporting, and bottlenecks.
             <br /><br />
-            We also uncover low-hanging fruit: automated dashboards, real-time alerts, and admin reporting that were previously impossible.
+            Loow-hanging fruit is easily uncovered at this point: automated dashboards, real-time alerts, and admin reporting that were previously impossible.
           </p>
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
           <p>
-            This is where ROI becomes crystal clear. A single eliminated spreadsheet can save thousands of hours per year.
+            This is where ROI becomes crystal clear. A single eliminated spreadsheet can save a scary number of man hours and result in immediate cost savings per year.
           </p>
         </figure>
       </div>
@@ -54,14 +54,14 @@
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
         <div class="w-full md:w-1/2">
           <p>
-            Now we know: off-the-shelf tool, custom build, or hybrid?
+            With this clarity, understanding what is best - an off-the-shelf tool, custom build, or hybrid setup becomes much simpler to understand.
             <br /><br />
-            We draft a bulletproof proposal with clear scope, timeline, risk mitigation, and success metrics.
+            At this point, a proposal with a clear scope, timeline, cost, risk mitigation, and success metrics is many fold more likely to be correct.
           </p>
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
           <p>
-            High-risk components are flagged early. You sign off knowing exactly what you’re getting.
+            High-risk components and complexity can be flagged early here. Since the majority of the ambiguity is removed, a clear decision on moving forward (or not!) can be met with confidence.
           </p>
         </figure>
       </div>
@@ -71,7 +71,7 @@
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
         <div class="w-full md:w-1/2">
           <p>
-            Automation changes jobs. We forecast:
+            Automation changes jobs. To turn potential crisis into opportunity, forecasting is extremely important:
             <br />
             • Reduced man-hours<br />
             • Role shifts<br />
@@ -80,7 +80,7 @@
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
           <p>
-            We build a change management plan so your team adopts, not resists.
+            Building a change management plan your team is excited about, rather than resists, will be pivotal for getting the return on the project.
           </p>
         </figure>
       </div>
@@ -90,14 +90,14 @@
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
         <div class="w-full md:w-1/2">
           <p>
-            We automate piece by piece when possible — reducing risk and enabling early wins.
+            Automate piece by piece when possible — reducing risk and enabling early wins.
             <br /><br />
             Sometimes a full build is required — but never without fallback.
           </p>
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
           <p>
-            Each module is tested in real use. Feedback loops are built in from day one.
+            Each module is tested in real use. Feedback loops are built in from day one. Course correction is easier and smoother, if it happens with higher testing and cadence.
           </p>
         </figure>
       </div>
@@ -107,7 +107,7 @@
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
         <div class="w-full md:w-1/2">
           <p>
-            Users are trained hands-on. We watch how they actually use it — not just what they say.
+            Users are trained hands-on. Watch how they actually use it — not just what they say. There is endless surprise in these steps, and sometimes there are massive opportunities that reveal themselves at this step.
           </p>
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
@@ -122,7 +122,7 @@
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
         <div class="w-full md:w-1/2">
           <p>
-            Most value comes after launch. We implement observed improvements:
+            Most value comes after launch. Implementing observed improvements results in greater momentum:
             <br />
             • Faster workflows<br />
             • Better UX<br />
@@ -131,7 +131,7 @@
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
           <p>
-            Clients often see 2–3x the original ROI after this phase.
+            It's sometimes possible to see even higher returns on the project than originally expected from post-launch improvements.
           </p>
         </figure>
       </div>
@@ -142,13 +142,13 @@
 <section class="bg-cyan-600 text-white py-10 md:py-20">
   <Column contentClass="flex flex-col items-center gap-6 text-center">
     <h2 class="big-text alt">
-      Ready to automate? <strong>Let’s talk</strong>
+      Understand the process, but still want my direct guidance? <strong>Let’s talk</strong>
     </h2>
     <a
       href="/contact"
       class="px-6 py-4 text-2xl md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded transition"
     >
-      Start Your Automation Project
+      Get in Contact and Let's Get Started
     </a>
   </Column>
 </section>
