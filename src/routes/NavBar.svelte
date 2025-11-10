@@ -8,13 +8,13 @@
   const links: { title: string, url: string, always: boolean }[] = [
     { title: 'About', url: '/#about', always: true },
     { title: 'Testimonials', url: '/testimonials', always: true },
-    { title: 'Process', 
-      url: '/process', 
+    { title: 'Success Roadmaps', 
+      url: '/roadmaps', 
       always: true,
       sublinks: [
-        { title: "Proof of Concept for Startups", url: "/process/mvp" },
-        { title: "Enterprise RPA/Workflow Automation", url: "/process/automation" },
-        { title: "Personal Brand for Artists/Independent Teachers", url: "/process/personal-brand" },
+        { title: "Proof of Concept for Startups", url: "/roadmaps/mvp" },
+        { title: "Enterprise RPA/Workflow Automation", url: "/roadmaps/automation" },
+        { title: "Personal Brand for Artists/Independent Teachers", url: "/roadmaps/personal-brand" },
       ]
     },
     { title: 'Newsletter', url: '/newsletter', always: true },
@@ -40,31 +40,9 @@
           <ul class="flex gap-8">
             {#each links as link}
               <li class="relative group" class:hidden={!link.always}>
-                {#if link.sublinks}
-                  <!-- Dropdown trigger -->
-                  <button class="flex items-center gap-1 px-2 py-4 hover:text-blue-600 transition">
-                    {link.title}
-                    <Fa icon={faChevronDown} class="text-xs" />
-                  </button>
-
-                  <!-- Dropdown menu -->
-                  <ul style="margin-top: -1px;" class="absolute left-0 top-full mt-2 w-48 bg-white shadow-lg rounded-md opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-opacity duration-200 z-50">
-                    {#each link.sublinks as sub}
-                      <li>
-                        <a
-                          href={sub.url}
-                          class="block px-4 py-2 text-sm hover:bg-gray-100"
-                        >
-                          {sub.title}
-                        </a>
-                      </li>
-                    {/each}
-                  </ul>
-                {:else}
                   <a href={link.url} class="hover:text-blue-600 transition">
                     {link.title}
                   </a>
-                {/if}
               </li>
             {/each}
           </ul>
@@ -95,28 +73,9 @@
   <ul class="flex flex-col w-full">
     {#each links as link}
       <li class="border-t-[1px] border-t-gray-300">
-        {#if link.sublinks}
-          <!-- Expandable section in mobile -->
-          <details class="w-full">
-            <summary class="py-3 px-4 flex justify-between items-center cursor-pointer">
-              {link.title}
-              <Fa icon={faChevronDown} class="text-xs transition-transform" />
-            </summary>
-            <ul class="bg-gray-50">
-              {#each link.sublinks as sub}
-                <li class="border-t border-t-gray-200">
-                  <a href={sub.url} class="block py-2 px-6 text-sm">
-                    {sub.title}
-                  </a>
-                </li>
-              {/each}
-            </ul>
-          </details>
-        {:else}
           <a href={link.url} class="block py-3 px-4">
             {link.title}
           </a>
-        {/if}
       </li>
     {/each}
   </ul>
