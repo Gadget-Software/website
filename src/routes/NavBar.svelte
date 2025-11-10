@@ -4,6 +4,7 @@
   import Fa from "svelte-fa/src/fa.svelte";
   import {faBars, faChevronDown} from "@fortawesome/free-solid-svg-icons";
 
+
   const links: { title: string, url: string, always: boolean }[] = [
     { title: 'About', url: '/#about', always: true },
     { title: 'Testimonials', url: '/testimonials', always: true },
@@ -41,13 +42,13 @@
               <li class="relative group" class:hidden={!link.always}>
                 {#if link.sublinks}
                   <!-- Dropdown trigger -->
-                  <button class="flex items-center gap-1 hover:text-blue-600 transition">
+                  <button class="flex items-center gap-1 px-2 py-4 hover:text-blue-600 transition">
                     {link.title}
                     <Fa icon={faChevronDown} class="text-xs" />
                   </button>
 
                   <!-- Dropdown menu -->
-                  <ul class="absolute left-0 top-full mt-2 w-48 bg-white shadow-lg rounded-md opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-opacity duration-200 z-50">
+                  <ul style="margin-top: -1px;" class="absolute left-0 top-full mt-2 w-48 bg-white shadow-lg rounded-md opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-opacity duration-200 z-50">
                     {#each link.sublinks as sub}
                       <li>
                         <a
@@ -125,5 +126,15 @@
   /* Tailwind already handles most, but add a tiny tweak for the chevron rotation */
   details[open] summary > svg {
     transform: rotate(180deg);
+  }
+  
+  nav .group::before {
+      content: "";
+      position: absolute;
+      top: 100%;
+      left: 0;
+      width: 100%;
+      height: 8px;
+      background: transparent;
   }
 </style>
