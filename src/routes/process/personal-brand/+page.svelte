@@ -18,9 +18,9 @@
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
         <div class="w-full md:w-1/2">
           <p>
-            We map your **strengths**, **goals**, and viable **business models**.
+            We map your strengths, goals, and viable business models.
             <br /><br />
-            You get a custom action plan and your **off-platform hub**: personal website + email list.
+            You get a custom action plan and your off-platform hub: personal website + email list.
           </p>
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
@@ -35,7 +35,7 @@
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
         <div class="w-full md:w-1/2">
           <p>
-            We analyze what **still works** in your niche:
+            We analyze what still works in your niche:
             <br />
             • Patreon? Courses? Live events?<br />
             • YouTube → Email → Paid product?
@@ -43,7 +43,7 @@
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
           <p>
-            Touring rarely works unless you’re already famous. We focus on **scalable, sustainable paths**.
+            Touring rarely works unless you’re already famous. We focus on scalable, sustainable paths.
           </p>
         </figure>
       </div>
@@ -53,12 +53,12 @@
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
         <div class="w-full md:w-1/2">
           <p>
-            Time to **publish consistently** on YouTube, Instagram, TikTok — wherever your people are.
+            Time to publish consistently on YouTube, Instagram, TikTok — wherever your people are.
           </p>
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
           <p>
-            We help you batch, schedule, and optimize for **algorithm + human engagement**.
+            We help you batch, schedule, and optimize for algorithm + human engagement.
           </p>
         </figure>
       </div>
@@ -78,7 +78,7 @@
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
           <p>
-            Sometimes **therapy or coaching** is the fix. We’ll point you there if needed.
+            Sometimes therapy or coaching is the fix. We’ll point you there if needed.
           </p>
         </figure>
       </div>
@@ -97,7 +97,7 @@
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
           <p>
-            Every post is data. We refine hooks, thumbnails, CTAs — and **grow your list**.
+            Every post is data. We refine hooks, thumbnails, CTAs — and grow your list.
           </p>
         </figure>
       </div>
@@ -109,7 +109,7 @@
           <p>
             Free → $9 → $97 → $997
             <br /><br />
-            Digital courses, coaching, templates, memberships — tailored to **your** audience.
+            Digital courses, coaching, templates, memberships — tailored to your audience.
           </p>
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
@@ -150,7 +150,7 @@
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
           <p>
-            We fix it. Then **rinse and repeat** — bigger audience, better offers, higher income.
+            We fix it. Then rinse and repeat — bigger audience, better offers, higher income.
           </p>
         </figure>
       </div>
