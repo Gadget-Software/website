@@ -46,9 +46,9 @@
   </Column>
 </div>
 
-<section class="bg-cyan-600 text-white py-10 md:py-20">
+<section id="about-us" class="bg-cyan-600 text-white py-10 md:py-20">
   <Column contentClass="max-w-md md:max-w-screen-md lg:max-w-screen-lg xl:max-w-screen-xl flex flex-col gap-4 text-lg px-4">
-    <h2 id="about-us">About Us</h2>
+    <h2>About Us</h2>
     <p class="big-text">
       After a decade of building dozens of custom software projects, I got fed up with how many 
       <span class="text-green-300 font-semibold">successful builds </span> I did that were 
