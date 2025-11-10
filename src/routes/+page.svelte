@@ -23,8 +23,8 @@
       </p>
 
       <p class="flex gap-6 justify-center">
-        <a href="#about-us" class="btn">
-          Learn More About Me
+        <a href="#about" class="btn">
+          Learn More
         </a>
       </p>
     </div>
@@ -46,13 +46,12 @@
   </Column>
 </div>
 
-<section id="about-us" class="bg-cyan-600 text-white py-10 md:py-20">
+<section id="about" class="bg-cyan-600 text-white py-10 md:py-20">
   <Column contentClass="max-w-md md:max-w-screen-md lg:max-w-screen-lg xl:max-w-screen-xl flex flex-col gap-4 text-lg px-4">
-    <h2>About Us</h2>
     <p class="big-text">
       After a decade of building dozens of custom software projects, I got fed up with how many 
       <span class="text-green-300 font-semibold">successful builds </span> I did that were 
-      <span class="text-rose-400 font-semibold">monetary failures</span>.
+      <span class="text-rose-400 font-semibold">monetary failures.</span>
     </p>
     <p>
       Driven by the pain of clients spending 5, and sometimes 6 figures USD on projects, and not getting the ROI I wanted for them, I recognized a significant gap in their project cycle, revolving around marketing, awareness, and their customer relationships.
@@ -85,7 +84,7 @@
         </div>
         <div>
           <p><strong>Sanath Sambamoorthi</strong></p>
-          <p class="text-sm">Marketer, Engineer, Coach</p>
+          <p class="text-sm">Marketer, Software Engineer, Coach</p>
         </div>
       </div>
     </div>
@@ -93,11 +92,10 @@
 
   <section class="bg-cyan-600 text-white py-10 md:py-20">
     <Column contentClass="flex flex-col items-center gap-6">
-      <h2 id="book-a-call" class="big-text alt text-center">
-        Get in touch <strong>today</strong>
-      </h2>
       <a class="px-4 py-2 text-2xl md:px-6 md:py-4 md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded" href="/process">
-        Learn More About Our Process
+        <h2 id="book-a-call" class="big-text alt text-center">
+          Learn More About My <strong>Process</strong>
+        </h2>
       </a>
     </Column>
   </section>
