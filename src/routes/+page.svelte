@@ -24,7 +24,7 @@
 
       <p class="flex gap-6 justify-center">
         <a href="#about-us" class="btn">
-          Learn More
+          Learn More About Me
         </a>
       </p>
     </div>
@@ -85,7 +85,7 @@
         </div>
         <div>
           <p><strong>Sanath Sambamoorthi</strong></p>
-          <p class="text-sm">Manager, Marketer, Engineer, Coach</p>
+          <p class="text-sm">Marketer, Engineer, Coach</p>
         </div>
       </div>
     </div>
@@ -96,8 +96,8 @@
       <h2 id="book-a-call" class="big-text alt text-center">
         Get in touch <strong>today</strong>
       </h2>
-      <a class="px-4 py-2 text-2xl md:px-6 md:py-4 md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded" href="/contact">
-        Work with us
+      <a class="px-4 py-2 text-2xl md:px-6 md:py-4 md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded" href="/process">
+        Learn More About Our Process
       </a>
     </Column>
   </section>
