@@ -17,15 +17,12 @@
         I fulfill your business needs with a mix of <strong class="text-yellow-200"> incredible coaching, unique software, </strong> and <strong class="text-yellow-200"> battle tested marketing
         solutions</strong>
       </p>
-      <p>
-        Contact me and learn how we can optimize your business
-        in ways you didn't think possible
-      </p>
-
       <p class="flex gap-6 justify-center">
         <a href="#about" class="btn">
           Learn More
         </a>
+        on how we can improve your business
+        in ways you didn't think possible
       </p>
     </div>
     <div class="h-56"></div>
@@ -94,7 +91,7 @@
     <Column contentClass="flex flex-col items-center gap-6">
       <a class="px-4 py-2 text-2xl md:px-6 md:py-4 md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded" href="/roadmaps">
         <h2 id="book-a-call" class="big-text alt text-center">
-          Learn More About My <strong>Process</strong>
+          Still Resonating? Check out the <strong>Success Roadmaps</strong> I made for you.
         </h2>
       </a>
     </Column>
