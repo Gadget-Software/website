@@ -61,7 +61,7 @@
       Even though I am still astounded by software's ability to automate and power to scale, the recognition that this is not enough to create great businesses has pushed me into focusing on marketing education. Even with technology, unless you are someone who is on the absolute bleeding edge of the market, the primary issues you are solving are still human, and not technical in nature.
     </p>
     <p>
-      So, I spent years educating myself, and experimenting, hours a day, thousands of dollars invested, in understanding direct to consumer marketing so that a client would never have to go through an experience of investing money into a project, or their business, for no return, again.
+      So, I spent years educating myself, and experimenting, hours a day, tens of thousands of dollars invested, in understanding direct to consumer marketing so that a client would never have to go through an experience of investing money into a project, or their business, for no return, again.
     </p>
     <p>
        And, amazingly, with a deep understanding of the material, I have had the priviledge and luck to work with amazing clients spanning extremely varied industries.
