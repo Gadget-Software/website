@@ -9,7 +9,7 @@
     { title: 'Testimonials', url: '/testimonials', always: true },
     { title: 'Process', 
       url: '/process', 
-      always: true 
+      always: true,
       sublinks: [
         { title: "Proof of Concept for Startups", url: "/process/mvp" },
         { title: "Enterprise RPA/Workflow Automation", url: "/process/automation" },
