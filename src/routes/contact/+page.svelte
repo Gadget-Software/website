@@ -24,13 +24,13 @@
       <h2>How I Work</h2>
       <ul>
         <li><strong>Consulting & Coaching</strong><br />
-          Sessions start at <b>¥18,000/hr</b>. Discounted packages available for longer engagements.
+          Sessions start at <b>¥25,000/hr</b>. Discounted packages available for longer engagements.
         </li>
-        <li><strong>Projects</strong><br />
-          Marketing / software projects start from <b>¥200,000 base</b>, with implementation scoped collaboratively.
+        <li><strong>Marketing</strong><br />
+          Marketing Projects start from <b>¥600,000</b>.
         </li>
-        <li><strong>Retainers</strong><br />
-          Ongoing support available <em>by invitation</em>.
+        <li><strong>Software</strong><br />
+          Software Projects from <b>¥1,200,000 base</b>, with implementation scoped collaboratively.
         </li>
       </ul>
       <p class="note">I prioritize coaching-led, longer relationships.</p>
@@ -72,8 +72,8 @@
           <option value="">Select…</option>
           <option>Hourly Session</option>
           <option>10-Session Pack</option>
-          <option>Project (Marketing/Software)</option>
-          <option>Monthly Retainer (Invitation)</option>
+          <option>Marketing Project</option>
+          <option>Software Project</option>
         </select>
       </label>
 
@@ -81,10 +81,9 @@
         Indicative budget:
         <select name="budget">
           <option value="">Select…</option>
-          <option>Under ¥150,000</option>
-          <option>¥150,000–¥300,000</option>
-          <option>¥300,000–¥600,000</option>
-          <option>¥600,000+</option>
+          <option>¥150,000–¥600,000</option>
+          <option>¥600,000–¥1,200,000</option>
+          <option>¥1,200,0000+</option>
         </select>
       </label>
 
