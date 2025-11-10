@@ -10,9 +10,9 @@
   import { goto } from "$app/navigation";
 
   const options = [
-    { label: "Tech Entrepreneur", slug: "mvp", icon: faLaptopCode },
-    { label: "Artist / Teacher", slug: "personal-brand", icon: faPaintBrush },
-    { label: "Enterprise Business", slug: "automation", icon: faBuilding }
+    { label: "Tech Entrepreneur", slug: "mvp", icon: faLaptopCode, descr: "Build the proper foundations for viable, profitable product, and, if you want, through that - the ability to easily raise capital, and an even easier exit"  },
+    { label: "Artist / Teacher", slug: "personal-brand", icon: faPaintBrush, descr: "Create a personal brand that matches your values, integrity, and provides a platform for you to earn the money you deserve by being who you are to the hilt" },
+    { label: "Enterprise Business", slug: "automation", icon: faBuilding, descr: "Learn how to limit your organizational and career risk when implementing software systems, while generating a huge return for your company, and ultimately yourself" }
   ];
 
   // Works **after** hydration
