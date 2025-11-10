@@ -1,6 +1,6 @@
 <script lang="ts">
-  import Column from "$lib/Column.svelte";
-  import Footer from "$lib/Footer.svelte";
+  import Column from "../Column.svelte";
+  import Footer from "../Footer.svelte";
   import Fa from "svelte-fa/src/fa.svelte";
   import {
     faLaptopCode,
