@@ -35,7 +35,7 @@
         >
           <div class="mb-4 text-5xl text-cyan-600 group-hover:text-cyan-800 transition">
             <!-- Simple icons – replace with your own if you want -->
-            {#if opt.slug === "tech-entrepreneur"}Code{:else if opt.slug === "artist-teacher"}PaintBrush{:else}Building{/if}
+            {#if opt.slug === "mvp"}Code{:else if opt.slug === "personal-brand"}PaintBrush{:else}Building{/if}
           </div>
           <h3 class="text-xl font-semibold text-gray-800 mb-2">
             {opt.label}
