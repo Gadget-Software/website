@@ -20,14 +20,14 @@
           <p>
             We begin by deeply mapping your existing workflow — through interviews, shadowing, and tracing how information flows between people, departments, and systems.
             <br /><br />
-            With software costs dropping, this discovery phase now constitutes **80% of the project’s success**. Understanding the lifecycle of data is critical.
+            With software costs dropping, this discovery phase now constitutes 80% of the project’s success. Understanding the lifecycle of data is critical.
           </p>
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
           <p>
             We sit with your team, observe daily operations, and document every handoff, delay, and data entry point.
             <br /><br />
-            This isn’t just about “what” — it’s about **why**, **who**, and **how often**.
+            This isn’t just about “what” — it’s about why, who, and how often.
           </p>
         </figure>
       </div>
@@ -39,7 +39,7 @@
           <p>
             With full visibility, we pinpoint duplicate data entry, manual reporting, and bottlenecks.
             <br /><br />
-            We also uncover **low-hanging fruit**: automated dashboards, real-time alerts, and admin reporting that were previously impossible.
+            We also uncover low-hanging fruit: automated dashboards, real-time alerts, and admin reporting that were previously impossible.
           </p>
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
@@ -56,12 +56,12 @@
           <p>
             Now we know: off-the-shelf tool, custom build, or hybrid?
             <br /><br />
-            We draft a **bulletproof proposal** with clear scope, timeline, risk mitigation, and success metrics.
+            We draft a bulletproof proposal with clear scope, timeline, risk mitigation, and success metrics.
           </p>
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
           <p>
-            High-risk components are flagged early. You sign off knowing **exactly** what you’re getting.
+            High-risk components are flagged early. You sign off knowing exactly what you’re getting.
           </p>
         </figure>
       </div>
@@ -80,7 +80,7 @@
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
           <p>
-            We build a change management plan so your team **adopts**, not resists.
+            We build a change management plan so your team adopts, not resists.
           </p>
         </figure>
       </div>
@@ -90,7 +90,7 @@
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
         <div class="w-full md:w-1/2">
           <p>
-            We automate **piece by piece** when possible — reducing risk and enabling early wins.
+            We automate piece by piece when possible — reducing risk and enabling early wins.
             <br /><br />
             Sometimes a full build is required — but never without fallback.
           </p>
@@ -107,7 +107,7 @@
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
         <div class="w-full md:w-1/2">
           <p>
-            Users are trained hands-on. We **watch how they actually use it** — not just what they say.
+            Users are trained hands-on. We watch how they actually use it — not just what they say.
           </p>
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
@@ -122,7 +122,7 @@
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
         <div class="w-full md:w-1/2">
           <p>
-            Most value comes **after launch**. We implement observed improvements:
+            Most value comes after launch. We implement observed improvements:
             <br />
             • Faster workflows<br />
             • Better UX<br />
@@ -131,7 +131,7 @@
         </div>
         <figure class="w-full md:w-1/2 flex flex-col gap-4">
           <p>
-            Clients often see **2–3x the original ROI** after this phase.
+            Clients often see 2–3x the original ROI after this phase.
           </p>
         </figure>
       </div>
