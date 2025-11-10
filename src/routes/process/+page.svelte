@@ -1,16 +1,15 @@
 <script lang="ts">
-  import Column from "../Column.svelte";
-  import Footer from "../Footer.svelte";
-
-  // Map UI choice → route slug
-  const options = [
-    { label: "Tech Entrepreneur", slug: "mvp" },
-    { label: "Artist / Teacher", slug: "personal-brand" },
-    { label: "Enterprise Business", slug: "automation" }
-  ];
-
-  // Client-side redirect (SvelteKit)
+  import Column from "$lib/Column.svelte";
+  import Footer from "$lib/Footer.svelte";
+  import Fa from "svelte-fa/src/fa.svelte";
+  import { faLaptopCode, faPaintBrush, faBuilding } from "@fortawesome/free-solid-svg-icons";
   import { goto } from "$app/navigation";
+
+  const options = [
+    { label: "Tech Entrepreneur", slug: "mvp", icon: faLaptopCode, descr: "Validate Your Product without the need for Outside Investors" },
+    { label: "Artist / Teacher", slug: "personal-brand", icon: faPaintBrush, descr: "Get to Profitability with a completely independent Personal Brand" },
+    { label: "Enterprise Business", slug: "automation", icon: faBuilding, descr: "Understand the low risk, high return method of using software to automate business workflow" }
+  ];
 
   function choose(slug: string) {
     goto(`/process/${slug}`);
@@ -31,17 +30,21 @@
       {#each options as opt}
         <button
           on:click={() => choose(opt.slug)}
-          class="group p-8 bg-white rounded-lg shadow-md hover:shadow-xl transition-all duration-300 text-left flex flex-col items-center text-center"
+          class="group p-8 bg-white rounded-lg shadow-md hover:shadow-xl transition-all duration-300 flex flex-col items-center text-center focus:outline-none focus:ring-2 focus:ring-cyan-500"
         >
+          <!-- Icon -->
           <div class="mb-4 text-5xl text-cyan-600 group-hover:text-cyan-800 transition">
-            <!-- Simple icons – replace with your own if you want -->
-            {#if opt.slug === "mvp"}Code{:else if opt.slug === "personal-brand"}PaintBrush{:else}Building{/if}
+            <Fa icon={opt.icon} />
           </div>
+
+          <!-- Label -->
           <h3 class="text-xl font-semibold text-gray-800 mb-2">
             {opt.label}
           </h3>
+
+          <!-- Subtitle -->
           <p class="text-sm text-gray-600">
-            Click to see the tailored process
+            {opt.descr}
           </p>
         </button>
       {/each}
