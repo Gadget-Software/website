@@ -23,8 +23,8 @@
       </p>
 
       <p class="flex gap-6 justify-center">
-        <a href="/contact" class="btn">
-          Contact Us
+        <a href="#about-us" class="btn">
+          Learn More
         </a>
       </p>
     </div>
