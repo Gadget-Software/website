@@ -21,6 +21,8 @@
         <a href="#about" class="btn">
           Learn More
         </a>
+      </p>
+      <p class="flex gap-6 justify-center">
         on how we can improve your business
         in ways you didn't think possible
       </p>
