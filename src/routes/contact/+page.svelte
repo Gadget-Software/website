@@ -26,11 +26,11 @@
         <li><strong>Consulting & Coaching</strong><br />
           Sessions start at <b>¥25,000/hr</b>. Discounted packages available for longer engagements.
         </li>
-        <li><strong>Marketing</strong><br />
-          Marketing Projects start from <b>¥600,000</b>.
+        <li><strong>Teaching Immersions</strong><br />
+          In-person 5+ day immersions, <b>¥600,000 base</b>, where I take you by the hand, giving you access to my entire knowledge-base, and get you implementing marketing and other business strategies custom tailored to you and your goals. 
         </li>
-        <li><strong>Software</strong><br />
-          Software Projects from <b>¥1,200,000 base</b>, with implementation scoped collaboratively.
+        <li><strong>Done for You Marketing & Software</strong><br />
+          Marketing & Software Projects from <b>¥3,000,000 base</b>, with implementation scoped collaboratively.
         </li>
       </ul>
       <p class="note">I prioritize coaching-led, longer relationships.</p>
