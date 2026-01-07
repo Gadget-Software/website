@@ -26,9 +26,8 @@
         </p>
       </div>
     </div>
-
-    {#if showDisclosure}
-      <section id="commerce-disclosure" class="mt-8 p-4 bg-gray-50 rounded-lg border border-gray-200"> <!-- Styled container for better visuals -->
+    <section id="commerce-disclosure" class="mt-8 p-4 bg-gray-50 rounded-lg border border-gray-200"> <!-- Styled container for better visuals -->
+      {#if showDisclosure}
         <h2 class="text-xl font-semibold mb-4">Commerce Disclosure (Notation Based on the Act on Specified Commercial Transactions)</h2>
         <div class="overflow-x-auto"> <!-- Makes table responsive on mobile -->
           <table class="min-w-full border-collapse border border-gray-300">
@@ -83,7 +82,7 @@
           </table>
         </div>
         <p class="mt-4 text-sm text-gray-600">This disclosure is provided in accordance with Japan's Specified Commercial Transactions Act. Last updated: December 13, 2025.</p>
-      </section>
-    {/if}
+      {/if}
+    </section>
   </Column>
 </footer>
