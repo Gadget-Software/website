@@ -32,14 +32,15 @@
         clients, and what’s actually working for people who are starting, and scaling
         their personal brands.
       </h2>
-      <!-- insert Kit form script -->
-      <div class="mx-auto w-full max-w-xl">
-        <script
-          async
-          data-uid="f702d3cd8c"
-          src="https://sanath-sambamoorthi.kit.com/f702d3cd8c/index.js">
-        </script>
-      </div>
+      <script async
+        src="https://js.stripe.com/v3/buy-button.js">
+      </script>
+      
+      <stripe-buy-button
+        buy-button-id="buy_btn_1Sp43YGz1PAG6fEyUWNjx5P5"
+        publishable-key="pk_live_51SbVFiGz1PAG6fEytPo6YrjWnxYKizd3jrQY7DOogdEzsYxwE9wp69HhhqMJNSBIULH0YPMdoNa0ysrNKEjS4gij000WGx1kna"
+      >
+      </stripe-buy-button>
     </div>
   </div>
 </section>
