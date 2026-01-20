@@ -14,12 +14,11 @@
   <div class="max-w-screen-lg mx-auto px-4">
     <div class="text-center py-14 md:py-24 flex flex-col gap-4 md:gap-6">
       <h1 class="text-3xl md:text-5xl font-semibold leading-tight">
-        Get <span class="text-cyan-300"> New Client Fundamentals Course</span>
+        Your opportunity to join the <span class="text-cyan-300"> New Client Fundamentals Course</span>
       </h1>
       <p class="text-lg md:text-2xl text-cyan-100">
         I am currently booked out, but if are still interested in working with me, this is an incredible primer on my methodology of working.
       </p>
-      <br>
       <br>
       <p class="text-lg md:text-2xl text-cyan-100">
         Delivered over 4 weeks, this is the battle tested output of the last decade of knowledge of taking self development course after self development course. and throwing myself into the fire in every domain of life.
@@ -49,22 +48,6 @@
         publishable-key="pk_live_51SbVFiGz1PAG6fEytPo6YrjWnxYKizd3jrQY7DOogdEzsYxwE9wp69HhhqMJNSBIULH0YPMdoNa0ysrNKEjS4gij000WGx1kna"
       >
       </stripe-buy-button>
-    </div>
-  </div>
-</section>
-
-<!-- reassurance -->
-<section class="bg-cyan-50 text-cyan-900">
-  <div class="max-w-screen-lg mx-auto px-4 py-10 md:py-14">
-    <div class="mx-auto max-w-screen-md bg-white border border-cyan-200 rounded-xl p-5 shadow-sm">
-      <div class="flex items-start gap-3">
-        <div class="h-6 w-6 rounded-full bg-cyan-100 text-cyan-900 grid place-items-center font-bold">
-          ✓
-        </div>
-        <p class="text-cyan-800 text-left">
-          Feel free to contact me via the contact form on this site if you have any insight, questions, or otherwise.
-        </p>
-      </div>
     </div>
   </div>
 </section>
