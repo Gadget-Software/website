@@ -17,7 +17,7 @@
         { title: "Personal Brand for Artists/Independent Teachers", url: "/roadmaps/personal-brand" },
       ]
     },
-    { title: 'Newsletter & Contact', url: '/newsletter', always: true }
+    { title: 'Waitlist//Course', url: '/newsletter', always: true }
   ];
 
 // Mobile menu toggle
