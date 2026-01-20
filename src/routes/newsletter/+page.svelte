@@ -19,7 +19,8 @@
       <p class="text-lg md:text-2xl text-cyan-100">
         I am currently booked out, but if are still interested in working with me, this is an incredible primer on my methodology of working.
       </p>
-      </br>
+      <br>
+      <br>
       <p class="text-lg md:text-2xl text-cyan-100">
         Delivered over 4 weeks, this is the battle tested output of the last decade of knowledge of taking self development course after self development course. and throwing myself into the fire in every domain of life.
       </p>
@@ -34,7 +35,9 @@
       <h2 class="text-2xl md:text-3xl font-semibold">
         After the course is over, I’ll occasionally send you emails with what I’m building, what I’m testing with
         clients, and what’s actually working for people who are starting, and scaling their personal brands. 
-
+        <br><br>
+      </h2>
+      <h2 class="text-2xl md:text-3xl font-semibold">
         Additionally, if client spots open up in the future, this is the list that will be the first to know.
       </h2>
       <script async
