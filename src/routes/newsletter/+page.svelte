@@ -17,11 +17,11 @@
         Your opportunity to join the <span class="text-cyan-300"> New Client Fundamentals Course</span>
       </h1>
       <p class="text-lg md:text-2xl text-cyan-100">
-        I am currently booked out, but if are still interested in working with me, this is an incredible primer on my methodology of working.
+        I am currently booked out, but if are still interested in working with me, this is an incredible primer on my unique methodology.
       </p>
       <br>
       <p class="text-lg md:text-2xl text-cyan-100">
-        Delivered over 4 weeks, this is the battle tested output of the last decade of knowledge of taking self development course after self development course. and throwing myself into the fire in every domain of life.
+        Delivered over 4 weeks, this is the battle tested output of my last decade of knowledge - throwing myself into the fire in every domain of life, and running after mentors to figure out wtf was happening, and why.
       </p>
     </div>
   </div>
