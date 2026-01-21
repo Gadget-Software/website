@@ -14,8 +14,8 @@
         Yo! Sanath here.
       </p>
       <p class="big-text">
-        I fulfill your business needs with a mix of <strong class="text-yellow-200"> incredible coaching, unique software, </strong> and <strong class="text-yellow-200"> battle tested marketing
-        solutions</strong>
+        I help e-commerce businesses add more value, and make more money through the <strong class="text-yellow-200">power of email automations and scripts.</strong> (Oh, and through incredible coaching, unique software, and battle tested marketing
+        solutions)</strong>
       </p>
       <p class="flex gap-6 justify-center">
         <a href="#about" class="btn">
