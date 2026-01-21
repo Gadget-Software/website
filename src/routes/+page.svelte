@@ -53,22 +53,22 @@
       <span class="text-rose-400 font-semibold">monetary failures.</span>
     </p>
     <p>
-      Driven by the pain of clients spending 5, and sometimes 6 figures USD on projects, and not getting the ROI I wanted for them, I recognized a significant gap in their project cycle, revolving around marketing, awareness, and their customer relationships.
+      Driven by the pain of clients spending 5, and sometimes 6 figures USD on projects, and not getting the ROI I wanted for them, I started noticing gaps around marketing knowledge, awareness of their business-related strengths and weaknesses, and lack of depth in their customer relationships.
     </p>
     <p>
-      Even though I am still astounded by software's ability to automate and power to scale, the recognition that this is not enough to create great businesses has pushed me into focusing on marketing education. Even with technology, unless you are someone who is on the absolute bleeding edge of the market, the primary issues you are solving are still human, and not technical in nature.
+      And with the advent of AI, new platforms and SaaS businesses now having the ability to be created at the snap of a finger - software, by itself is no longer a competitive advantage, at a all.
     </p>
     <p>
-      So, I spent years educating myself, and experimenting, hours a day, tens of thousands of dollars invested, in understanding direct to consumer marketing so that a client would never have to go through an experience of investing money into a project, or their business, for no return, again.
+      It's enough to feel backed into corner. So what did I do?
     </p>
     <p>
-       And, amazingly, with a deep understanding of the material, I have had the priviledge and luck to work with amazing clients spanning extremely varied industries.
+      I saw the iceberg coming, and instead of panicking, I spent a few <bold>years</bold> educating myself, and experimenting, hours a day, tens of thousands of dollars invested, in understanding direct to consumer marketing and psychology. 
     </p>
     <p>
-      Through this, I've developed a very unique methodology - my assistance in your marketing and promotion is extremely custom - I take time to deeply understand you, your business, your strengths and weaknesses, and through that process work collaboratively on things step, by step.
+       And, amazingly I found that all this u-turn in my education did, was make me an unstoppable force in your business. From being able to identify low hanging fruit to make your marketing more successful, to automating away menial error prone tasks - I can walk into any marketing department, observe what they are doing, and make them either more efficient, increase topline revenue, and most likely, do both.
     </p>
     <p>
-       Developing self-awareness, and awareness of your situation is core to the process, so I keep a trusting, open space where information is held private, allowing you to speak frankly, be vulnerable with yourself, and discover where positive change and movement can actually occur. The financial results are one of many benefits to be derived.
+       Developing awareness of your situation is core to the process, so I keep a trusting, open space where information is held private, allowing us to have a frank dialogue, and discover where positive change and movement can actually occur. The financial results are one of many benefits to be derived.
     </p>
     <p>
        I only work with a handful of people at a time. So if you are interested, reach out to check my availability.
@@ -78,7 +78,7 @@
         <div>
           <img
             class="rounded-full w-20 border-2 border-white"
-            alt="Picture of Sanath Sambamoorthi, Founder at Gadget Software"
+            alt="Picture of Sanath Sambamoorthi"
             src="/sanath-pic-min.jpg" />
         </div>
         <div>
@@ -88,16 +88,5 @@
       </div>
     </div>
   </Column>
-
-  <section class="bg-cyan-600 text-white py-10 md:py-20">
-    <Column contentClass="flex flex-col items-center gap-6">
-      <a class="px-4 py-2 text-2xl md:px-6 md:py-4 md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded" href="/roadmaps">
-        <h2 id="book-a-call" class="big-text alt text-center">
-          Still Resonating? Check out the <strong>Success Roadmaps</strong> I made for you.
-        </h2>
-      </a>
-    </Column>
-  </section>
-</section>
 
 <Footer />
