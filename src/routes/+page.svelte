@@ -14,8 +14,7 @@
         Yo! Sanath here.
       </p>
       <p class="big-text">
-        I help e-commerce businesses add more value, and make more money through the <strong class="text-yellow-200">power of email automations and scripts.</strong> (Oh, and through incredible coaching, unique software, and battle tested marketing
-        solutions) :)
+        I help e-commerce businesses add more value, and make more money through the <strong class="text-yellow-200">power of email automations and scripts.</strong> 
       </p>
       <p class="flex gap-6 justify-center">
         <a href="#about" class="btn">
@@ -23,8 +22,7 @@
         </a>
       </p>
       <p class="flex gap-6 justify-center">
-        on how we can improve your business
-        in ways you didn't think possible
+        (Oh, and I also offer incredible coaching, unique software, and battle tested marketing solutions) :)
       </p>
     </div>
     <div class="h-56"></div>
@@ -56,16 +54,19 @@
       Driven by the pain of clients spending 5, and sometimes 6 figures USD on projects, and not getting the ROI I wanted for them, I started noticing gaps around marketing knowledge, awareness of their business-related strengths and weaknesses, and lack of depth in their customer relationships.
     </p>
     <p>
-      And with the advent of AI, new platforms and SaaS businesses now having the ability to be created at the snap of a finger - software, by itself is no longer a competitive advantage, at a all.
+      And with the advent of AI, new platforms and SaaS businesses now having the ability to be created at the snap of a finger - software, by itself is no longer a competitive advantage, at all.
     </p>
     <p>
-      It's enough to feel backed into corner. So what did I do?
+       So what did I do?
     </p>
     <p>
       I saw the iceberg coming, and instead of panicking, I spent a few <bold>years</bold> educating myself, and experimenting, hours a day, tens of thousands of dollars invested, in understanding direct to consumer marketing and psychology. 
     </p>
     <p>
-       And, amazingly I found that all this u-turn in my education did, was make me an unstoppable force in your business. From being able to identify low hanging fruit to make your marketing more successful, to automating away menial error prone tasks - I can walk into any marketing department, observe what they are doing, and make them either more efficient, increase topline revenue, and most likely, do both.
+       And, amazingly I found that all this u-turn in my education did, was make me an unstoppable force in your business.
+    </p>
+    <p>
+       From being able to identify low hanging fruit to make your marketing more successful, to automating away menial error prone tasks - I can walk into any marketing department, observe what they are doing, and make them either more efficient, increase topline revenue, or most likely, do both.
     </p>
     <p>
        Developing awareness of your situation is core to the process, so I keep a trusting, open space where information is held private, allowing us to have a frank dialogue, and discover where positive change and movement can actually occur. The financial results are one of many benefits to be derived.
