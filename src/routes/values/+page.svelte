@@ -1,7 +1,7 @@
 <script>
-  import Column from "../../Column.svelte";
-  import Footer from "../../Footer.svelte";
-  import TestimonialCard from "../../testimonials/TestimonialCard.svelte";
+  import Column from "../Column.svelte";
+  import Footer from "../Footer.svelte";
+  import TestimonialCard from "../testimonials/TestimonialCard.svelte";
 </script>
 
 <svelte:head>
