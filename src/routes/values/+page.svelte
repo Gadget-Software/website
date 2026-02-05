@@ -125,13 +125,13 @@ It's not always easy to discern where the lesson is, but there's always somethin
 <section class="bg-cyan-600 text-white py-10 md:py-20">
   <Column contentClass="flex flex-col items-center gap-6 text-center">
     <h2 class="big-text alt">
-      Ready to build your brand? <strong>Let’s build it together</strong>
+      I'm currently full on coaching students right now, but if this resonates with you, you can check out my multi-months long course, and reach out to me at the end of it.
     </h2>
     <a
-      href="/contact"
+      href="/newsletter"
       class="px-6 py-4 text-2xl md:text-3xl border-2 border-cyan-500 hover:bg-cyan-500 rounded transition"
     >
-      Contact Sanath
+      Check it out Here
     </a>
   </Column>
 </section>
