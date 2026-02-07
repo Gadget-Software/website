@@ -11,40 +11,32 @@
 <section class="bg-gray-50 py-10">
   <Column>
     <h2 class="big-text text-center text-cyan-800">
-      Personal Brand Roadmap
+      Core Values
     </h2>
 
     <TestimonialCard title="1. Life, and our circumstances are leaving clues. To live, and to discover a path forward, is to pay close attention to those circumstances.">
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
-        <div class="w-full md:w-1/2">
+        <div class="w-full">
           <p>
            There are reasons why your life is what it is, or that you have struggles that are repeating themselves, your desires are what they are, and that your challenges are what they are. If you pay close enough attention to the patterns, to when you get distracted away from what you attend, to when your emotional response is overblown, or when you pass on clear opportunities for no rational reason - this represents a golden thread you can follow.
           </p>
         </div>
-        <figure class="w-full md:w-1/2 flex flex-col gap-4">
-          <p>
-          </p>
-        </figure>
       </div>
     </TestimonialCard>
 
     <TestimonialCard title="2. Goal accomplishment is a pathway for growth, self discovery, and ultimately, freedom.">
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
-        <div class="w-full md:w-1/2">
+        <div class="w-full">
           <p>
 Most people start and stop with wanting something, when it comes to goal achievement. You can can still win this way, which is cool, but it misses out on actually the major gains, which are developing skills that will support you for life, be given an opportunity to learn more about the world and yourself, an opportunity to let go of things that no longer serve you and see things with greater truth and clarity.
           </p>
         </div>
-        <figure class="w-full md:w-1/2 flex flex-col gap-4">
-          <p>
-          </p>
-        </figure>
       </div>
     </TestimonialCard>
 
     <TestimonialCard title="3. All work and no play makes _______ a dull __________.">
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
-        <div class="w-full md:w-1/2">
+        <div class="w-full">
           <p>
   Rest, inspiration, and developing a love of life is mandatory, not optional. I don't believe that running yourself into the ground every day is admirable, nor even necessarily helpful for long term success. 
 
@@ -56,18 +48,12 @@ Most people start and stop with wanting something, when it comes to goal achieve
 
 	Learn how to enjoy the whole ride, and a byproduct is a subtle mastery of yourself, your energy, and is yet another avenue for self discovery and interesting content.          </p>
         </div>
-        <figure class="w-full md:w-1/2 flex flex-col gap-4">
-          <p>
-            Do whatever it takes to be consistent. Treat this as a skill - learning how to find people who resonate with you is a mix of being yourself to the absolute max, and also communicating in a way that's likely to cut through the noise.
-            Getting good at this gives you the keys to the kingdom, because most people who are great at a craft, tend to refuse to do enough promotion, despite having tremendous amounts to offer.
-          </p>
-        </figure>
       </div>
     </TestimonialCard>
 
     <TestimonialCard title="4. Accountability, Feedback, Measurement, without any self judgement whatsoever is how you step into real movement forward in an area of life.">
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
-        <div class="w-full md:w-1/2">
+        <div class="w-full">
           <p>
  	All of us fear real feedback. Our minds have built our blindspots for a reason - there is something that is blocking the view, and often times it is rooted in an avoidance of some kind of pain. 
 
@@ -76,31 +62,24 @@ Most people start and stop with wanting something, when it comes to goal achieve
 	The easiest way to do this is with hard numbers. Did you do it, or did you not? Why? Be honest with yourself. This is invaluable data. Creating a standard, and being willing to compare what you wanted to do with what actually happened by measuring it in some way.
           </p>
         </div>
-        <figure class="w-full md:w-1/2 flex flex-col gap-4">
-          <p>
-          </p>
-        </figure>
       </div>
     </TestimonialCard>
 
     <TestimonialCard title="5. You win, or you learn. There is no failure, only feedback, always.">
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
-        <div class="w-full md:w-1/2">
+        <div class="w-full">
           <p>
 It's not always easy to discern where the lesson is, but there's always something there. Spend time looking at things that didn't work out how you expected or wanted, and you can learn something, about yourself, your perception, about humans, or the world.
 
 	Take that lesson and apply it, and see what happens. More winning, more learning.
           </p>
         </div>
-        <figure class="w-full md:w-1/2 flex flex-col gap-4">
-          <p>          </p>
-        </figure>
       </div>
     </TestimonialCard>
 
     <TestimonialCard title="6. Coaching is the modality to help you get direction and get you following the golden threads that can take you on this fascinating journey into yourself. Therapy, or other appropriate healing modalities allow you to find the root balls at the ends of the thread, that when awareness is brought to, can make the largest impact on ones life.">
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
-        <div class="w-full md:w-1/2">
+        <div class="w-full">
           <p>
            	The clients that have the easiest time making positive changes or introducing new habits,that will inevitably be required by, and contribute to their success, are usually engaging in some sort of therapy practice in the care of a teacher, in addition to all the other stuff talked about here.
 
@@ -113,10 +92,6 @@ It's not always easy to discern where the lesson is, but there's always somethin
 	Sorry, not sorry.
           </p>
         </div>
-        <figure class="w-full md:w-1/2 flex flex-col gap-4">
-          <p>
-          </p>
-        </figure>
       </div>
     </TestimonialCard>
   </Column>
@@ -125,7 +100,7 @@ It's not always easy to discern where the lesson is, but there's always somethin
 <section class="bg-cyan-600 text-white py-10 md:py-20">
   <Column contentClass="flex flex-col items-center gap-6 text-center">
     <h2 class="big-text alt">
-      I'm currently full on coaching students right now, but if this resonates with you, you can check out my multi-months long course, and reach out to me at the end of it.
+      I'm currently full on coaching students right now, but if this resonates with you, you can check out my course.
     </h2>
     <a
       href="/newsletter"
