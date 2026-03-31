@@ -1,2 +1,4 @@
 # Allow build scripts for dependencies
 hoist=true
+ignore-scripts=false
+
