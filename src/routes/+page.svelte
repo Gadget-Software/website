@@ -14,7 +14,7 @@
         Yo! Sanath here.
       </p>
       <p class="big-text">
-        I make web applications from scratch for entrepreneurs, and help organizations with digital transformation <strong class="text-yellow-200">that puts humanity first</strong> 
+        I build web applications and facilitate digital transformation <strong class="text-yellow-200">that puts humanity first</strong> 
       </p>
       <p class="flex gap-6 justify-center">
         <a href="#about" class="btn">
