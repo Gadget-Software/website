@@ -37,15 +37,5 @@
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
     "classnames": "^2.3.2",
     "svelte-fa": "^3.0.3"
-  },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "@fortawesome/fontawesome-common-types",
-      "@fortawesome/free-solid-svg-icons",
-      "@sveltejs/kit",
-      "esbuild",
-      "node-sass",
-      "svelte-preprocess"
-    ]
   }
 }
