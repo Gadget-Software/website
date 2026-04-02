@@ -1,7 +1,6 @@
-onlyBuiltDependencies:
-  - '@fortawesome/fontawesome-common-types'
-  - '@fortawesome/free-solid-svg-icons'
-  - '@sveltejs/kit'
-  - esbuild
-  - node-sass
-  - svelte-preprocess
+allowBuilds:
+  '@fortawesome/fontawesome-common-types': true
+  '@fortawesome/free-solid-svg-icons': true
+  '@sveltejs/kit': true
+  esbuild: true
+  svelte-preprocess: true
