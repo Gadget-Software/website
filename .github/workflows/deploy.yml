@@ -22,10 +22,10 @@ jobs:
       - uses: actions/checkout@master
       - uses: pnpm/action-setup@master
         with:
-          version: 9
+          version: 10
       - uses: actions/setup-node@master
         with:
-          node-version: 20
+          node-version: 22
           cache: pnpm
 
       - run: pnpm install --frozen-lockfile
