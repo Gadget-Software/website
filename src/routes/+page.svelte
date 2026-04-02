@@ -28,12 +28,6 @@
     <div class="h-56"></div>
   </Column>
 </div>
-
-<div class="bg-gray-50 pb-10 md:pb-20">
-  <Column class="flex flex-col gap-8">
-  </Column>
-</div>
-
 <section id="about" class="bg-cyan-600 text-white py-10 md:py-20">
   <Column contentClass="max-w-md md:max-w-screen-md lg:max-w-screen-lg xl:max-w-screen-xl flex flex-col gap-4 text-lg px-4">
     <p class="big-text">
