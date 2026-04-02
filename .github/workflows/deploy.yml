@@ -28,7 +28,7 @@ jobs:
           node-version: 20
           cache: pnpm
 
-      - run: pnpm install --frozen-lockfile --allow-build=@fortawesome/fontawesome-common-types@6.4.0,@fortawesome/free-solid-svg-icons@6.4.0,@sveltejs/kit@1.15.5,esbuild@0.17.16,node-sass@8.0.0,svelte-preprocess@5.0.3
+      - run: pnpm install --frozen-lockfile
       - run: pnpm run build
       - run: ls -la build
 
