@@ -178,7 +178,7 @@
 
     <VideoTestimonialCard
       title="Order fulfillment automation for an e-commerce business"
-      videoId="xkzmm07zSuo"
+      videoId="DLA3MVCdYko"
     >
       <figure class="flex flex-col gap-4">
         <p>
