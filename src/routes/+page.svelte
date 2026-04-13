@@ -25,7 +25,7 @@
         (Oh, and I also offer incredible coaching, and battle tested marketing solutions) :)
       </p>
     </div>
-    <div class="h-56"></div>
+    <div class=""></div>
   </Column>
 </div>
 <section id="about" class="bg-cyan-600 text-white py-10 md:py-20">
