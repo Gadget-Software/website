@@ -30,6 +30,41 @@
       Case studies
     </h2>
 
+    <Mp4TestimonialCard
+      title="Personal Injury AI helper"
+      mp4Src="injurlyai.mp4"
+      gifSrc="injurlyai.gif"
+      gifAlt="A walkthrough of the Injurly.ai application"
+      reverse={true}
+    >
+      <figure class="flex flex-col gap-4">
+        <p>
+        I set out to build an app for years but for whatever reason the app development side never came together. 
+        </p>
+
+        <p>
+        Sanath came in as a trusted advisor, and with a storm of energy, with Eduan on the technical side, when the opportunity arose over a period of 3 months, they helped assemble together an AI, text message, and email enabled application.
+        </p>
+
+        <p>
+        Throughout the process Sanath was extremely attentive to extracting my decades of knowledge in the personal industry space and wonderfully collaborative at problem solving various pieces of automating the workflow. 
+        </p>
+
+        <p>
+        Although I was extremely busy balancing other obligations during this time period, he worked around my schedule and prioritized the important parts to ensure a clear value delivery. 
+        </p>
+
+        <p>
+        Although I have little experience in the web development space, he held my hand through the experience and operated as a world class coach. It felt more like a hero's journey, or a psychedelic odyssey into the unknown with a guide, than a traditional experience working with a vendor. Highly recommended.
+        </p>
+        <figcaption class="text-right italic pr-16">
+          Ramish Reddy,<br />
+          Injurly.ai
+        </figcaption>
+      </figure>
+    </Mp4TestimonialCard>
+
+
     <TestimonialCard title="AI-powered Shopping Assistant Startup">
       <div class="flex flex-col md:flex-row justify-between items-start gap-8">
         <div class="w-full md:w-1/2">
