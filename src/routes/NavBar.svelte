@@ -17,7 +17,7 @@
         { title: "Personal Brand for Artists/Independent Teachers", url: "/roadmaps/personal-brand" },
       ]
     },
-    { title: 'Waitlist//Course', url: '/newsletter', always: true },
+    { title: 'Instagram Training', url: '/newsletter', always: true },
     { title: 'Core Values', url: '/values', always: true }
   ];
 
