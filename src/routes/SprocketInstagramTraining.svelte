@@ -171,7 +171,7 @@
 <!-- features + benefits -->
 <section class="bg-white text-cyan-900">
   <div class="max-w-screen-lg mx-auto px-4 py-12 md:py-20">
-    <h2 class="section-title text-center">Features + Benefits</h2>
+    <h2 class="section-title text-center">What's in it for you?</h2>
     <div class="grid gap-6 md:grid-cols-2 mt-8">
       {#each features as feature}
         <div class="feature-card">
