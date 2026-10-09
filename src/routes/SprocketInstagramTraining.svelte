@@ -9,6 +9,8 @@
   let contentBudget = "";
   let valuesCommunication = "";
   let whatsappNumber = "";
+  const FORMSPREE = "https://formspree.io/f/mwpndjey";
+  const VSL_ID = "k08gEChaUqs";
 
   let submitting = false;
   let submitted = false;
@@ -74,30 +76,36 @@
     submitting = true;
     error = "";
 
-    const message = buildMessage();
+    const body = new FormData();
+    body.set("_subject", "New Sprocket Instagram Training Application");
+    body.set("igProfile", igProfile);
+    body.set("postDaily", postDaily);
+    body.set("openToFeedback", openToFeedback);
+    body.set("offer", offer);
+    body.set("targetMonthlyRevenue", targetMonthlyRevenue);
+    body.set("contentBudget", contentBudget);
+    body.set("valuesCommunication", valuesCommunication);
+    body.set("whatsappNumber", whatsappNumber);
+    body.set("message", buildMessage());
 
     try {
-      const res = await fetch("https://formspree.io/f/mwpndjey", {
+      const res = await fetch(FORMSPREE, {
         method: "POST",
-        headers: { Accept: "application/json", "Content-Type": "application/json" },
-        body: JSON.stringify({
-          subject: "New Sprocket Instagram Training Application",
-          igProfile,
-          postDaily,
-          openToFeedback,
-          offer,
-          targetMonthlyRevenue,
-          contentBudget,
-          valuesCommunication,
-          whatsappNumber,
-          message,
-        }),
+        headers: { Accept: "application/json" },
+        body
       });
-      if (!res.ok) throw new Error("Submission failed");
+      const data = await res.json().catch(() => ({}));
+      if (!res.ok || data?.ok === false) {
+        const detail =
+          data?.errors?.map((err: { message?: string }) => err.message).filter(Boolean).join(" ") ||
+          data?.error ||
+      `Submission failed (${res.status})`;
+      throw new Error(detail);
+      }
 
       submitted = true;
     } catch (err) {
-      error = "Something went wrong submitting the form. Please try again.";
+      error = err instanceof Error ? err.message : "Something went wrong submitting the form. Please try again.";
     } finally {
       submitting = false;
     }
@@ -139,6 +147,15 @@
         A small, hands-on group for people who are serious about posting consistently, refining their
         message, and turning Instagram into a real driver of their business.
       </p>
+      <div class="vsl">
+        <iframe
+           src="https://www.youtube-nocookie.com/embed/{VSL_ID}?rel=0&modestbranding=1&playsinline=1"
+           title="Sprocket Instagram Training"
+           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+           allowfullscreen
+           loading="lazy"
+        ></iframe>
+      </div>
       <a href="#apply" class="cta-button">Apply Now</a>
     </div>
   </div>
@@ -332,6 +349,22 @@
     color: #7dd3fc;
     margin: -0.5rem 0 0 0;
   }
+  .vsl {
+    width: min(340px, 86vw);
+    aspect-ratio: 9 / 16;
+    max-height: 72vh;
+    border-radius: 16px;
+    overflow: hidden;
+    background: #000;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+    border: 3px solid #ffd23f;
+  }
+  .vsl iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+    display: block;
+  }
 
   .cta-button {
     display: inline-block;
@@ -483,6 +516,13 @@
     font-weight: 500;
     gap: 0.4em;
     color: #23272f;
+  }
+
+  .hp {
+    position: absolute;
+    left: -9999px;
+    height: 0;
+    overflow: hidden;
   }
 
   .contact-form input[type="text"],
