@@ -9,6 +9,7 @@
   let contentBudget = "";
   let valuesCommunication = "";
   let whatsappNumber = "";
+  
   const FORMSPREE = "https://formspree.io/f/mwpndjey";
   const VSL_ID = "k08gEChaUqs";
 
