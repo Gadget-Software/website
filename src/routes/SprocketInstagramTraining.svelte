@@ -157,66 +157,6 @@
   </div>
 </section>
 
-<!-- who it's for / not for -->
-<section class="bg-gray-50 text-cyan-900">
-  <div class="max-w-screen-lg mx-auto px-4 py-12 md:py-20">
-    <div class="grid gap-8 md:grid-cols-2">
-      <div class="fit-card fit-yes">
-        <h2>This is for you if...</h2>
-        <ul>
-          {#each whoFor as item}
-            <li><span class="mark yes">✓</span>{item}</li>
-          {/each}
-        </ul>
-      </div>
-      <div class="fit-card fit-no">
-        <h2>This is not for you if...</h2>
-        <ul>
-          {#each whoNotFor as item}
-            <li><span class="mark no">✗</span>{item}</li>
-          {/each}
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- features + benefits -->
-<section class="bg-white text-cyan-900">
-  <div class="max-w-screen-lg mx-auto px-4 py-12 md:py-20">
-    <h2 class="section-title text-center">What&apos;s in it for you?</h2>
-    <div class="grid gap-6 md:grid-cols-2 mt-8">
-      {#each features as feature}
-        <div class="feature-card">
-          <h3>{feature.title}</h3>
-          <p>{feature.body}</p>
-        </div>
-      {/each}
-    </div>
-  </div>
-</section>
-
-<!-- testimonial -->
-<section class="bg-gray-50 text-cyan-900">
-  <div class="max-w-screen-lg mx-auto px-4 py-12 md:py-20">
-    <h2 class="section-title text-center">What members say</h2>
-    <blockquote class="testimonial mt-8">
-      <p>
-        "Your proactive approach is effective. Thank you for inviting me - it was quite helpful for my process.
-        I'm not sure I would've gotten two reels past 80,000 views in the past few days if you didn't push back
-        on my excuses when you talked about posting dailies. I'd never even heard that term before. Thank you
-        for being tough on me - besides myself, I've never had anyone tough with me when it comes to getting
-        things done. Because my results are usually good, I think I underestimate that part of the process
-        sometimes."
-      </p>
-      <p>
-        "Thank you for being real with your thoughts when communicating with me. I took it as objectively
-        constructive."
-      </p>
-      <footer>- Sprocket member, two reels past 80K views in one week after joining</footer>
-    </blockquote>
-  </div>
-</section>
 
 <section class="bg-white text-cyan-900">
   <div class="max-w-screen-lg mx-auto px-4 py-12 md:py-20">
@@ -303,6 +243,66 @@
   </div>
 </section>
 
+<!-- who it's for / not for -->
+<section class="bg-gray-50 text-cyan-900">
+  <div class="max-w-screen-lg mx-auto px-4 py-12 md:py-20">
+    <div class="grid gap-8 md:grid-cols-2">
+      <div class="fit-card fit-yes">
+        <h2>This is for you if...</h2>
+        <ul>
+          {#each whoFor as item}
+            <li><span class="mark yes">✓</span>{item}</li>
+          {/each}
+        </ul>
+      </div>
+      <div class="fit-card fit-no">
+        <h2>This is not for you if...</h2>
+        <ul>
+          {#each whoNotFor as item}
+            <li><span class="mark no">✗</span>{item}</li>
+          {/each}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- features + benefits -->
+<section class="bg-white text-cyan-900">
+  <div class="max-w-screen-lg mx-auto px-4 py-12 md:py-20">
+    <h2 class="section-title text-center">What&apos;s in it for you?</h2>
+    <div class="grid gap-6 md:grid-cols-2 mt-8">
+      {#each features as feature}
+        <div class="feature-card">
+          <h3>{feature.title}</h3>
+          <p>{feature.body}</p>
+        </div>
+      {/each}
+    </div>
+  </div>
+</section>
+
+<!-- testimonial -->
+<section class="bg-gray-50 text-cyan-900">
+  <div class="max-w-screen-lg mx-auto px-4 py-12 md:py-20">
+    <h2 class="section-title text-center">What members say</h2>
+    <blockquote class="testimonial mt-8">
+      <p>
+        "Your proactive approach is effective. Thank you for inviting me - it was quite helpful for my process.
+        I'm not sure I would've gotten two reels past 80,000 views in the past few days if you didn't push back
+        on my excuses when you talked about posting dailies. I'd never even heard that term before. Thank you
+        for being tough on me - besides myself, I've never had anyone tough with me when it comes to getting
+        things done. Because my results are usually good, I think I underestimate that part of the process
+        sometimes."
+      </p>
+      <p>
+        "Thank you for being real with your thoughts when communicating with me. I took it as objectively
+        constructive."
+      </p>
+      <footer>- Sprocket member, two reels past 80K views in one week after joining</footer>
+    </blockquote>
+  </div>
+</section>
 
 <!-- intake form -->
 <section id="apply" class="bg-white text-cyan-900">
