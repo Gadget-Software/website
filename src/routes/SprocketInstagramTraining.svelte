@@ -141,7 +141,7 @@
       </div>
       <p class="mega-subtitle">INSTAGRAM TRAINING</p>
       <p class="text-lg md:text-2xl text-cyan-100 max-w-2xl">
-        You sell transformation. You built an audience. But it is not financially stable enough to go deeper with the work.
+        You sell transformation. You built an audience. But it is not financially stable enough to go deeper with the work, yet.
       </p>
       <div class="vsl">
         <iframe
