@@ -145,8 +145,7 @@
       </div>
       <p class="mega-subtitle">INSTAGRAM TRAINING</p>
       <p class="text-lg md:text-2xl text-cyan-100 max-w-2xl">
-        A small, hands-on group for people who are serious about posting consistently, refining their
-        message, and turning Instagram into a real driver of their business.
+        You sell transformation. You built an audience. But it is not financially stable enough to go deeper with the work.
       </p>
       <div class="vsl">
         <iframe
@@ -222,6 +221,92 @@
     </blockquote>
   </div>
 </section>
+
+<section class="bg-white text-cyan-900">
+  <div class="max-w-screen-lg mx-auto px-4 py-12 md:py-20">
+    <article class="letter">
+      <p class="pull">
+        I'll get you there, by teaching you the secrets of what would have sold, even when you had just 100 followers.
+      </p>
+      <p>In order to be successful selling a product on Instagram, most people think you need:</p>
+      <ul>
+        <li>A massive following</li>
+        <li>A cheap product to sell on Instagram</li>
+        <li>A competitive offer against the market</li>
+      </ul>
+      <p>
+        This is all a mega trap. Unless you are going to meme-ify yourself, it is unlikely you will have the million-plus followers necessary to convert a low-ticket offer easily.
+      </p>
+      <p>
+        Plus, as someone who deeply cares about transformation, you yourself probably don't really care about those things. You likely care a lot more about going deeper with your clients, offering unique value related to your strengths, and being valued in a non-commodified way for the uniqueness of your perspective.
+      </p>
+      <p>
+        But you're blocked. It's highly likely you are in some weird halfway liminal space, where you have an offer, maybe even made a little money here and there. There's a door open to completely doing your own thing, and perhaps you have your foot partially through it, but there's something that's keeping you from getting all the way through.
+      </p>
+      <p>This is a tragedy.</p>
+      <p>
+        Transformational products are needed. Now, more than ever. In the uncertainty of AI, cyberattacks, pandemics, we need more people to realize they are more than what they've been told to think about themselves. And that requires the people who steward these products to put them out there at their highest capacity.
+      </p>
+      <p>
+        Working another job, not being priced high enough, or letting fear and anxiety stop you from doubling down on the signals that this is actually working, is a disaster. No one is going to pick up the slack on our behalf. We need to step up for our own sake, and for the sake of the people around us.
+      </p>
+      <p>
+        But the good news is that it is actually working. In fact, that's the best news. The hardest part is out of the way.
+      </p>
+      <p>
+        Financial abundance, the freedom to choose how you use your time, designing a life for yourself through living your highest contribution. All those things are possible. And it's not just possible for me or someone else. It's possible for you.
+      </p>
+      <p>So now you know that it's possible. How do you get there?</p>
+      <p class="pull">How it works</p>
+      <p>
+        A lot of building a business with predictable revenue is more like going to the gym than most people think. You carve out the time, put in reps, monitor how things are going, and adjust.
+      </p>
+      <p>
+        For your business you will need to take action, track, and receive and implement feedback.
+      </p>
+      <p>
+        Taking action simply boils down to consistently posting content, sending outreach, doing follow-ups, and having sales calls.
+      </p>
+      <p>Tracking means paying attention to how much of every activity is happening.</p>
+      <p>
+        Getting and implementing feedback means problem-solving bottlenecks, noticing trends, experimenting, and doubling down on what's working while cutting the unnecessary away.
+      </p>
+      <p>The issues with a business always boil down to the following:</p>
+      <ul>
+        <li>A lack of enough action</li>
+        <li>Not tracking or paying attention to the numbers related to the funnel</li>
+        <li>Not actively considering the problem, or ways to improve the funnel</li>
+      </ul>
+      <p>
+        If any of these three are missing, you're likely not going to progress at all, other than by sheer luck. Transformation businesses, like the product they sell, require tons of intentionality.
+      </p>
+      <p>My product tackles all three of these.</p>
+      <p>Accountability for posting, and tracking for outreach, follow-ups, and sales interactions.</p>
+      <p>
+        Coaching to help you reflect on your funnel and your ideal customer, and to diagnose and fix any issues you are noticing in the process.
+      </p>
+      <p>Simple? Yes. Ruthlessly effective? Yes.</p>
+      <p>
+        My product is the result of being nearly a year in the lab, trying to figure out how businesses on Instagram actually work, from starting at scratch all the way to being semi-famous.
+      </p>
+      <p>
+        Observing clients as they make their way, and countless conversations with creators, showed me the pathway to consistent profitability. The same fear of posting consistently shows up again later, when people need to engage with their audience more deeply.
+      </p>
+      <p>
+        That's what made me realize that accountability to doing volume, while it seems like the least important part, is actually the most important. The rest follows very naturally, especially as more success is found.
+      </p>
+      <p>
+        Now, even though it is simple, it is not easy. I have brought people into the fold who simply gave up because of how challenging it actually is to be consistent. They get distracted, believe there is another way out that doesn't require as much effort, and disappear.
+      </p>
+      <p>
+        But if you've read this far, you probably recognize you don't have another way out. You have to make this work, whether it's this person or the next person who helps you. Work is no obstacle. You just need direction.
+      </p>
+      <p>I get it. I've been there too. Let's not waste any more time.</p>
+      <p><a href="#apply" class="cta-button">Fill out the form, and let's get to work.</a></p>
+    </article>
+  </div>
+</section>
+
 
 <!-- intake form -->
 <section id="apply" class="bg-white text-cyan-900">
@@ -578,6 +663,42 @@
     color: #444;
     line-height: 1.5;
   }
+.letter {
+  max-width: 42rem;
+  margin: 0 auto;
+}
+
+.letter p,
+.letter li {
+  font-size: 1.125rem;
+  line-height: 1.7;
+  color: #1f2933;
+}
+
+.letter p {
+  margin: 0 0 1.15em 0;
+}
+
+.letter ul {
+  margin: 0 0 1.15em 1.2em;
+  list-style: disc;
+}
+
+.letter li + li {
+  margin-top: 0.35em;
+}
+
+.letter .pull {
+  font-size: 1.45rem;
+  line-height: 1.4;
+  font-weight: 700;
+  color: #0b1730;
+}
+
+.letter .cta-button {
+  margin-top: 0.5em;
+}
+
 </style>
 
 <Footer />
