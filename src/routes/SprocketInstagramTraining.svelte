@@ -184,13 +184,13 @@
         Transformational products are needed. Now, more than ever. In the uncertainty of AI, cyberattacks, pandemics, we need more people to realize they are more than what they've been told to think about themselves. And that requires the people who steward these products to put them out there at their highest capacity.
       </p>
       <p>
-        Working another job, not being priced high enough, or letting fear and anxiety stop you from doubling down on the signals that this is actually working, is a disaster. No one is going to pick up the slack on our behalf. We need to step up for our own sake, and for the sake of the people around us.
+        Working another job, not being priced high enough, or letting fear and anxiety stop you from doubling down on the signals that this is actually working, is a disaster. No one is going to pick up the slack on your behalf. You need to step up for our own sake, and for the sake of the people who see you as a leader.
       </p>
       <p>
-        But the good news is that it is actually working. In fact, that's the best news. The hardest part is out of the way.
+        The good news though, is that you've already gotten the hardest part out of the way. In fact, that's the best news. Even one person purchasing your offer, is a MASSIVE signal that what you are doing is working.
       </p>
       <p>
-        Financial abundance, the freedom to choose how you use your time, designing a life for yourself through living your highest contribution. All those things are possible. And it's not just possible for me or someone else. It's possible for you.
+        Financial abundance, the freedom to choose how you use your time, designing a life for yourself through living your highest contribution. All those things have already revealed themselves to be possible, even if the signal is yet faint. And it's not just possible for someone else. It's possible for you.
       </p>
       <p>So now you know that it's possible. How do you get there?</p>
       <p class="pull">How it works</p>
