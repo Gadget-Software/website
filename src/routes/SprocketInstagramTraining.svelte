@@ -43,10 +43,6 @@
       body: "Regular feedback on your profile from a diverse set of people who've grown real businesses through Instagram, ranging from 10K to 500K+ followers, across a variety of backgrounds and industries.",
     },
     {
-      title: "Free Seminars & Deep Work",
-      body: "Lectures on Instagram, plus deep-work sessions troubleshooting specific problems: writing better hooks, marketing and sales funnels, ideal customer profiles, and more.",
-    },
-    {
       title: "A Real Community",
       body: "A group of motivated, active, engaged people of different account sizes and styles, all posting regularly - raising your standards, inspiring you with their wins, and cheering you on through what can otherwise be a lonely process.",
     },
