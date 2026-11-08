@@ -4,7 +4,7 @@ Everything to build a Svelte project, powered by [`create-svelte`](https://githu
 
 ## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
+If you're seeing this, you've maybe already done this step. Congrats!
 
 ```bash
 # create a new project in the current directory
