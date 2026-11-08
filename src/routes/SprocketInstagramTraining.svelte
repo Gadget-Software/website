@@ -22,8 +22,8 @@
     "You don't want to just be told what to do. You want to notice for yourself what's working and what's not, and you're willing to spend time reviewing your own profile.",
     "You're happy to put in volume and reps - you just need direction and a community to support your action.",
     "You're capable of taking feedback and insight, implementing it, and running with it.",
-    "You want to use Instagram as a real marketing channel for your business, and you're willing to stay focused on it until it works.",
-    "You have an offer - or you're happy to use posting regularly as a chance to figure out what your offer could be.",
+    "You want to use Instagram to actually make enough money to go fulltime, and won't stop until you get there.",
+    "You have an offer, or you have made some money, no matter how small, from your online presence, already.",
   ];
 
   const whoNotFor = [
@@ -40,7 +40,7 @@
     },
     {
       title: "Expert Feedback",
-      body: "Regular feedback on your profile from a diverse set of people who've grown real businesses through Instagram, ranging from 10K to 500K+ followers, across a variety of backgrounds and industries.",
+      body: "Regular feedback identifying YOUR current constraint, giving you resources and knowledge to solve it, immediately.",
     },
     {
       title: "A Real Community",
