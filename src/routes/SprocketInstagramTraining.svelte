@@ -198,7 +198,7 @@
         A lot of building a business with predictable revenue is more like going to the gym than most people think. You carve out the time, put in reps, monitor how things are going, and adjust.
       </p>
       <p>
-        For your business you will need to take action, track, and receive and implement feedback.
+        For you, this means you will need to take action, track, and receive and implement feedback.
       </p>
       <p>
         Taking action simply boils down to consistently posting content, sending outreach, doing follow-ups, and having sales calls.
@@ -214,19 +214,19 @@
         <li>Not actively considering the problem, or ways to improve the funnel</li>
       </ul>
       <p>
-        If any of these three are missing, you're likely not going to progress at all, other than by sheer luck. Transformation businesses, like the product they sell, require tons of intentionality.
+        If any of these three are missing, you're likely not going to progress at all, other than by sheer luck. The level of intentionality into your product, is the same intentionality you have to put into the business.
       </p>
       <p>My product tackles all three of these.</p>
-      <p>Accountability for posting, and tracking for outreach, follow-ups, and sales interactions.</p>
+      <p>Accountability for both posting, and tracking to keep your feet to the fire. Tracking for outreach, follow-ups, and sales interactions.</p>
       <p>
         Coaching to help you reflect on your funnel and your ideal customer, and to diagnose and fix any issues you are noticing in the process.
       </p>
-      <p>Simple? Yes. Ruthlessly effective? Yes.</p>
+      <p>Simple? Yes. Ruthlessly Effective? Yes.</p>
       <p>
-        My product is the result of being nearly a year in the lab, trying to figure out how businesses on Instagram actually work, from starting at scratch all the way to being semi-famous.
+        I came up with thus structure as the result of being nearly a year in the lab, trying to figure out how businesses on Instagram actually work, and watching multiple people go from a from scratch profile to actually making sales with strangers.
       </p>
       <p>
-        Observing clients as they make their way, and countless conversations with creators, showed me the pathway to consistent profitability. The same fear of posting consistently shows up again later, when people need to engage with their audience more deeply.
+        Observing clients over time, and countless conversations with creators, has shown me the pathway to consistent profitability. The same fear of posting consistently at the start shows up again and again, and each time it shows up, it requires leaning in further.
       </p>
       <p>
         That's what made me realize that accountability to doing volume, while it seems like the least important part, is actually the most important. The rest follows very naturally, especially as more success is found.
@@ -235,7 +235,7 @@
         Now, even though it is simple, it is not easy. I have brought people into the fold who simply gave up because of how challenging it actually is to be consistent. They get distracted, believe there is another way out that doesn't require as much effort, and disappear.
       </p>
       <p>
-        But if you've read this far, you probably recognize you don't have another way out. You have to make this work, whether it's this person or the next person who helps you. Work is no obstacle. You just need direction.
+        But if you've read this far, you probably recognize that's not you. Work is no obstacle, the vision is clear, you just need direction.
       </p>
       <p>I get it. I've been there too. Let's not waste any more time.</p>
       <p><a href="#apply" class="cta-button">Fill out the form, and let's get to work.</a></p>
