@@ -11,7 +11,7 @@
   let whatsappNumber = "";
   
   const FORMSPREE = "https://formspree.io/f/mwpndjey";
-  const VSL_ID = "k08gEChaUqs";
+  const VSL_ID = "Aw6d6Aww4MU";
 
   let submitting = false;
   let submitted = false;
@@ -36,7 +36,7 @@
   const features = [
     {
       title: "Active Accountability",
-      body: "A real human will directly message you to prod you into action if you start to fall off or lose motivation - free for those who qualify.",
+      body: "A real human will directly message you to prod you into action if you start to fall off or lose motivation.",
     },
     {
       title: "Expert Feedback",
