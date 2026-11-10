@@ -190,16 +190,16 @@
         The good news though, is that you've already gotten the hardest part out of the way. In fact, that's the best news. Even one person purchasing your offer is a MASSIVE signal that what you're building has real traction.
       </p>
       <p>
-        Financial abundance, the freedom to choose how you use your time, designing a life for yourself through living your highest contribution. All those things have already revealed themselves as possible at your current step.
+        Financial abundance, the freedom to choose how you use your time, designing a life for yourself through living your highest contribution. All those things have already revealed themselves as possible at your current step. There's just one big piece that's missing here.
       </p>
 
-      <p class="pull">Why I can help you bridge that gap</p>
+      <p class="pull">The Hidden Secret of Direct Response Marketing</p>
       <p>
-         So how could I, someone who spent most of their paper career as a Software Engineer, help you with your marketing?
+         Well, what is this secret, and how could someone who spent most of their paper career as a Software Engineer, stumble open it?
       </p>
-      <p>Well... I did something almost no one else does.</p>
+      <p>Let's start with a story of something I did, that almost NO ONE does.</p>
       <p>
-        On a mentor's offhand recommendation, I spent nearly half a decade, across two tiny apartments in Japan, periods of unemployment, and more, studying direct-response copywriting: the study of how individuals, not backed by institutions, did marketing, dating back hundreds of years.
+        On a mentor's offhand recommendation, I was irked enough to spend nearly half a decade going down a rabbit hole, spanning across two tiny apartments in Japan, periods of unemployment, and more, studying direct-response copywriting: the study of how individuals, not backed by institutions, did wildly successful marketing, dating back hundreds of years.
       </p>
       <p>
         In that period, I looked at and hand-copied dozens and dozens of successful ads, many of which were unchanged for years and sold products in the millions of dollars. I practiced speaking them out loud, and finally, most importantly, I applied what I was learning to the tiny software consultancy I was running at the time.
