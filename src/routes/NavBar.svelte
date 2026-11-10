@@ -6,17 +6,17 @@
 
 
   const links: { title: string, url: string, always: boolean }[] = [
-    { title: 'About', url: '/#about', always: true },
-    { title: 'Testimonials', url: '/testimonials', always: true },
-    { title: 'Success Roadmaps', 
-      url: '/roadmaps', 
-      always: true,
-      sublinks: [
-        { title: "Proof of Concept for Startups", url: "/roadmaps/mvp" },
-        { title: "Enterprise RPA/Workflow Automation", url: "/roadmaps/automation" },
-        { title: "Personal Brand for Artists/Independent Teachers", url: "/roadmaps/personal-brand" },
-      ]
-    },
+//    { title: 'About', url: '/#about', always: true },
+    { title: 'Software Testimonials', url: '/testimonials', always: true },
+//    { title: 'Success Roadmaps', 
+//      url: '/roadmaps', 
+//      always: true,
+//      sublinks: [
+//        { title: "Proof of Concept for Startups", url: "/roadmaps/mvp" },
+//        { title: "Enterprise RPA/Workflow Automation", url: "/roadmaps/automation" },
+//        { title: "Personal Brand for Artists/Independent Teachers", url: "/roadmaps/personal-brand" },
+//      ]
+//    },
     { title: 'Instagram Training', url: '/newsletter', always: true },
     { title: 'Core Values', url: '/values', always: true }
   ];
