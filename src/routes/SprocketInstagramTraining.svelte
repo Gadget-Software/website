@@ -184,29 +184,28 @@
         Transformational products are needed. Now, more than ever. In the uncertainty of AI, cyberattacks, pandemics, and the chaos of modern life, we need more people to realize they are more than what they've been told to be.
       </p>
       <p>
-        Working another job, not being priced high enough, or letting fear and anxiety stop you from doubling down on the signals that this is actually working, is a disaster. No one is going to fix your life for you.
+        Working another job, not being priced high enough, or letting fear and anxiety stop you from doubling down on the signals that this is actually working, is a disaster. This is a more stressful zone than before you had started, and the payoff is still seemingly low. Many quit here.
       </p>
       <p>
         The good news though, is that you've already gotten the hardest part out of the way. In fact, that's the best news. Even one person purchasing your offer is a MASSIVE signal that what you're building has real traction.
       </p>
       <p>
-        Financial abundance, the freedom to choose how you use your time, designing a life for yourself through living your highest contribution. All those things have already revealed themselves as possible.
+        Financial abundance, the freedom to choose how you use your time, designing a life for yourself through living your highest contribution. All those things have already revealed themselves as possible at your current step.
       </p>
-      <p>So now you know that it's possible. How do you get there?</p>
 
-      <p class="pull">Why I can help you</p>
+      <p class="pull">Why I can help you bridge that gap</p>
       <p>
-        There are a million people who say they can help you. So how could I help you, when most of my career has been spent as a software engineer?
+         So how could I, someone who spent most of their paper career as a Software Engineer, help you with your marketing?
       </p>
       <p>Well... I did something almost no one else does.</p>
       <p>
-        On a mentor's offhand recommendation, I spent nearly half a decade, across two tiny apartments in Japan, periods of unemployment, and more, studying direct-response copywriting: the study of how individuals—not backed by institutions—did marketing, dating back hundreds of years.
+        On a mentor's offhand recommendation, I spent nearly half a decade, across two tiny apartments in Japan, periods of unemployment, and more, studying direct-response copywriting: the study of how individuals, not backed by institutions, did marketing, dating back hundreds of years.
       </p>
       <p>
-        In that period, I looked at and hand-copied dozens and dozens of successful ads, many of which were unchanged for years and sold products in the millions of dollars. I practiced speaking them out loud, and finally—most importantly—I applied what I was learning to the tiny software consultancy I was running at the time.
+        In that period, I looked at and hand-copied dozens and dozens of successful ads, many of which were unchanged for years and sold products in the millions of dollars. I practiced speaking them out loud, and finally, most importantly, I applied what I was learning to the tiny software consultancy I was running at the time.
       </p>
       <p>
-        I tested direct mailers, Facebook ads, cold email, and even cold calling, and pushed forward with the encouragement of marketing gurus like Dan Kennedy, John Carlton, Joseph Sugarman, Seth Godin, Alex Hormozi, and many others.
+        I tested direct mailers, Facebook ads, cold email, and even cold calling, and pushed forward with the understanding and encouragement of books from marketing gurus like Dan Kennedy, John Carlton, Joseph Sugarman, Seth Godin, Alex Hormozi, and many others.
       </p>
       <p>
         I also spent tens of thousands of dollars on seminars and received one-on-one coaching at several points, forcing myself to understand the perspectives I was missing. There were countless times I was at my last dollar, and instead of exercising sane self-preservation, I sent the money to a coach hoping it would help me get to the next step.
@@ -215,27 +214,27 @@
         To be honest, I'm still not sure why I did that. Maybe it was luck of the draw of having someone draw my attention to it. Maybe it was also the realization that having a normal gig with zero authority was a dead end. For a loose cannon like me, I had no other choice but to learn this stuff.
       </p>
       <p>
-        Eventually, when I was given another tip to think about Instagram for business, I decided to look into it. And then everything came together. A few months after posting every day and thinking deeply about what I wanted to sell, I realized that Instagram—when used correctly—is an all-inclusive platform for high-ticket sales to happen.
+        Eventually, when I was given another tip to think about Instagram for business, I decided to look into it. And then everything came together. A few months after posting every day and thinking deeply about what I was doing, I realized that Instagram, when used correctly, is an all-inclusive platform for high-ticket sales to happen.
       </p>
       <p class="pull">
         Your Instagram is a business card. Your followers are your book of business. Your content, DMs, and calls are your funnel to closing sales.
       </p>
       <p>It's as simple as that. Batteries included.</p>
       <p>
-        Understanding how to orient yourself in this way sometimes takes practice and the right guidance. I am so lucky I had mentors point out my blind spots and stop me from digging holes that would go nowhere—or literally become the hole that is my grave.
+        Understanding how to orient yourself in this way, though, takes practice and the right guidance. I am so, so, so lucky I had mentors point out my blind spots and stop me from digging holes that would go nowhere, or literally become the hole for my grave.
       </p>
       <p>
-        Had I tried to even do this process—something that took me five years to properly understand without tremendous guidance—I likely would have gotten confused, failed, and then spent the rest of my life rationalizing that this stuff doesn't work and that people who do high-ticket sales are scammers.
+        Had I tried to even do this process, something that took me five years to properly understand, without that guidance, I likely would have gotten confused, failed, and then spent the rest of my life rationalizing that this stuff doesn't work and that people who do high-ticket sales are scammers.
       </p>
-      <p>But that doesn't have to be you, and you don't have to pay the price I did either.</p>
+      <p>But that doesn't have to be you, and not for the price that I paid either.</p>
       <p>
         In six months, if you take action, have the right initial positioning, and I keep helping you make adjustments, that five-year process can be condensed to literally one-tenth of the time and done for a fraction of the price I paid.
       </p>
       <p>
-        So whether you want to be first in class in your niche, or just make enough money to focus on other things in life with great financial stability, let's guide you past the burning wreckage of failures and deposit you comfortably to the next step in life.
+        So whether you want to be first in class in your niche, or just make enough money to focus on other things in life with great financial stability, let's guide you past the burning wreckage of failures and deposit you comfortably to a place of prosperity, on your terms.
       </p>
 
-      <p class="pull">How it works</p>
+      <p class="pull">Ok, but how?!</p>
       <p>
         A lot of building a business with predictable revenue is more like going to the gym than most people think. You carve out the time, put in reps, monitor how things are going, and adjust.
       </p>
