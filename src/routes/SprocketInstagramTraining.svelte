@@ -44,11 +44,11 @@
     },
     {
       title: "A Real Community",
-      body: "A group of motivated, active, engaged people of different account sizes and styles, all posting regularly - raising your standards, inspiring you with their wins, and cheering you on through what can otherwise be a lonely process.",
+      body: "A group of motivated, active, engaged people of different account sizes and styles, all posting regularly - raising your standards, inspiring you with their wins, and cheering you on.",
     },
     {
       title: "Discover Your Own Gifts",
-      body: "An ethos of discovering your own strengths and unique gifts, and learning to package them so they help others - and you - come alive through a real process of growth that's tested by, and yields, real results.",
+      body: "An ethos of discovering your own strengths and unique gifts, and learning to package them so they help others - and you - come alive through a real process of growth that's tested by action, reflection, and repetition.",
     },
   ];
 
@@ -96,8 +96,8 @@
         const detail =
           data?.errors?.map((err: { message?: string }) => err.message).filter(Boolean).join(" ") ||
           data?.error ||
-      `Submission failed (${res.status})`;
-      throw new Error(detail);
+          `Submission failed (${res.status})`;
+        throw new Error(detail);
       }
 
       submitted = true;
@@ -174,25 +174,67 @@
         This is all a mega trap. Unless you are going to meme-ify yourself, it is unlikely you will have the million-plus followers necessary to convert a low-ticket offer easily.
       </p>
       <p>
-        Plus, as someone who deeply cares about transformation, you yourself probably don't really care about those things. You likely care a lot more about going deeper with your clients, offering unique value related to your strengths, and being valued in a non-commodified way for the uniqueness of your perspective.
+        Plus, as someone who deeply cares about transformation, you yourself probably don't really care about those things. You likely care a lot more about going deeper with your clients, offering more real value, and creating a more sustainable business that actually fits your life.
       </p>
       <p>
-        But you're blocked. It's highly likely you are in some weird halfway liminal space, where you have an offer, maybe even made a little money here and there. There's a door open to completely doing your own thing, and perhaps you have your foot partially through it, but there's something that's keeping you from getting all the way through.
+        But you're blocked. It's highly likely you are in some weird halfway liminal space, where you have an offer, maybe even made a little money here and there. There's a door open to complete clarity, but you still feel unsure how to move through it.
       </p>
       <p>This is a tragedy.</p>
       <p>
-        Transformational products are needed. Now, more than ever. In the uncertainty of AI, cyberattacks, pandemics, we need more people to realize they are more than what they've been told to think about themselves. And that requires the people who steward these products to put them out there at their highest capacity.
+        Transformational products are needed. Now, more than ever. In the uncertainty of AI, cyberattacks, pandemics, and the chaos of modern life, we need more people to realize they are more than what they've been told to be.
       </p>
       <p>
-        Working another job, not being priced high enough, or letting fear and anxiety stop you from doubling down on the signals that this is actually working, is a disaster. No one is going to pick up the slack on your behalf. You need to step up for our own sake, and for the sake of the people who see you as a leader.
+        Working another job, not being priced high enough, or letting fear and anxiety stop you from doubling down on the signals that this is actually working, is a disaster. No one is going to fix your life for you.
       </p>
       <p>
-        The good news though, is that you've already gotten the hardest part out of the way. In fact, that's the best news. Even one person purchasing your offer, is a MASSIVE signal that what you are doing is working.
+        The good news though, is that you've already gotten the hardest part out of the way. In fact, that's the best news. Even one person purchasing your offer is a MASSIVE signal that what you're building has real traction.
       </p>
       <p>
-        Financial abundance, the freedom to choose how you use your time, designing a life for yourself through living your highest contribution. All those things have already revealed themselves to be possible, even if the signal is yet faint. And it's not just possible for someone else. It's possible for you.
+        Financial abundance, the freedom to choose how you use your time, designing a life for yourself through living your highest contribution. All those things have already revealed themselves as possible.
       </p>
       <p>So now you know that it's possible. How do you get there?</p>
+
+      <p class="pull">Why I can help you</p>
+      <p>
+        There are a million people who say they can help you. So how could I help you, when most of my career has been spent as a software engineer?
+      </p>
+      <p>Well... I did something almost no one else does.</p>
+      <p>
+        On a mentor's offhand recommendation, I spent nearly half a decade, across two tiny apartments in Japan, periods of unemployment, and more, studying direct-response copywriting: the study of how individuals—not backed by institutions—did marketing, dating back hundreds of years.
+      </p>
+      <p>
+        In that period, I looked at and hand-copied dozens and dozens of successful ads, many of which were unchanged for years and sold products in the millions of dollars. I practiced speaking them out loud, and finally—most importantly—I applied what I was learning to the tiny software consultancy I was running at the time.
+      </p>
+      <p>
+        I tested direct mailers, Facebook ads, cold email, and even cold calling, and pushed forward with the encouragement of marketing gurus like Dan Kennedy, John Carlton, Joseph Sugarman, Seth Godin, Alex Hormozi, and many others.
+      </p>
+      <p>
+        I also spent tens of thousands of dollars on seminars and received one-on-one coaching at several points, forcing myself to understand the perspectives I was missing. There were countless times I was at my last dollar, and instead of exercising sane self-preservation, I sent the money to a coach hoping it would help me get to the next step.
+      </p>
+      <p>
+        To be honest, I'm still not sure why I did that. Maybe it was luck of the draw of having someone draw my attention to it. Maybe it was also the realization that having a normal gig with zero authority was a dead end. For a loose cannon like me, I had no other choice but to learn this stuff.
+      </p>
+      <p>
+        Eventually, when I was given another tip to think about Instagram for business, I decided to look into it. And then everything came together. A few months after posting every day and thinking deeply about what I wanted to sell, I realized that Instagram—when used correctly—is an all-inclusive platform for high-ticket sales to happen.
+      </p>
+      <p class="pull">
+        Your Instagram is a business card. Your followers are your book of business. Your content, DMs, and calls are your funnel to closing sales.
+      </p>
+      <p>It's as simple as that. Batteries included.</p>
+      <p>
+        Understanding how to orient yourself in this way sometimes takes practice and the right guidance. I am so lucky I had mentors point out my blind spots and stop me from digging holes that would go nowhere—or literally become the hole that is my grave.
+      </p>
+      <p>
+        Had I tried to even do this process—something that took me five years to properly understand without tremendous guidance—I likely would have gotten confused, failed, and then spent the rest of my life rationalizing that this stuff doesn't work and that people who do high-ticket sales are scammers.
+      </p>
+      <p>But that doesn't have to be you, and you don't have to pay the price I did either.</p>
+      <p>
+        In six months, if you take action, have the right initial positioning, and I keep helping you make adjustments, that five-year process can be condensed to literally one-tenth of the time and done for a fraction of the price I paid.
+      </p>
+      <p>
+        So whether you want to be first in class in your niche, or just make enough money to focus on other things in life with great financial stability, let's guide you past the burning wreckage of failures and deposit you comfortably to the next step in life.
+      </p>
+
       <p class="pull">How it works</p>
       <p>
         A lot of building a business with predictable revenue is more like going to the gym than most people think. You carve out the time, put in reps, monitor how things are going, and adjust.
@@ -214,7 +256,7 @@
         <li>Not actively considering the problem, or ways to improve the funnel</li>
       </ul>
       <p>
-        If any of these three are missing, you're likely not going to progress at all, other than by sheer luck. The level of intentionality into your product, is the same intentionality you have to put into the business.
+        If any of these three are missing, you're likely not going to progress at all, other than by sheer luck. The level of intentionality into your product, is the same intentionality you have to bring to the process itself.
       </p>
       <p>My product tackles all three of these.</p>
       <p>Accountability for both posting, and tracking to keep your feet to the fire. Tracking for outreach, follow-ups, and sales interactions.</p>
@@ -223,16 +265,16 @@
       </p>
       <p>Simple? Yes. Ruthlessly Effective? Yes.</p>
       <p>
-        I came up with thus structure as the result of being nearly a year in the lab, trying to figure out how businesses on Instagram actually work, and watching multiple people go from a from scratch profile to actually making sales with strangers.
+        I came up with this structure as the result of being nearly a year in the lab, trying to figure out how businesses on Instagram actually work, and watching multiple people go from a bit of traction to real profitability.
       </p>
       <p>
-        Observing clients over time, and countless conversations with creators, has shown me the pathway to consistent profitability. The same fear of posting consistently at the start shows up again and again, and each time it shows up, it requires leaning in further.
+        Observing clients over time, and countless conversations with creators, has shown me the pathway to consistent profitability. The same fear of posting consistently at the start shows up again and again.
       </p>
       <p>
-        That's what made me realize that accountability to doing volume, while it seems like the least important part, is actually the most important. The rest follows very naturally, especially as more success is found.
+        That's what made me realize that accountability to doing volume—while it seems like the least important part—is actually the most important. The rest follows very naturally, especially when you have the right offer and messaging.
       </p>
       <p>
-        Now, even though it is simple, it is not easy. I have brought people into the fold who simply gave up because of how challenging it actually is to be consistent. They get distracted, believe there is another way out that doesn't require as much effort, and disappear.
+        Now, even though it is simple, it is not easy. I have brought people into the fold who simply gave up because of how challenging it actually is to be consistent. They get distracted, believe their excuses, and stall out.
       </p>
       <p>
         But if you've read this far, you probably recognize that's not you. Work is no obstacle, the vision is clear, you just need direction.
